@@ -1,0 +1,17 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "SecretEntrance",
+    "NakedGrobo",
+    "SupAgent",
+    "Esmer"
+  ],
+  "zoneNames": [
+    "to_central_area",
+    "cam_room",
+    "to_secret_room",
+    "hole",
+    "elevator_placement"
+  ]
+}

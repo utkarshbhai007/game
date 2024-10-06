@@ -1,0 +1,22 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "Kashes1",
+    "Kashes2",
+    "Kashes3",
+    "Kashes4",
+    "Mushrooms1",
+    "Mushrooms2",
+    "Mushrooms3",
+    "Mushrooms4"
+  ],
+  "zoneNames": [
+    "cam_room",
+    "spike_trap1",
+    "spike_trap2",
+    "spike_trap3",
+    "spike_trap4",
+    "to_temple_of_bu"
+  ]
+}

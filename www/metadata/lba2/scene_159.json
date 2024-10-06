@@ -1,0 +1,21 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "Door1",
+    "Door2",
+    "Door3",
+    "Chest",
+    "CandlePointer1",
+    "CandlePointer2",
+    "CandlePointer3",
+    "StanleyOpar"
+  ],
+  "zoneNames": [
+    "to_top_left1",
+    "to_top_left3",
+    "to_middle3",
+    "cam_room",
+    "fireplace"
+  ]
+}

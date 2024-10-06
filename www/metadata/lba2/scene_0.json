@@ -1,0 +1,45 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "CellarDoor",
+    "SendellPortrait",
+    "Zoe",
+    "Zoe2"
+  ],
+  "zoneNames": [
+    "table",
+    "to_cellar",
+    "cellar_door",
+    "bed_table",
+    "exit",
+    "library_2",
+    "secret_msg",
+    "main_door",
+    "library_1",
+    "window",
+    "zoe_portrait",
+    "cam_bedroom",
+    "flowers",
+    "pencil_pot",
+    "paint_bucket",
+    "cam_baby_room"
+  ],
+  "varcubes": [
+    {
+      "name": "cellar_door_opened",
+      "type": "boolean"
+    },
+    {
+      "name": "zoe_talked",
+      "type": "boolean"
+    },
+    {
+      "name": "unused_var2"
+    },
+    {
+      "name": "said_hello",
+      "type": "boolean"
+    }
+  ]
+}

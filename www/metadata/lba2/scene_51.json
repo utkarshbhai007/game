@@ -1,0 +1,21 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "Snake1",
+    "Snake2",
+    "Mushrooms",
+    "Mushroom1",
+    "Mushroom2",
+    "Bat",
+    null,
+    "Spider"
+  ],
+  "zoneNames": [
+    "to_lower_outside",
+    "to_upper_outside",
+    "exit",
+    "entrance",
+    "corridor"
+  ]
+}

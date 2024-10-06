@@ -1,0 +1,24 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "TokenSlot",
+    "InformationDevice",
+    "Door",
+    "Spacesuit",
+    null,
+    "Translator"
+  ],
+  "zoneNames": [
+    "cam_upstairs",
+    "cam_downstairs",
+    "control_panel",
+    "cam_entrance",
+    "to_landing_zone",
+    "ladder",
+    "tourist_information",
+    "spacesuit",
+    "hidden_spot",
+    "entrance"
+  ]
+}

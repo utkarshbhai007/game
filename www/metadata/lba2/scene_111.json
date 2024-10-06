@@ -1,0 +1,15 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "WannieMiner",
+    "PickWannieMiner",
+    "Gem"
+  ],
+  "zoneNames": [
+    "to_mine1",
+    "upper_entrance",
+    "to_mine2",
+    "to_access_to_fragment_room"
+  ]
+}

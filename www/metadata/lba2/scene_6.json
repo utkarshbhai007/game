@@ -1,0 +1,33 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "Arrow1",
+    "Arrow2",
+    "Arrow3",
+    "Arrow4",
+    "ProtopackBox",
+    "GatheringDevice",
+    "Elevator1",
+    "Switch1",
+    "Elevator2",
+    "Elevator3",
+    "Switch2",
+    "Elevator4",
+    "Elevator5",
+    "Switch3",
+    "Switch4",
+    "Airscrew",
+    "Door1",
+    "BaggageRabibunny",
+    "PushingDevice1",
+    "PushingDevice2",
+    "PushingDevice3",
+    "PushingDevice4",
+    "Carlo",
+    "Switch5",
+    "Switch6",
+    "Door2",
+    "CardboardBox"
+  ]
+}

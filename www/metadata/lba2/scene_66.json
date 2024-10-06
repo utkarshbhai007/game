@@ -1,0 +1,38 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "Peddler",
+    "CactusAgent",
+    "TwinsensCar",
+    "EsmerRobot",
+    "Mine1",
+    "Mine2",
+    "Mine3",
+    "Mine4",
+    "Mine5",
+    "Mine6",
+    "Mine7",
+    "Mine8",
+    "Mine9",
+    "Mine10",
+    "Mine11"
+  ],
+  "zoneNames": [
+    "to_esmer_landing_zone",
+    "to_temple_of_bu",
+    "to_graveyard",
+    "to_between_hacienda_and_landing_zone",
+    "bald_mountain_signal_front",
+    "palm",
+    "cactus1_bonus",
+    "cemetery_signal_front",
+    "cemetery_signal_back",
+    "bald_mountain_signal_back",
+    "temple_signal_front",
+    "temple_signal_back",
+    "cactus2_bonus",
+    "cactus1",
+    "cactus2"
+  ]
+}

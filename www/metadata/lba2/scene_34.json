@@ -1,0 +1,22 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "Pointer",
+    "SendellBall",
+    "Candle1",
+    "Candle2",
+    "Candle3",
+    "Candle4",
+    "Candle5",
+    "Candle6",
+    "Candle7",
+    "Candle8",
+    "Candle9",
+    "Candle10"
+  ],
+  "zoneNames": [
+    "to_sewers",
+    "cam_room"
+  ]
+}

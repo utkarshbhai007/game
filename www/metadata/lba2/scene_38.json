@@ -1,0 +1,23 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "MrBaldino",
+    "Radio",
+    "MemoryViewer",
+    "Note"
+  ],
+  "zoneNames": [
+    "ladder",
+    "chest",
+    "telescope",
+    "cam_upstairs",
+    "cam_downstairs",
+    "to_town_square",
+    "candle",
+    "radio",
+    "paper_rolls",
+    null,
+    "blackboard"
+  ]
+}

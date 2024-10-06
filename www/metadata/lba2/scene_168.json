@@ -1,0 +1,27 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "Door",
+    "Light1",
+    "Light2",
+    "Light3",
+    "MetallicDoor1",
+    "MetallicDoor2",
+    "MetallicDoor3",
+    "Spacesuit",
+    "AlarmedFrancoGuard",
+    "AlarmButton",
+    "Fan"
+  ],
+  "zoneNames": [
+    "to_radar_room",
+    "to_switches_building_area",
+    "cam_room",
+    "radar_room_door",
+    "metallic_doors",
+    "spacesuit_area",
+    "alarm_button",
+    "fire_extinguisher"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "WeatherWizard",
+    "Gate",
+    "TabataIllusion",
+    "TabataPointer",
+    "Pot",
+    "Switch",
+    "Pointer1",
+    "Note",
+    "Pointer2",
+    "Pointer3"
+  ],
+  "zoneNames": [
+    "table",
+    "gap_to_sewers",
+    "to_sewers",
+    "magical_tabata",
+    "cam_entrance",
+    "pot",
+    "entrance_hall",
+    null,
+    "to_outside",
+    "cam_room",
+    "bersimon_diploma",
+    "gate_opener"
+  ],
+  "varcubes": [
+    {
+      "name": "said_hello"
+    },
+    null,
+    null,
+    null,
+    {
+      "name": "gate_opened"
+    },
+    null,
+    {
+      "name": "tabata_interaction"
+    },
+    {
+      "name": "pot_boiling"
+    },
+    {
+      "name": "tabata_anim_finished"
+    }
+  ]
+}

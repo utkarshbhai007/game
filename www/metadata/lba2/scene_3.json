@@ -1,0 +1,148 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "CellarDoor",
+    "QuetchCustomer",
+    "DrunkRabibunny",
+    "Luc",
+    "Tim",
+    "Fab",
+    "Pat",
+    "Pointer",
+    "LifePointsVending",
+    "MagicPointsVending",
+    "Dispenser",
+    "Jukebox1",
+    "Jukebox2",
+    "Chains",
+    "SupAgent1",
+    "SupAgent2",
+    "DrunkFrancoSkate",
+    "FishBull",
+    "SupAgent3",
+    "SupAgent4"
+  ],
+  "varcubes": [
+    {
+      "name": "serve_customer",
+      "type": "enum",
+      "enumValues": {
+        "0": "nobody",
+        "1": "quetch_customer",
+        "2": "drunk_rabibunny",
+        "3": "fab"
+      }
+    },
+    {
+      "name": "twinsen_stole_cash",
+      "type": "boolean"
+    },
+    {
+      "name": "twinsen_talking_to",
+      "type": "enum",
+      "enumValues": {
+        "0": "nobody",
+        "1": "tim",
+        "2": "luc",
+        "3": "quetch_customer",
+        "4": "drunk_rabibunny",
+        "5": "fab",
+        "6": "pat"
+      }
+    },
+    {
+      "name": "correct_music_option",
+      "type": "boolean"
+    },
+    {
+      "name": "cellar_door_opened",
+      "type": "boolean"
+    },
+    {
+      "name": "pat_seated",
+      "type": "boolean"
+    },
+    {
+      "name": "jukebox_music",
+      "type": "enum",
+      "enumValues": {
+        "0": "nothing",
+        "1": "honey_bee",
+        "2": "lba_theme",
+        "3": "the_empire"
+      }
+    },
+    {
+      "name": "jukebox_last_music_choice",
+      "type": "enum",
+      "enumValues": {
+        "0": "nothing",
+        "1": "honey_bee",
+        "2": "lba_theme",
+        "3": "the_empire"
+      }
+    },
+    {
+      "name": "said_hello_to_luc",
+      "type": "boolean"
+    },
+    {
+      "name": "tim_busy",
+      "type": "enum",
+      "enumValues": {
+        "0": "busy",
+        "1": "attending_quetch_customer",
+        "2": "attending_drunk_rabibunny",
+        "3": "attending_fab"
+      }
+    },
+    {
+      "name": "said_hello_to_tim",
+      "type": "boolean"
+    },
+    {
+      "name": "pat_previous_track_recall",
+      "type": "boolean"
+    },
+    {
+      "name": "said_hello_to_quetch_customer",
+      "type": "boolean"
+    },
+    {
+      "name": "said_hello_to_drunk_rabibunny",
+      "type": "boolean"
+    },
+    {
+      "name": "said_hello_to_fab",
+      "type": "boolean"
+    },
+    {
+      "name": "said_hello_to_pat",
+      "type": "boolean"
+    },
+    {
+      "name": "luc_previous_track_recall",
+      "type": "boolean"
+    },
+    {
+      "name": "esmer_attack",
+      "type": "boolean"
+    }
+  ],
+  "zoneNames": [
+    "cellar_door",
+    "to_cellar",
+    "flower_pot1",
+    "jukebox",
+    "flower_pot2",
+    "flower_pot3",
+    "exit",
+    "cam_second_floor",
+    "cam_first_floor",
+    "cam_cellar_front",
+    "twinsen_poster",
+    "cam_bar_top_side",
+    "barrel"
+  ]
+}

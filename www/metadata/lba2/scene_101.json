@@ -1,0 +1,27 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "WannieMiner",
+    "Schmoutz",
+    "WannieKid",
+    "WannieChef",
+    "FireflyTart1",
+    "RedBall",
+    "HalfEatenFireflyTart",
+    "FireflyTart2",
+    "WanniesGlove",
+    "AnimatedFan"
+  ],
+  "zoneNames": [
+    "cam_entrance",
+    "cam_table",
+    "to_church_building",
+    "food_pot",
+    "chest",
+    "flower_pot",
+    "schmoutz_jail",
+    "shelf",
+    "monster_painting"
+  ]
+}

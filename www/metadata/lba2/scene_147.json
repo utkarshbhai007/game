@@ -1,0 +1,22 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "FakeBookshelf",
+    "ShopAttendant",
+    "MecaPenguinOnDisplay",
+    "LifePointsVending",
+    "MagicPointsVending",
+    "WizardDiploma",
+    "FerryTicket",
+    "Umbrella",
+    "MemoryViewer",
+    "FakeShopAttendant"
+  ],
+  "zoneNames": [
+    "to_town_square",
+    "to_secret_room",
+    "fake_bookshelf",
+    "cam_room"
+  ]
+}

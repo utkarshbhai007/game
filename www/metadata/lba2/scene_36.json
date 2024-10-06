@@ -1,0 +1,18 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "Clerk",
+    "MecaPinguinOnDisplay",
+    "Holomap",
+    "Darts",
+    "LifePointsVending",
+    "MagicPointsVending",
+    "GallicAcid"
+  ],
+  "zoneNames": [
+    "cam_room",
+    "golden_candle_holder",
+    "to_town_square"
+  ]
+}

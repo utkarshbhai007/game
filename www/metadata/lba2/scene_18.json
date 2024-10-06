@@ -1,0 +1,13 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "Chest"
+  ],
+  "zoneNames": [
+    "cam_room",
+    "to_sewers",
+    "barrel",
+    "treasure_chest"
+  ]
+}

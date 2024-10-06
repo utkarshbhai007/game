@@ -1,0 +1,37 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "Elevator1",
+    "Elevator2",
+    "HiddenItem1",
+    "HiddenItem2",
+    "HiddenItem3",
+    "HiddenItem4",
+    "HiddenItem5",
+    "HiddenItem6",
+    "HiddenItem7",
+    "HiddenItem8",
+    "HiddenItem9",
+    "HiddenItem10",
+    "HiddenItem11",
+    "HiddenItem12",
+    "HiddenItem13",
+    "HiddenItem14",
+    "HiddenItem15",
+    "HiddenItem16",
+    "HiddenItem17",
+    "HiddenItem18",
+    "HiddenItem19",
+    "HiddenItem20",
+    "HiddenItem21",
+    "WalrusGasMonster",
+    "BlueGasMonster"
+  ],
+  "zoneNames": [
+    "to_emperor_room_left_elevator",
+    "left_elevator",
+    "to_emperor_room_right_elevator",
+    "right_elevator"
+  ]
+}

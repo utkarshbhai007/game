@@ -1,0 +1,28 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "Gem1",
+    "Gem2",
+    "Gem3",
+    "GiantTorch1",
+    "TorchFireballs1",
+    "LavaPlatform1",
+    "LavaPlatform2",
+    "LavaPlatform3",
+    "LavaPlatform4",
+    "LavaPlatform5",
+    "GiantTorch2",
+    "TorchFireballs2",
+    "LavaPointer"
+  ],
+  "zoneNames": [
+    "to_ferryman_area",
+    "to_mountain_top",
+    "to_cave",
+    "cam_near_torch1",
+    "cam_way_back_precipice1",
+    "cam_near_lava_river_boulder",
+    "cam_way_back_precipice2"
+  ]
+}

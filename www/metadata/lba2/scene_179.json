@@ -1,0 +1,29 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "ImperialElevator",
+    "WheelLock",
+    "MachineGun",
+    "FrancoSoldier1",
+    "FrancoSoldier2",
+    "FrancoSoldier3",
+    "ArmoredDoor1",
+    "CloverBox",
+    "ImperialLockedDoor",
+    "KeyBox",
+    "FrancoSoldier4",
+    "FrancoSoldier5",
+    "FrancoSoldier6",
+    "ArmoredDoor2"
+  ],
+  "zoneNames": [
+    "to_outside",
+    "to_switches_room_entrance",
+    "to_switches_room_exit",
+    "to_emperor_room",
+    "armored_door1",
+    "armored_door2",
+    "door_to_emperor_room"
+  ]
+}

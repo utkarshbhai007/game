@@ -1,0 +1,5701 @@
+{
+  "0": {
+    "2": {
+      "mirror": true
+    },
+    "3": {
+      "replace": true,
+      "file": "CI_003_004_wall_deco_2_joins.glb",
+      "orientation": 0
+    },
+    "4": {
+      "replace": true,
+      "file": "CI_003_004_wall_deco_2_joins.glb",
+      "orientation": 1
+    },
+    "5": {
+      "replace": true,
+      "file": "CI_005_006_007_008_wall_deco_1_join.glb",
+      "orientation": 1
+    },
+    "6": {
+      "replace": true,
+      "file": "CI_005_006_007_008_wall_deco_1_join.glb",
+      "orientation": 3
+    },
+    "7": {
+      "replace": true,
+      "file": "CI_005_006_007_008_wall_deco_1_join.glb",
+      "orientation": 2
+    },
+    "8": {
+      "replace": true,
+      "file": "CI_005_006_007_008_wall_deco_1_join.glb",
+      "orientation": 0
+    },
+    "9": {
+      "replace": true,
+      "file": "CI_009_010_011_012_wall_deco_L_join.glb",
+      "orientation": 1
+    },
+    "10": {
+      "replace": true,
+      "file": "CI_009_010_011_012_wall_deco_L_join.glb",
+      "orientation": 3
+    },
+    "11": {
+      "replace": true,
+      "file": "CI_009_010_011_012_wall_deco_L_join.glb",
+      "orientation": 0
+    },
+    "12": {
+      "replace": true,
+      "file": "CI_009_010_011_012_wall_deco_L_join.glb",
+      "orientation": 2
+    },
+    "13": {
+      "replace": true,
+      "file": "CI_013_wall_deco_4_joins.glb",
+      "orientation": 0
+    },
+    "14": {
+      "replace": true,
+      "file": "CI_014_016_017_wall_deco_3_joins.glb",
+      "orientation": 0
+    },
+    "16": {
+      "replace": true,
+      "file": "CI_014_016_017_wall_deco_3_joins.glb",
+      "orientation": 3
+    },
+    "17": {
+      "replace": true,
+      "file": "CI_014_016_017_wall_deco_3_joins.glb",
+      "orientation": 1
+    },
+    "18": {
+      "replace": true,
+      "file": "CI_018_019_wall_deco_vert_2_joins.glb",
+      "orientation": 0
+    },
+    "19": {
+      "replace": true,
+      "file": "CI_018_019_wall_deco_vert_2_joins.glb",
+      "orientation": 1
+    },
+    "20": {
+      "replace": true,
+      "file": "CI_020_021_022_023_wall_deco_vert_1_join.glb",
+      "orientation": 3
+    },
+    "21": {
+      "replace": true,
+      "file": "CI_020_021_022_023_wall_deco_vert_1_join.glb",
+      "orientation": 2
+    },
+    "22": {
+      "replace": true,
+      "file": "CI_020_021_022_023_wall_deco_vert_1_join.glb",
+      "orientation": 1
+    },
+    "23": {
+      "replace": true,
+      "file": "CI_020_021_022_023_wall_deco_vert_1_join.glb",
+      "orientation": 0
+    },
+    "24": {
+      "replace": true,
+      "file": "CI_024_025_026_027_wall_deco_round_corner_L_blue.glb",
+      "orientation": 1
+    },
+    "25": {
+      "replace": true,
+      "file": "CI_024_025_026_027_wall_deco_round_corner_L_blue.glb",
+      "orientation": 3
+    },
+    "26": {
+      "replace": true,
+      "file": "CI_024_025_026_027_wall_deco_round_corner_L_blue.glb",
+      "orientation": 0
+    },
+    "27": {
+      "replace": true,
+      "file": "CI_024_025_026_027_wall_deco_round_corner_L_blue.glb",
+      "orientation": 2
+    },
+    "28": {
+      "replace": true,
+      "file": "CI_028_flower_pot.glb",
+      "orientation": 0
+    },
+    "29": {
+      "replace": true,
+      "file": "CI_029_tall_lamp.glb",
+      "orientation": 0
+    },
+    "30": {
+      "mirror": true,
+      "orientation": 3
+    },
+    "31": {
+      "replace": true,
+      "file": "CI_031_tomatoes.glb",
+      "orientation": 0
+    },
+    "32": {
+      "mirror": true
+    },
+    "33": {
+      "mirror": true
+    },
+    "34": {
+      "mirror": true
+    },
+    "35": {
+      "mirror": true
+    },
+    "36": {
+      "replace": true,
+      "file": "CI_036_038_040_wall_deco_round_corner_no_wood_gray.glb",
+      "orientation": 1
+    },
+    "37": {
+      "replace": true,
+      "file": "CI_037_039_041_043_wall_deco_round_corner_I_gray.glb",
+      "orientation": 1
+    },
+    "38": {
+      "replace": true,
+      "file": "CI_036_038_040_wall_deco_round_corner_no_wood_gray.glb",
+      "orientation": 3
+    },
+    "39": {
+      "replace": true,
+      "file": "CI_037_039_041_043_wall_deco_round_corner_I_gray.glb",
+      "orientation": 3
+    },
+    "40": {
+      "replace": true,
+      "file": "CI_036_038_040_wall_deco_round_corner_no_wood_gray.glb",
+      "orientation": 0
+    },
+    "41": {
+      "replace": true,
+      "file": "CI_037_039_041_043_wall_deco_round_corner_I_gray.glb",
+      "orientation": 0
+    },
+    "43": {
+      "replace": true,
+      "file": "CI_037_039_041_043_wall_deco_round_corner_I_gray.glb",
+      "orientation": 2
+    },
+    "45": {
+      "mirror": true
+    },
+    "47": {
+      "replace": true,
+      "file": "CI_047_048_chair.glb",
+      "orientation": 0
+    },
+    "48": {
+      "replace": true,
+      "file": "CI_047_048_chair.glb",
+      "orientation": 3
+    },
+    "49": {
+      "replace": true,
+      "file": "CI_047_048_chair.glb",
+      "orientation": 1
+    },
+    "50": {
+      "replace": true,
+      "file": "CI_047_048_chair.glb",
+      "orientation": 2
+    },
+    "51": {
+      "replace": true,
+      "file": "CI_051_table.glb",
+      "orientation": 0
+    },
+    "53": {
+      "replace": true,
+      "file": "CI_053_054_bed.glb",
+      "orientation": 3
+    },
+    "54": {
+      "replace": true,
+      "file": "CI_053_054_bed.glb",
+      "orientation": 0
+    },
+    "55": {
+      "replace": true,
+      "file": "CI_055_056_057_058_armchair.glb",
+      "orientation": 0
+    },
+    "56": {
+      "replace": true,
+      "file": "CI_055_056_057_058_armchair.glb",
+      "orientation": 1
+    },
+    "57": {
+      "replace": true,
+      "file": "CI_055_056_057_058_armchair.glb",
+      "orientation": 2
+    },
+    "58": {
+      "replace": true,
+      "file": "CI_055_056_057_058_armchair.glb",
+      "orientation": 3
+    },
+    "59": {
+      "mirror": true
+    },
+    "60": {
+      "mirror": true
+    },
+    "65": {
+      "replace": true,
+      "file": "CI_065_books.glb",
+      "orientation": 0
+    },
+    "67": {
+      "replace": true,
+      "file": "CI_067_books_long.glb",
+      "orientation": 0
+    },
+    "68": {
+      "replace": true,
+      "file": "CI_068_books_horizontal_reversed.glb",
+      "orientation": 3
+    },
+    "69": {
+      "replace": true,
+      "file": "CI_069_books_horizontal.glb",
+      "orientation": 0
+    },
+    "70": {
+      "replace": true,
+      "file": "CI_070_books_tilted.glb",
+      "orientation": 3
+    },
+    "71": {
+      "replace": true,
+      "file": "CI_071_books_tilted_reversed.glb",
+      "orientation": 0
+    },
+    "72": {
+      "replace": true,
+      "file": "CI_072_books_reversed.glb",
+      "orientation": 3
+    },
+    "73": {
+      "replace": true,
+      "file": "CI_073_books_medium.glb",
+      "orientation": 3
+    },
+    "74": {
+      "replace": true,
+      "file": "CI_074_books_long_reversed.glb",
+      "orientation": 3
+    },
+    "76": {
+      "replace": true,
+      "file": "CI_076_boat_mockup.glb",
+      "orientation": 0
+    },
+    "78": {
+      "replace": true,
+      "file": "CI_078_079_cupboard.glb",
+      "orientation": 1
+    },
+    "79": {
+      "replace": true,
+      "file": "CI_078_079_cupboard.glb",
+      "orientation": 0
+    },
+    "80": {
+      "mirror": true
+    },
+    "81": {
+      "mirror": true
+    },
+    "84": {
+      "replace": true,
+      "file": "CI_084_plate_stack.glb",
+      "orientation": 0
+    },
+    "85": {
+      "replace": true,
+      "file": "CI_085_single_plate.glb",
+      "orientation": 0
+    },
+    "86": {
+      "replace": true,
+      "file": "CI_086_candlestick.glb",
+      "orientation": 0
+    },
+    "89": {
+      "replace": true,
+      "file": "CI_089_090_small_wall_lamp.glb",
+      "orientation": 0
+    },
+    "90": {
+      "replace": true,
+      "file": "CI_089_090_small_wall_lamp.glb",
+      "orientation": 3
+    },
+    "91": {
+      "replace": true,
+      "file": "CI_091_stool.glb",
+      "orientation": 0
+    },
+    "93": {
+      "mirror": true
+    },
+    "96": {
+      "replace": true,
+      "file": "CI_096_097_098_099_stairs.glb",
+      "orientation": 0
+    },
+    "97": {
+      "replace": true,
+      "file": "CI_096_097_098_099_stairs.glb",
+      "orientation": 3
+    },
+    "98": {
+      "replace": true,
+      "file": "CI_096_097_098_099_stairs.glb",
+      "orientation": 1
+    },
+    "99": {
+      "replace": true,
+      "file": "CI_096_097_098_099_stairs.glb",
+      "orientation": 2
+    },
+    "101": {
+      "replace": true,
+      "file": "CI_101_funfrock_statue.glb",
+      "orientation": 0
+    },
+    "102": {
+      "replace": true,
+      "file": "CI_102_barrel.glb",
+      "orientation": 0
+    },
+    "104": {
+      "replace": true,
+      "file": "CI_104_open_book.glb",
+      "orientation": 0
+    },
+    "105": {
+      "replace": true,
+      "file": "CI_105_106_shelf.glb",
+      "orientation": 0
+    },
+    "106": {
+      "replace": true,
+      "file": "CI_105_106_shelf.glb",
+      "orientation": 3
+    },
+    "109": {
+      "replace": true,
+      "file": "CI_109_classic_wall_lamp.glb",
+      "orientation": 0
+    },
+    "111": {
+      "replace": true,
+      "file": "CI_111_box.glb",
+      "orientation": 0
+    },
+    "112": {
+      "replace": true,
+      "file": "CI_112_desk.glb",
+      "orientation": 0
+    },
+    "113": {
+      "replace": true,
+      "file": "CI_113_cloth_bench.glb",
+      "orientation": 0
+    },
+    "114": {
+      "replace": true,
+      "file": "CI_114_radio_broadcaster.glb",
+      "orientation": 0
+    },
+    "117": {
+      "replace": true,
+      "file": "CI_117_paper_rolls_container.glb",
+      "orientation": 0
+    },
+    "119": {
+      "replace": true,
+      "file": "CI_119_127_128_book_glass_cabinet.glb",
+      "orientation": 0
+    },
+    "120": {
+      "replace": true,
+      "file": "CI_120_tunic_glass_cabinet_bottom.glb",
+      "orientation": 0
+    },
+    "121": {
+      "replace": true,
+      "file": "CI_121_tunic_glass_cabinet_top.glb",
+      "orientation": 0
+    },
+    "122": {
+      "mirror": true
+    },
+    "123": {
+      "replace": true,
+      "file": "CI_123_bloop_boxes.glb",
+      "orientation": 0
+    },
+    "124": {
+      "replace": true,
+      "file": "CI_124_arrow_sign.glb",
+      "orientation": 0
+    },
+    "126": {
+      "mirror": true
+    },
+    "127": {
+      "replace": true,
+      "file": "CI_119_127_128_book_glass_cabinet.glb",
+      "orientation": 1
+    },
+    "128": {
+      "replace": true,
+      "file": "CI_119_127_128_book_glass_cabinet.glb",
+      "orientation": 2
+    },
+    "133": {
+      "replace": true,
+      "file": "CI_133_desk_bell.glb",
+      "orientation": 0
+    },
+    "134": {
+      "replace": true,
+      "file": "CI_134_cash_register.glb",
+      "orientation": 0
+    },
+    "136": {
+      "replace": true,
+      "file": "CI_136_surveillance_system.glb",
+      "orientation": 0
+    },
+    "137": {
+      "replace": true,
+      "file": "CI_137_swivel_chair.glb",
+      "orientation": 0
+    },
+    "138": {
+      "replace": true,
+      "file": "CI_138_cables.glb",
+      "orientation": 0
+    },
+    "139": {
+      "replace": true,
+      "file": "CI_139_cables.glb",
+      "orientation": 0
+    },
+    "142": {
+      "mirror": true
+    },
+    "143": {
+      "mirror": true
+    },
+    "146": {
+      "replace": true,
+      "file": "CI_146_padded_stool.glb",
+      "orientation": 0
+    },
+    "147": {
+      "replace": true,
+      "file": "CI_147_round_table.glb",
+      "orientation": 0
+    },
+    "148": {
+      "mirror": false
+    },
+    "150": {
+      "mirror": true
+    },
+    "152": {
+      "mirror": true
+    },
+    "153": {
+      "mirror": true
+    },
+    "154": {
+      "mirror": true
+    },
+    "155": {
+      "replace": true,
+      "file": "CI_155_unrolled_paper.glb",
+      "orientation": 0
+    },
+    "156": {
+      "replace": true,
+      "file": "CI_156_three_paper_rolls.glb",
+      "orientation": 0
+    },
+    "157": {
+      "replace": true,
+      "file": "CI_157_paper_roll.glb",
+      "orientation": 0
+    },
+    "158": {
+      "replace": true,
+      "file": "CI_158_wall_deco_round_corner_no_wood_blue.glb",
+      "orientation": 0
+    },
+    "159": {
+      "mirror": true
+    },
+    "161": {
+      "mirror": true
+    },
+    "162": {
+      "mirror": true
+    },
+    "163": {
+      "replace": true,
+      "file": "CI_163_paint_bucket.glb",
+      "orientation": 3
+    },
+    "164": {
+      "replace": true,
+      "file": "CI_164_wood_stairs.glb",
+      "orientation": 0
+    },
+    "165": {
+      "replace": true,
+      "file": "CI_165_pencil_jar.glb",
+      "orientation": 0
+    },
+    "170": {
+      "mirror": true
+    },
+    "171": {
+      "mirror": true
+    },
+    "173": {
+      "replace": true,
+      "file": "CI_173_surveillance_system_control.glb",
+      "orientation": 0
+    },
+    "22:1x1x1:74": {
+      "replace": true,
+      "file": "CI_020_021_022_023_wall_deco_vert_1_join.glb",
+      "orientation": 1
+    },
+    "23:1x1x1:1873": {
+      "replace": true,
+      "file": "CI_020_021_022_023_wall_deco_vert_1_join.glb",
+      "orientation": 0
+    },
+    "22:1x1x1:73": {
+      "replace": true,
+      "file": "CI_020_021_022_023_wall_deco_vert_1_join.glb",
+      "orientation": 1
+    },
+    "105:1x1x2:542,544": {
+      "replace": true,
+      "file": "CI_105_shelf_var1.glb",
+      "orientation": 0
+    },
+    "65:1x2x2:496,497,496,497": {
+      "replace": true,
+      "file": "CI_065_books_var1.glb",
+      "orientation": 0
+    },
+    "106:4x1x1:349,350,350,351": {
+      "replace": true,
+      "file": "CI_106_shelf_long_var1.glb",
+      "orientation": 0
+    },
+    "73:1x2x1:267,269": {
+      "replace": true,
+      "file": "CI_073_books_var1.glb",
+      "orientation": 0
+    },
+    "74:1x2x1:272,275": {
+      "replace": true,
+      "file": "CI_074_books_var1.glb",
+      "orientation": 0
+    },
+    "22:1x3x1:73,73,74": {
+      "replace": true,
+      "file": "CI_022_wall_deco_vert_1_joint_var3.glb",
+      "orientation": 3
+    },
+    "78:1x2x3:276,278,279,281,282,284": {
+      "replace": true,
+      "file": "CI_078_079_cupboard_var1.glb",
+      "orientation": 0
+    },
+    "79:2x3x1:285,287,288,290,291,293": {
+      "replace": true,
+      "file": "CI_079_cupboard_var1.glb",
+      "orientation": 0
+    },
+    "79:4x3x1:285,286,286,287,288,289,289,290,291,292,292,293": {
+      "replace": true,
+      "file": "CI_079_cupboard_var2.glb",
+      "orientation": 0
+    },
+    "79:5x3x2:-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,291,292,292,292,293,285,286,286,286,287,288,289,289,289,290,291,292,292,292,293": {
+      "replace": true,
+      "file": "CI_079_huge_cupboard_var3.glb",
+      "orientation": 0
+    },
+    "79:3x2x1:285,286,287,291,292,293": {
+      "replace": true,
+      "file": "CI_078_079_cupboard_var1.glb",
+      "orientation": 3
+    }
+  },
+  "1": {
+    "1": {
+      "mirror": true
+    },
+    "2": {
+      "mirror": true
+    },
+    "3": {
+      "mirror": true
+    },
+    "7": {
+      "replace": true,
+      "file": "SE_007_crystal_ball_pillar.glb",
+      "orientation": 0
+    },
+    "8": {
+      "replace": true,
+      "file": "SE_008_pillar.glb",
+      "orientation": 0
+    },
+    "9": {
+      "replace": true,
+      "file": "SE_009_barrel.glb",
+      "orientation": 0
+    },
+    "11": {
+      "mirror": true
+    },
+    "15": {
+      "mirror": true
+    },
+    "16": {
+      "mirror": true
+    },
+    "17": {
+      "mirror": true
+    },
+    "18": {
+      "mirror": true
+    },
+    "19": {
+      "mirror": true
+    },
+    "20": {
+      "mirror": true
+    },
+    "21": {
+      "replace": true,
+      "file": "SE_021_022_pillar_capital.glb",
+      "orientation": 0
+    },
+    "22": {
+      "replace": true,
+      "file": "SE_021_022_pillar_capital.glb",
+      "orientation": 1
+    },
+    "23": {
+      "replace": true,
+      "file": "SE_023_skull.glb",
+      "orientation": 0
+    },
+    "24": {
+      "replace": true,
+      "file": "SE_024_026_027_029_prison_bars.glb",
+      "orientation": 0
+    },
+    "25": {
+      "replace": true,
+      "file": "SE_025_028_prison_bars_wall.glb",
+      "orientation": 0
+    },
+    "26": {
+      "replace": true,
+      "file": "SE_024_026_027_029_prison_bars.glb",
+      "orientation": 2
+    },
+    "27": {
+      "replace": true,
+      "file": "SE_024_026_027_029_prison_bars.glb",
+      "orientation": 1
+    },
+    "28": {
+      "replace": true,
+      "file": "SE_025_028_prison_bars_wall.glb",
+      "orientation": 1
+    },
+    "29": {
+      "replace": true,
+      "file": "SE_024_026_027_029_prison_bars.glb",
+      "orientation": 3
+    },
+    "54": {
+      "mirror": true
+    },
+    "55": {
+      "mirror": true
+    },
+    "56": {
+      "mirror": true
+    },
+    "57": {
+      "mirror": true
+    },
+    "74": {
+      "replace": true,
+      "file": "SE_074_chain.glb",
+      "orientation": 0
+    },
+    "76": {
+      "replace": true,
+      "file": "SE_076_spiral_stalagmites.glb",
+      "orientation": 0
+    },
+    "77": {
+      "replace": true,
+      "file": "SE_077_spiral_stalagmites.glb",
+      "orientation": 0
+    },
+    "78": {
+      "replace": true,
+      "file": "SE_078_spiral_stalagmites.glb",
+      "orientation": 1
+    },
+    "79": {
+      "replace": true,
+      "file": "SE_079_spiral_stalagmite.glb",
+      "orientation": 0
+    },
+    "80": {
+      "replace": true,
+      "file": "SE_080_spiral_stalagmite_small.glb",
+      "orientation": 0
+    },
+    "82": {
+      "replace": true,
+      "file": "SE_082_083_wall_spiral_stalagmites.glb",
+      "orientation": 0
+    },
+    "83": {
+      "replace": true,
+      "file": "SE_082_083_wall_spiral_stalagmites.glb",
+      "orientation": 3
+    },
+    "84": {
+      "replace": true,
+      "file": "SE_084_round_stones.glb",
+      "orientation": 0
+    },
+    "85": {
+      "replace": true,
+      "file": "SE_085_round_stones.glb",
+      "orientation": 0
+    },
+    "86": {
+      "replace": true,
+      "file": "SE_086_round_stone.glb",
+      "orientation": 0
+    },
+    "87": {
+      "replace": true,
+      "file": "SE_087_round_stones.glb",
+      "orientation": 0
+    },
+    "88": {
+      "replace": true,
+      "file": "SE_088_round_stone.glb",
+      "orientation": 0
+    },
+    "89": {
+      "replace": true,
+      "file": "SE_089_round_stones.glb",
+      "orientation": 0
+    },
+    "90": {
+      "replace": true,
+      "file": "SE_090_round_stones.glb",
+      "orientation": 0
+    },
+    "93": {
+      "replace": true,
+      "file": "SE_093_wooden_table.glb",
+      "orientation": 0
+    },
+    "94": {
+      "replace": true,
+      "file": "SE_094_candelabra.glb",
+      "orientation": 0
+    },
+    "98": {
+      "replace": true,
+      "file": "SE_098_spikes_crown.glb",
+      "orientation": 0
+    },
+    "99": {
+      "replace": true,
+      "file": "SE_099_wooden_table.glb",
+      "orientation": 1
+    },
+    "100": {
+      "replace": true,
+      "file": "SE_100_wooden_bench.glb",
+      "orientation": 0
+    },
+    "101": {
+      "replace": true,
+      "file": "SE_101_weighing_scales.glb",
+      "orientation": 0
+    },
+    "102": {
+      "replace": true,
+      "file": "SE_102_sticks_pot.glb",
+      "orientation": 0
+    },
+    "103": {
+      "replace": true,
+      "file": "SE_103_mortar.glb",
+      "orientation": 0
+    },
+    "104": {
+      "replace": true,
+      "file": "SE_104_bottle.glb",
+      "orientation": 0
+    },
+    "105": {
+      "replace": true,
+      "file": "SE_105_flask.glb",
+      "orientation": 0
+    },
+    "106": {
+      "replace": true,
+      "file": "SE_106_small_bottle.glb",
+      "orientation": 0
+    },
+    "107": {
+      "replace": true,
+      "file": "SE_107_plate.glb",
+      "orientation": 0
+    },
+    "108": {
+      "replace": true,
+      "file": "SE_108_big_plate.glb",
+      "orientation": 0
+    },
+    "109": {
+      "replace": true,
+      "file": "SE_109_suspicious_recipient.glb",
+      "orientation": 0
+    },
+    "112": {
+      "replace": true,
+      "file": "SE_112_lighting_spell_pot.glb",
+      "orientation": 0
+    },
+    "113": {
+      "mirror": true
+    },
+    "114": {
+      "mirror": true
+    },
+    "115": {
+      "mirror": true
+    },
+    "117": {
+      "replace": true,
+      "file": "SE_117_stacked_plates.glb",
+      "orientation": 0
+    },
+    "118": {
+      "replace": true,
+      "file": "SE_118_black_powder_mountain.glb",
+      "orientation": 0
+    },
+    "119": {
+      "replace": true,
+      "file": "SE_119_yellow_substance_mountain.glb",
+      "orientation": 0
+    },
+    "122": {
+      "replace": true,
+      "file": "SE_122_green_candle.glb",
+      "orientation": 0
+    },
+    "123": {
+      "replace": true,
+      "file": "SE_123_gargoyle.glb",
+      "orientation": 0
+    },
+    "148": {
+      "replace": true,
+      "file": "SE_148_cubic_pillar_top.glb",
+      "orientation": 0
+    },
+    "149": {
+      "replace": true,
+      "file": "SE_149_tile.glb",
+      "orientation": 0
+    },
+    "150": {
+      "replace": true,
+      "file": "SE_150_152_178_179_baseboard.glb",
+      "orientation": 0
+    },
+    "151": {
+      "replace": true,
+      "file": "SE_151_dome_column.glb",
+      "orientation": 0
+    },
+    "152": {
+      "replace": true,
+      "file": "SE_150_152_178_179_baseboard.glb",
+      "orientation": 1
+    },
+    "153": {
+      "replace": true,
+      "file": "SE_153_154_dome_tile.glb",
+      "orientation": 0
+    },
+    "154": {
+      "replace": true,
+      "file": "SE_153_154_dome_tile.glb",
+      "orientation": 0
+    },
+    "155": {
+      "replace": true,
+      "file": "SE_155_156_158_159_dome_tile_slope.glb",
+      "orientation": 0
+    },
+    "156": {
+      "replace": true,
+      "file": "SE_155_156_158_159_dome_tile_slope.glb",
+      "orientation": 1
+    },
+    "158": {
+      "replace": true,
+      "file": "SE_155_156_158_159_dome_tile_slope.glb",
+      "orientation": 2
+    },
+    "159": {
+      "replace": true,
+      "file": "SE_155_156_158_159_dome_tile_slope.glb",
+      "orientation": 3
+    },
+    "160": {
+      "replace": true,
+      "file": "SE_160_180_181_184_baseboard_corner.glb",
+      "orientation": 0
+    },
+    "161": {
+      "replace": true,
+      "file": "SE_161_182_183_185_baseboard_corner.glb",
+      "orientation": 0
+    },
+    "166": {
+      "replace": true,
+      "file": "SE_166_167_small_bars.glb",
+      "orientation": 1
+    },
+    "167": {
+      "replace": true,
+      "file": "SE_166_167_small_bars.glb",
+      "orientation": 0
+    },
+    "168": {
+      "replace": true,
+      "file": "SE_168_small_green_candle.glb",
+      "orientation": 0
+    },
+    "173": {
+      "replace": true,
+      "file": "SE_173_magic_chest.glb",
+      "orientation": 0
+    },
+    "175": {
+      "replace": true,
+      "file": "SE_175_table_with_bunny_in_a_hat.glb",
+      "orientation": 0
+    },
+    "177": {
+      "replace": true,
+      "file": "SE_177_books_long.glb",
+      "orientation": 3
+    },
+    "178": {
+      "replace": true,
+      "file": "SE_150_152_178_179_baseboard.glb",
+      "orientation": 3
+    },
+    "179": {
+      "replace": true,
+      "file": "SE_150_152_178_179_baseboard.glb",
+      "orientation": 2
+    },
+    "180": {
+      "replace": true,
+      "file": "SE_160_180_181_184_baseboard_corner.glb",
+      "orientation": 1
+    },
+    "181": {
+      "replace": true,
+      "file": "SE_160_180_181_184_baseboard_corner.glb",
+      "orientation": 3
+    },
+    "182": {
+      "replace": true,
+      "file": "SE_161_182_183_185_baseboard_corner.glb",
+      "orientation": 1
+    },
+    "183": {
+      "replace": true,
+      "file": "SE_161_182_183_185_baseboard_corner.glb",
+      "orientation": 3
+    },
+    "184": {
+      "replace": true,
+      "file": "SE_160_180_181_184_baseboard_corner.glb",
+      "orientation": 2
+    },
+    "185": {
+      "replace": true,
+      "file": "SE_161_182_183_185_baseboard_corner.glb",
+      "orientation": 2
+    },
+    "186": {
+      "replace": true,
+      "file": "SE_186_ground_light.glb",
+      "orientation": 0
+    },
+    "187": {
+      "replace": true,
+      "file": "SE_187_188_magic_candle_holder.glb",
+      "orientation": 0
+    },
+    "188": {
+      "replace": true,
+      "file": "SE_187_188_magic_candle_holder.glb",
+      "orientation": 1
+    },
+    "196": {
+      "replace": true,
+      "file": "SE_196_blue_curtains.glb",
+      "orientation": 0
+    },
+    "198": {
+      "mirror": true
+    },
+    "199": {
+      "mirror": true
+    },
+    "214": {
+      "replace": true,
+      "file": "SE_214_s_of_sendell.glb",
+      "orientation": 0
+    },
+    "217": {
+      "suppress": true
+    },
+    "218": {
+      "suppress": true
+    },
+    "155:2x2x1:4647,4648,4649,4650": {
+      "replace": true,
+      "file": "SE_155_156_158_159_dome_tile_slope_var1.glb",
+      "orientation": 0
+    },
+    "155:2x1x1:4649,4650": {
+      "replace": true,
+      "file": "SE_155_156_158_159_dome_tile_slope_var2.glb",
+      "orientation": 0
+    },
+    "156:1x2x2:4651,4652,4653,4654": {
+      "replace": true,
+      "file": "SE_155_156_158_159_dome_tile_slope_var1.glb",
+      "orientation": 1
+    },
+    "8:1x3x1:649,653,654": {
+      "replace": true,
+      "file": "SE_008_pillar_var1.glb",
+      "orientation": 0
+    },
+    "8:1x7x1:649,650,651,652,652,653,654": {
+      "replace": true,
+      "file": "SE_008_pillar_var3.glb",
+      "orientation": 0
+    },
+    "8:1x4x1:650,651,653,654": {
+      "replace": true,
+      "file": "SE_008_pillar_var4.glb",
+      "orientation": 0
+    },
+    "8:1x5x1:650,651,652,653,654": {
+      "replace": true,
+      "file": "SE_008_pillar_var5.glb",
+      "orientation": 0
+    },
+    "8:1x6x2:650,651,652,652,653,-1,650,651,652,652,653,654": {
+      "replace": true,
+      "file": "SE_008_pillar_var6.glb",
+      "orientation": 0
+    },
+    "8:1x2x1:649,654": {
+      "replace": true,
+      "file": "SE_008_pillar_var8.glb",
+      "orientation": 0
+    },
+    "8:1x5x1:649,650,651,652,654": {
+      "replace": true,
+      "file": "SE_008_pillar_var9_10.glb",
+      "orientation": 0
+    },
+    "8:1x5x1:649,650,651,653,654": {
+      "replace": true,
+      "file": "SE_008_pillar_var9_10.glb",
+      "orientation": 1
+    },
+    "151:2x11x2:0,4619,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4624,4625,4626,4627,127,4629,127,4630,127,4630,127,4631,127,4632,127,4633,127,4634,4635,4636,4637,4638": {
+      "replace": true,
+      "file": "SE_151_dome_column.glb",
+      "orientation": 0
+    },
+    "151:2x13x2:0,4619,0,4620,0,127,0,127,0,127,0,127,0,127,0,127,0,127,0,127,0,127,0,4621,4622,4623,4624,4625,4626,4627,127,4628,127,4631,127,4632,127,4631,127,4632,127,4631,127,4632,127,4633,127,4634,4635,4636,4637,4638": {
+      "replace": true,
+      "file": "SE_151_dome_column_var3.glb",
+      "orientation": 0
+    },
+    "151:2x9x2:0,4619,0,4620,0,127,0,127,0,127,0,127,0,127,0,4621,4622,4623,4624,4625,4626,4627,127,4628,127,4631,127,4632,127,4633,127,4634,4635,4636,4637,4638": {
+      "replace": true,
+      "file": "SE_151_dome_column_var2.glb",
+      "orientation": 0
+    },
+    "151:2x11x2:0,4619,0,-1,0,-1,0,-1,0,-1,0,-1,0,-1,0,-1,0,-1,0,-1,4622,-1,4624,4625,4626,4627,127,4629,127,4630,127,4630,127,4631,127,4632,127,4633,127,4634,4635,4636,4637,4638": {
+      "replace": true,
+      "file": "SE_151_dome_column.glb",
+      "orientation": 0
+    },
+    "80:2x3x1:1059,1059,1060,1060,1061,1061": {
+      "replace": true,
+      "file": "SE_080_spiral_stalagmite_small_var1.glb",
+      "orientation": 0
+    },
+    "79:2x4x2:-1,1055,-1,1056,-1,1057,-1,1058,1055,-1,1056,-1,1057,-1,1058": {
+      "replace": true,
+      "file": "SE_079_spiral_stalagmite_var1.glb",
+      "orientation": 0
+    },
+    "78:1x4x1:1050,1051,1052,1053": {
+      "replace": true,
+      "file": "SE_078_spiral_stalagmites.glb",
+      "orientation": 3
+    },
+    "77:1x4x3:1046,1047,1048,1049,1046,1047,1048,1049,1046,1047,1048,1049": {
+      "replace": true,
+      "file": "SE_077_spiral_stalagmites_var1.glb",
+      "orientation": 0
+    },
+    "77:2x4x2:-1,1046,-1,1047,-1,1048,-1,1049,1046,-1,1047,-1,1048,-1,1049": {
+      "replace": true,
+      "file": "SE_077_spiral_stalagmites_var2.glb",
+      "orientation": 0
+    },
+    "77:3x4x2:1046,1046,-1,1047,1047,-1,1048,1048,-1,1049,1049,-1,-1,-1,1046,-1,-1,1047,-1,-1,1048,-1,-1,1049": {
+      "replace": true,
+      "file": "SE_077_spiral_stalagmites_var3.glb",
+      "orientation": 0
+    },
+    "76:4x4x3:-1,-1,1038,1039,-1,-1,1040,1041,-1,-1,1042,1043,-1,-1,1044,1045,-1,1039,-1,-1,-1,1041,-1,-1,-1,1043,-1,-1,-1,1045,-1,-1,1039,-1,-1,-1,1041,-1,-1,-1,1043,-1,-1,-1,1045": {
+      "replace": true,
+      "file": "SE_076_spiral_stalagmites_var1.glb",
+      "orientation": 0
+    },
+    "76:4x4x3:-1,1038,1039,1038,-1,1040,1041,1040,-1,1042,1043,1042,-1,1044,1045,1044,-1,-1,1038,-1,-1,-1,1040,-1,-1,-1,1042,-1,-1,-1,1044,-1,1038,1039,-1,-1,1040,1041,-1,-1,1042,1043,-1,-1,1044,1045": {
+      "replace": true,
+      "file": "SE_076_spiral_stalagmites_var2.glb",
+      "orientation": 0
+    },
+    "76:2x4x3:1038,1039,1040,1041,1042,1043,1044,1045,1038,1039,1040,1041,1042,1043,1044,1045,1038,1039,1040,1041,1042,1043,1044,1045": {
+      "replace": true,
+      "file": "SE_076_spiral_stalagmites_var3.glb",
+      "orientation": 0
+    },
+    "76:4x4x1:1038,1039,1038,1039,1040,1041,1040,1041,1042,1043,1042,1043,1044,1045,1044,1045": {
+      "replace": true,
+      "file": "SE_076_spiral_stalagmites_var4.glb",
+      "orientation": 0
+    },
+    "76:3x4x3:-1,1038,1039,-1,1040,1041,-1,1042,1043,-1,1044,1045,-1,1038,1039,-1,1040,1041,-1,1042,1043,-1,1044,1045,1038,1039,-1,1040,1041,-1,1042,1043,-1,1044,1045": {
+      "replace": true,
+      "file": "SE_076_spiral_stalagmites_var5.glb",
+      "orientation": 0
+    },
+    "77:1x6x1:1046,1047,1046,1047,1048,1049": {
+      "replace": true,
+      "file": "SE_077_spiral_stalagmites_var4.glb",
+      "orientation": 0
+    },
+    "151:2x23x2:0,4619,0,4620,0,127,0,127,0,127,0,127,0,127,0,127,0,127,0,127,0,127,0,127,0,127,0,127,0,127,0,127,0,127,0,127,0,127,0,127,0,127,0,4621,4622,4623,4624,4625,4626,4627,127,4628,127,4629,127,4630,127,4631,127,4632,127,4629,127,4630,127,4631,127,4632,127,4631,127,4632,127,4631,127,4632,127,4631,127,4632,127,4631,127,4632,127,4633,127,4634,4635,4636,4637,4638": {
+      "replace": true,
+      "file": "SE_151_dome_column_var1.glb",
+      "orientation": 0
+    },
+    "8:2x6x1:649,649,650,650,651,651,652,652,653,653,654,654": {
+      "replace": true,
+      "file": "SE_008_pillar_var6.glb",
+      "orientation": 1
+    },
+    "22:1x3x2:696,697,698,699,700,701": {
+      "replace": true,
+      "file": "SE_022_pillar_capital_var2_var3.glb",
+      "orientation": 0
+    },
+    "22:1x3x2:696,697,-1,699,700,701": {
+      "replace": true,
+      "file": "SE_022_pillar_capital_var2_var3.glb",
+      "orientation": 0
+    },
+    "22:1x3x4:696,697,698,699,700,701,127,694,695,696,697,698": {
+      "replace": true,
+      "file": "SE_022_pillar_capital_var1.glb",
+      "orientation": 0
+    },
+    "99:6x3x4:0,127,0,127,0,127,0,127,0,127,0,127,1113,1114,1113,1114,1113,1114,0,1115,0,1115,0,1115,0,1116,0,1116,0,1116,1117,1118,1117,1118,1117,1118,0,127,0,127,0,127,0,127,0,127,0,127,1119,1120,1119,1120,1119,1120,127,1121,127,1121,127,1121,1122,1123,1122,1123,1122,1123,1124,1125,1124,1125,1124,1125": {
+      "replace": true,
+      "file": "SE_099_wooden_table_var1.glb",
+      "orientation": 0
+    },
+    "93:10x3x2:0,0,0,127,0,127,0,127,0,127,0,0,0,127,0,127,0,127,0,127,4696,4697,4698,4699,4698,4699,4698,4699,4698,4699,4700,4701,127,4702,127,4702,127,4702,127,4702,4703,4704,127,4705,127,4705,127,4705,127,4705,4706,4707,4708,4709,4708,4709,4708,4709,4708,4709": {
+      "replace": true,
+      "file": "SE_093_wooden_table_var1.glb",
+      "orientation": 0
+    },
+    "93:8x3x2:0,0,0,127,0,127,0,127,0,0,0,127,0,127,0,127,4696,4697,4698,4699,4698,4699,4698,4699,4700,4701,127,4702,127,4702,127,4702,4703,4704,127,4705,127,4705,127,4705,4706,4707,4708,4709,4708,4709,4708,4709": {
+      "replace": true,
+      "file": "SE_093_wooden_table_var2.glb",
+      "orientation": 0
+    },
+    "93:6x3x2:0,0,0,127,0,127,0,0,0,127,0,127,4696,4697,4698,4699,4698,4699,4700,4701,127,4702,127,4702,4703,4704,127,4705,127,4705,4706,4707,4708,4709,4708,4709": {
+      "replace": true,
+      "file": "SE_093_wooden_table_var3.glb",
+      "orientation": 0
+    }
+  },
+  "2": {
+    "0": {
+      "mirror": true
+    },
+    "1": {
+      "mirror": true
+    },
+    "3": {
+      "replace": true,
+      "file": "GB_003_004_wall_top_rounded.glb",
+      "orientation": 0
+    },
+    "4": {
+      "replace": true,
+      "file": "GB_003_004_wall_top_rounded.glb",
+      "orientation": 1
+    },
+    "5": {
+      "replace": true,
+      "file": "GB_005_006_007_008_wall_top_rounded_corner.glb",
+      "orientation": 2
+    },
+    "6": {
+      "replace": true,
+      "file": "GB_005_006_007_008_wall_top_rounded_corner.glb",
+      "orientation": 0
+    },
+    "7": {
+      "replace": true,
+      "file": "GB_005_006_007_008_wall_top_rounded_corner.glb",
+      "orientation": 3
+    },
+    "8": {
+      "replace": true,
+      "file": "GB_005_006_007_008_wall_top_rounded_corner.glb",
+      "orientation": 1
+    },
+    "9": {
+      "replace": true,
+      "file": "GB_009_010_011_012_wall_side_rounded.glb",
+      "orientation": 3
+    },
+    "10": {
+      "replace": true,
+      "file": "GB_009_010_011_012_wall_side_rounded.glb",
+      "orientation": 2
+    },
+    "11": {
+      "replace": true,
+      "file": "GB_009_010_011_012_wall_side_rounded.glb",
+      "orientation": 1
+    },
+    "12": {
+      "replace": true,
+      "file": "GB_009_010_011_012_wall_side_rounded.glb",
+      "orientation": 0
+    },
+    "13": {
+      "replace": true,
+      "file": "GB_013_014_15_016_wall_side_rounded_corner.glb",
+      "orientation": 0
+    },
+    "14": {
+      "replace": true,
+      "file": "GB_013_014_15_016_wall_side_rounded_corner.glb",
+      "orientation": 1
+    },
+    "15": {
+      "replace": true,
+      "file": "GB_013_014_15_016_wall_side_rounded_corner.glb",
+      "orientation": 2
+    },
+    "16": {
+      "replace": true,
+      "file": "GB_013_014_15_016_wall_side_rounded_corner.glb",
+      "orientation": 3
+    },
+    "17": {
+      "replace": true,
+      "file": "GB_017_018_034_035_wall_top_rounded_corner.glb",
+      "orientation": 2
+    },
+    "18": {
+      "replace": true,
+      "file": "GB_017_018_034_035_wall_top_rounded_corner.glb",
+      "orientation": 3
+    },
+    "19": {
+      "replace": true,
+      "file": "GB_019_020_door_top.glb",
+      "orientation": 0
+    },
+    "20": {
+      "replace": true,
+      "file": "GB_019_020_door_top.glb",
+      "orientation": 1
+    },
+    "21": {
+      "replace": true,
+      "file": "GB_021_022_023_024_wall_side_rounded.glb",
+      "orientation": 2
+    },
+    "22": {
+      "replace": true,
+      "file": "GB_021_022_023_024_wall_side_rounded.glb",
+      "orientation": 3
+    },
+    "23": {
+      "replace": true,
+      "file": "GB_021_022_023_024_wall_side_rounded.glb",
+      "orientation": 0
+    },
+    "24": {
+      "replace": true,
+      "file": "GB_021_022_023_024_wall_side_rounded.glb",
+      "orientation": 1
+    },
+    "29": {
+      "replace": true,
+      "file": "GB_029_lamp.glb",
+      "orientation": 0
+    },
+    "32": {
+      "mirror": true
+    },
+    "33": {
+      "mirror": true
+    },
+    "34": {
+      "replace": true,
+      "file": "GB_017_018_034_035_wall_top_rounded_corner.glb",
+      "orientation": 1
+    },
+    "35": {
+      "replace": true,
+      "file": "GB_017_018_034_035_wall_top_rounded_corner.glb",
+      "orientation": 0
+    },
+    "37": {
+      "mirror": true
+    },
+    "38": {
+      "mirror": true
+    },
+    "39": {
+      "replace": true,
+      "file": "GB_039_040_041_042_wall_top_rounded_cornerround.glb",
+      "orientation": 0
+    },
+    "40": {
+      "replace": true,
+      "file": "GB_039_040_041_042_wall_top_rounded_cornerround.glb",
+      "orientation": 3
+    },
+    "41": {
+      "replace": true,
+      "file": "GB_039_040_041_042_wall_top_rounded_cornerround.glb",
+      "orientation": 1
+    },
+    "42": {
+      "replace": true,
+      "file": "GB_039_040_041_042_wall_top_rounded_cornerround.glb",
+      "orientation": 2
+    },
+    "45": {
+      "replace": true,
+      "file": "GB_045_046_047_chair.glb",
+      "orientation": 0
+    },
+    "46": {
+      "replace": true,
+      "file": "GB_045_046_047_chair.glb",
+      "orientation": 2
+    },
+    "47": {
+      "replace": true,
+      "file": "GB_045_046_047_chair.glb",
+      "orientation": 1
+    },
+    "48": {
+      "replace": true,
+      "file": "GB_048_stool.glb",
+      "orientation": 0
+    },
+    "49": {
+      "replace": true,
+      "file": "GB_049_050_high_chair.glb",
+      "orientation": 1
+    },
+    "50": {
+      "replace": true,
+      "file": "GB_049_050_high_chair.glb",
+      "orientation": 2
+    },
+    "51": {
+      "replace": true,
+      "file": "GB_051_high_stool.glb",
+      "orientation": 0
+    },
+    "52": {
+      "replace": true,
+      "file": "GB_052_high_round_table.glb",
+      "orientation": 0
+    },
+    "53": {
+      "replace": true,
+      "file": "GB_053_054_table_straight.glb",
+      "orientation": 0
+    },
+    "54": {
+      "replace": true,
+      "file": "GB_053_054_table_straight.glb",
+      "orientation": 1
+    },
+    "55": {
+      "replace": true,
+      "file": "GB_055_bench.glb",
+      "orientation": 3
+    },
+    "56": {
+      "mirror": true
+    },
+    "57": {
+      "mirror": true
+    },
+    "63": {
+      "replace": true,
+      "file": "GB_063_counter_round.glb",
+      "orientation": 0
+    },
+    "64": {
+      "mirror": true
+    },
+    "65": {
+      "mirror": true
+    },
+    "66": {
+      "mirror": true
+    },
+    "67": {
+      "mirror": true
+    },
+    "69": {
+      "replace": true,
+      "file": "GB_069_stairs.glb",
+      "orientation": 0
+    },
+    "71": {
+      "replace": true,
+      "file": "GB_071_window.glb",
+      "orientation": 0
+    },
+    "72": {
+      "replace": true,
+      "file": "GB_072_plant.glb",
+      "orientation": 0
+    },
+    "73": {
+      "mirror": true
+    },
+    "74": {
+      "mirror": true
+    },
+    "75": {
+      "replace": true,
+      "file": "GB_075_health.glb",
+      "orientation": 0
+    },
+    "77": {
+      "replace": true,
+      "file": "GB_077_bottle.glb",
+      "orientation": 0
+    },
+    "78": {
+      "replace": true,
+      "file": "GB_078_glass.glb",
+      "orientation": 0
+    },
+    "80": {
+      "replace": true,
+      "file": "GB_080_bottle_glass.glb",
+      "orientation": 0
+    },
+    "81": {
+      "replace": true,
+      "file": "GB_081_three_glasses.glb",
+      "orientation": 0
+    },
+    "82": {
+      "replace": true,
+      "file": "GB_082_088_wall_lamp.glb",
+      "orientation": 0
+    },
+    "83": {
+      "replace": true,
+      "file": "GB_083_jukebox.glb",
+      "orientation": 0
+    },
+    "84": {
+      "replace": true,
+      "file": "GB_084_barrel.glb",
+      "orientation": 0
+    },
+    "85": {
+      "replace": true,
+      "file": "GB_085_barrel_tap.glb",
+      "orientation": 0
+    },
+    "86": {
+      "replace": true,
+      "file": "GB_086_087_shelf.glb",
+      "orientation": 0
+    },
+    "87": {
+      "replace": true,
+      "file": "GB_086_087_shelf.glb",
+      "orientation": 3
+    },
+    "88": {
+      "replace": true,
+      "file": "GB_082_088_wall_lamp.glb",
+      "orientation": 1
+    },
+    "89": {
+      "replace": true,
+      "file": "GB_089_magic.glb",
+      "orientation": 0
+    },
+    "90": {
+      "replace": true,
+      "file": "GB_090_cash_register.glb",
+      "orientation": 0
+    },
+    "91": {
+      "replace": true,
+      "file": "GB_091_bottles.glb",
+      "orientation": 0
+    },
+    "93": {
+      "replace": true,
+      "file": "GB_093_094_jars.glb",
+      "orientation": 0
+    },
+    "94": {
+      "replace": true,
+      "file": "GB_093_094_jars.glb",
+      "orientation": 3
+    },
+    "95": {
+      "mirror": true
+    },
+    "96": {
+      "mirror": true
+    },
+    "97": {
+      "replace": true,
+      "file": "GB_097_jerry_can.glb",
+      "orientation": 0
+    },
+    "98": {
+      "replace": true,
+      "file": "GB_098_books.glb",
+      "orientation": 0
+    },
+    "99": {
+      "mirror": true
+    },
+    "100": {
+      "replace": true,
+      "file": "GB_100_crate.glb",
+      "orientation": 0
+    },
+    "101": {
+      "replace": true,
+      "file": "GB_101_102_window.glb",
+      "orientation": 0
+    },
+    "102": {
+      "replace": true,
+      "file": "GB_101_102_window.glb",
+      "orientation": 1
+    },
+    "103": {
+      "replace": true,
+      "file": "GB_103_107_111_115_conveyor_belt.glb",
+      "orientation": 0
+    },
+    "104": {
+      "replace": true,
+      "file": "GB_104_108_112_116_conveyor_belt_halfwidth.glb",
+      "orientation": 1
+    },
+    "106": {
+      "replace": true,
+      "file": "GB_106_109_110_113_114_117_118_conveyor_belt_halfwidth_end.glb",
+      "orientation": 3
+    },
+    "107": {
+      "replace": true,
+      "file": "GB_103_107_111_115_conveyor_belt.glb",
+      "orientation": 2
+    },
+    "108": {
+      "replace": true,
+      "file": "GB_104_108_112_116_conveyor_belt_halfwidth.glb",
+      "orientation": 1
+    },
+    "109": {
+      "replace": true,
+      "file": "GB_106_109_110_113_114_117_118_conveyor_belt_halfwidth_end.glb",
+      "orientation": 1
+    },
+    "110": {
+      "replace": true,
+      "file": "GB_106_109_110_113_114_117_118_conveyor_belt_halfwidth_end.glb",
+      "orientation": 3
+    },
+    "111": {
+      "replace": true,
+      "file": "GB_103_107_111_115_conveyor_belt.glb",
+      "orientation": 1
+    },
+    "112": {
+      "replace": true,
+      "file": "GB_104_108_112_116_conveyor_belt_halfwidth.glb",
+      "orientation": 0
+    },
+    "113": {
+      "replace": true,
+      "file": "GB_106_109_110_113_114_117_118_conveyor_belt_halfwidth_end.glb",
+      "orientation": 0
+    },
+    "114": {
+      "replace": true,
+      "file": "GB_106_109_110_113_114_117_118_conveyor_belt_halfwidth_end.glb",
+      "orientation": 2
+    },
+    "115": {
+      "replace": true,
+      "file": "GB_103_107_111_115_conveyor_belt.glb",
+      "orientation": 3
+    },
+    "116": {
+      "replace": true,
+      "file": "GB_104_108_112_116_conveyor_belt_halfwidth.glb",
+      "orientation": 0
+    },
+    "117": {
+      "replace": true,
+      "file": "GB_106_109_110_113_114_117_118_conveyor_belt_halfwidth_end.glb",
+      "orientation": 0
+    },
+    "118": {
+      "replace": true,
+      "file": "GB_106_109_110_113_114_117_118_conveyor_belt_halfwidth_end.glb",
+      "orientation": 2
+    },
+    "120": {
+      "mirror": true
+    },
+    "122": {
+      "replace": true,
+      "file": "GB_122_123_railing_straight.glb",
+      "orientation": 0
+    },
+    "123": {
+      "replace": true,
+      "file": "GB_122_123_railing_straight.glb",
+      "orientation": 1
+    },
+    "124": {
+      "replace": true,
+      "file": "GB_124_125_127_railing_corner.glb",
+      "orientation": 0
+    },
+    "125": {
+      "replace": true,
+      "file": "GB_124_125_127_railing_corner.glb",
+      "orientation": 2
+    },
+    "127": {
+      "replace": true,
+      "file": "GB_124_125_127_railing_corner.glb",
+      "orientation": 3
+    },
+    "128": {
+      "replace": true,
+      "file": "GB_128_129_142_143_ladder.glb",
+      "orientation": 0
+    },
+    "129": {
+      "replace": true,
+      "file": "GB_128_129_142_143_ladder.glb",
+      "orientation": 1
+    },
+    "130": {
+      "replace": true,
+      "file": "GB_130_131_133_161_conveyor_belt_shadow.glb",
+      "orientation": 3
+    },
+    "131": {
+      "replace": true,
+      "file": "GB_130_131_133_161_conveyor_belt_shadow.glb",
+      "orientation": 0
+    },
+    "132": {
+      "mirror": true
+    },
+    "133": {
+      "replace": true,
+      "file": "GB_130_131_133_161_conveyor_belt_shadow.glb",
+      "orientation": 1
+    },
+    "134": {
+      "replace": true,
+      "file": "GB_134_crate.glb",
+      "orientation": 0
+    },
+    "135": {
+      "mirror": true
+    },
+    "136": {
+      "mirror": true
+    },
+    "139": {
+      "mirror": true
+    },
+    "140": {
+      "mirror": true
+    },
+    "141": {
+      "mirror": true
+    },
+    "142": {
+      "replace": true,
+      "file": "GB_128_129_142_143_ladder.glb",
+      "orientation": 2
+    },
+    "143": {
+      "replace": true,
+      "file": "GB_128_129_142_143_ladder.glb",
+      "orientation": 3
+    },
+    "144": {
+      "replace": true,
+      "file": "GB_144_railing_lamp.glb",
+      "orientation": 0
+    },
+    "145": {
+      "replace": true,
+      "file": "GB_145_book.glb",
+      "orientation": 0
+    },
+    "146": {
+      "replace": true,
+      "file": "GB_146_railing_slope.glb",
+      "orientation": 0
+    },
+    "152": {
+      "mirror": true
+    },
+    "153": {
+      "mirror": true
+    },
+    "156": {
+      "mirror": true
+    },
+    "161": {
+      "replace": true,
+      "file": "GB_130_131_133_161_conveyor_belt_shadow.glb",
+      "orientation": 2
+    },
+    "165": {
+      "mirror": true
+    },
+    "166": {
+      "mirror": true
+    },
+    "167": {
+      "mirror": true
+    },
+    "172": {
+      "replace": true,
+      "file": "GB_172_vase.glb",
+      "orientation": 0
+    },
+    "174": {
+      "replace": true,
+      "file": "GB_174_177_shop_counter.glb",
+      "orientation": 0
+    },
+    "175": {
+      "replace": true,
+      "file": "GB_175_shop_counter.glb",
+      "orientation": 0
+    },
+    "176": {
+      "replace": true,
+      "file": "GB_176_shop_counter.glb",
+      "orientation": 0
+    },
+    "177": {
+      "replace": true,
+      "file": "GB_174_177_shop_counter.glb",
+      "orientation": 1
+    },
+    "178": {
+      "replace": true,
+      "file": "GB_178_shop_counter.glb",
+      "orientation": 0
+    },
+    "185": {
+      "replace": true,
+      "file": "GB_185_elephant_doll.glb",
+      "orientation": 0
+    },
+    "186": {
+      "replace": true,
+      "file": "GB_186_bunny_doll.glb",
+      "orientation": 0
+    },
+    "187": {
+      "replace": true,
+      "file": "GB_187_candle.glb",
+      "orientation": 0
+    },
+    "188": {
+      "replace": true,
+      "file": "GB_188_tomatoes.glb",
+      "orientation": 0
+    },
+    "144:1x8x1:1512,1513,1513,1514,1515,1516,1517,1518": {
+      "replace": true,
+      "file": "GB_144_railing_lamp_var01.glb",
+      "orientation": 0
+    },
+    "69:10x10x3:-1,-1,-1,-1,-1,-1,-1,-1,-1,1440,-1,-1,-1,-1,-1,-1,-1,-1,1440,-1,-1,-1,-1,-1,-1,-1,-1,1440,-1,-1,-1,-1,-1,-1,-1,-1,1440,-1,-1,-1,-1,-1,-1,-1,-1,1440,-1,-1,-1,-1,-1,-1,-1,-1,1440,-1,-1,-1,-1,-1,-1,-1,-1,1440,-1,-1,-1,-1,-1,-1,-1,-1,1440,-1,-1,-1,-1,-1,-1,-1,-1,1440,-1,-1,-1,-1,-1,-1,-1,-1,1440,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1441,-1,-1,-1,-1,-1,-1,-1,-1,1441,-1,-1,-1,-1,-1,-1,-1,-1,1441,-1,-1,-1,-1,-1,-1,-1,-1,1441,-1,-1,-1,-1,-1,-1,-1,-1,1441,-1,-1,-1,-1,-1,-1,-1,-1,1441,-1,-1,-1,-1,-1,-1,-1,-1,1441,-1,-1,-1,-1,-1,-1,-1,-1,1441,-1,-1,-1,-1,-1,-1,-1,-1,1441,-1,-1,-1,-1,-1,-1,-1,-1,1441,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1441,-1,-1,-1,-1,-1,-1,-1,-1,1441,-1,-1,-1,-1,-1,-1,-1,-1,1441,-1,-1,-1,-1,-1,-1,-1,-1,1441,-1,-1,-1,-1,-1,-1,-1,-1,1441,-1,-1,-1,-1,-1,-1,-1,-1,1441,-1,-1,-1,-1,-1,-1,-1,-1,1441,-1,-1,-1,-1,-1,-1,-1,-1,1441,-1,-1,-1,-1,-1,-1,-1,-1,1441,-1,-1,-1,-1,-1,-1,-1,-1,1441": {
+      "replace": true,
+      "file": "GB_069_stairs_var01.glb",
+      "orientation": 0
+    },
+    "69:4x4x2:-1,-1,-1,1440,-1,-1,1440,-1,-1,1440,-1,-1,1440,-1,-1,-1,-1,-1,-1,1441,-1,-1,1441,-1,-1,1441,-1,-1,1441": {
+      "replace": true,
+      "file": "GB_069_stairs_var02.glb",
+      "orientation": 0
+    },
+    "144:1x7x1:1515,1516,1516,1516,1516,1517,1518": {
+      "replace": true,
+      "file": "GB_144_railing_lamp_var02.glb",
+      "orientation": 0
+    },
+    "128:2x6x1:1633,1634,1635,1636,1637,1638,1635,1636,1637,1638,1639,1640": {
+      "replace": true,
+      "file": "GB_128_ladder_var01.glb",
+      "orientation": 0
+    },
+    "128:2x7x1:1633,1634,1635,1636,1635,1636,1637,1638,1635,1636,1637,1638,1639,1640": {
+      "replace": true,
+      "file": "GB_128_ladder_var02.glb",
+      "orientation": 0
+    },
+    "129:1x5x2:1641,1642,1642,1643,1644,1645,1646,1646,1647,1648": {
+      "replace": true,
+      "file": "GB_129_ladder_var02.glb",
+      "orientation": 1
+    },
+    "129:1x8x2:1641,1642,1643,1642,1643,1642,1643,1644,1645,1646,1647,1646,1647,1646,1647,1648": {
+      "replace": true,
+      "file": "GB_129_ladder_var01.glb",
+      "orientation": 1
+    },
+    "129:1x7x2:1641,1642,1642,1642,1642,1643,1644,1645,1646,1646,1646,1646,1647,1648": {
+      "replace": true,
+      "file": "GB_129_ladder_var03_var04.glb",
+      "orientation": 1
+    },
+    "129:1x7x2:1641,1642,1643,1642,1643,1643,1644,1645,1646,1647,1646,1647,1647,1648": {
+      "replace": true,
+      "file": "GB_129_ladder_var03_var04.glb",
+      "orientation": 1
+    },
+    "142:2x2x1:1683,1684,1689,1690": {
+      "replace": true,
+      "file": "GB_142_143_ladder_var01.glb",
+      "orientation": 2
+    },
+    "143:1x2x2:1691,1694,1695,1698": {
+      "replace": true,
+      "file": "GB_142_143_ladder_var01.glb",
+      "orientation": 3
+    },
+    "134:2x3x2:0,1655,0,1655,1656,1657,1658,1659,1658,1659,1660,1661": {
+      "replace": true,
+      "file": "GB_134_crate_var03.glb",
+      "orientation": 0
+    },
+    "53:2x3x2:0,1352,0,1353,1354,1355,0,127,0,127,1356,1357": {
+      "replace": true,
+      "file": "GB_053_054_table_straight_var01.glb",
+      "orientation": 0
+    },
+    "54:2x3x2:0,1352,0,1353,1354,1355,0,127,0,127,1356,1357": {
+      "replace": true,
+      "file": "GB_053_054_table_straight_var01.glb",
+      "orientation": 0
+    },
+    "143:2x2x1:1683,1684,1689,1690": {
+      "replace": true,
+      "file": "GB_142_143_ladder_var01.glb",
+      "orientation": 2
+    },
+    "142:1x2x2:1691,1694,1695,1698": {
+      "replace": true,
+      "file": "GB_142_143_ladder_var01.glb",
+      "orientation": 3
+    },
+    "53:2x3x2:0,1364,0,1365,1366,1368,1369,1370,1371,1372,1373,1375": {
+      "replace": true,
+      "file": "GB_053_054_table_straight_var01.glb",
+      "orientation": 0
+    },
+    "54:2x3x2:0,1364,0,1365,1366,1368,1369,1370,1371,1372,1373,1375": {
+      "replace": true,
+      "file": "GB_053_054_table_straight_var01.glb",
+      "orientation": 1
+    }
+  },
+  "3": {
+    "0": {
+      "replace": true,
+      "file": "CA_000_001_002_003_spiderweb_fence.glb",
+      "orientation": 0
+    },
+    "1": {
+      "replace": true,
+      "file": "CA_000_001_002_003_spiderweb_fence.glb",
+      "orientation": 2
+    },
+    "2": {
+      "replace": true,
+      "file": "CA_000_001_002_003_spiderweb_fence.glb",
+      "orientation": 3
+    },
+    "3": {
+      "replace": true,
+      "file": "CA_000_001_002_003_spiderweb_fence.glb",
+      "orientation": 1
+    },
+    "4": {
+      "replace": true,
+      "file": "CA_004_005_iron_fence.glb",
+      "orientation": 0
+    },
+    "5": {
+      "replace": true,
+      "file": "CA_004_005_iron_fence.glb",
+      "orientation": 1
+    },
+    "6": {
+      "replace": true,
+      "file": "CA_006_iron_pillar.glb",
+      "orientation": 0
+    },
+    "15": {
+      "replace": true,
+      "file": "CA_015_iron_ladder.glb",
+      "orientation": 0
+    },
+    "16": {
+      "replace": true,
+      "file": "CA_016_iron_ladder.glb",
+      "orientation": 1
+    },
+    "17": {
+      "replace": true,
+      "file": "CA_017_018_spikes.glb",
+      "orientation": 0
+    },
+    "18": {
+      "replace": true,
+      "file": "CA_017_018_spikes.glb",
+      "orientation": 1
+    },
+    "22": {
+      "replace": true,
+      "file": "CA_022_magical_font.glb",
+      "orientation": 0
+    },
+    "23": {
+      "replace": true,
+      "file": "CA_023_wooden_stairs.glb",
+      "orientation": 0
+    },
+    "24": {
+      "replace": true,
+      "file": "CA_024_wooden_stairs.glb",
+      "orientation": 0
+    },
+    "29": {
+      "replace": true,
+      "file": "CA_029_ancient_pots.glb",
+      "orientation": 0
+    },
+    "40": {
+      "replace": true,
+      "file": "CA_040_041_water_pile.glb",
+      "orientation": 0
+    },
+    "41": {
+      "replace": true,
+      "file": "CA_040_041_water_pile.glb",
+      "orientation": 1
+    },
+    "42": {
+      "replace": true,
+      "file": "CA_042_shining_sparkles.glb",
+      "orientation": 0
+    },
+    "43": {
+      "mirror": true
+    },
+    "44": {
+      "mirror": true
+    },
+    "45": {
+      "replace": true,
+      "file": "CA_045_mosaic_column.glb",
+      "orientation": 0
+    },
+    "48": {
+      "replace": true,
+      "file": "CA_048_twinsen_statue.glb",
+      "orientation": 0
+    },
+    "49": {
+      "replace": true,
+      "file": "CA_049_050_051_052_rail_curve.glb",
+      "orientation": 0
+    },
+    "50": {
+      "replace": true,
+      "file": "CA_049_050_051_052_rail_curve.glb",
+      "orientation": 2
+    },
+    "51": {
+      "replace": true,
+      "file": "CA_049_050_051_052_rail_curve.glb",
+      "orientation": 3
+    },
+    "52": {
+      "replace": true,
+      "file": "CA_049_050_051_052_rail_curve.glb",
+      "orientation": 1
+    },
+    "53": {
+      "replace": true,
+      "file": "CA_053_054_rail_straight.glb",
+      "orientation": 0
+    },
+    "54": {
+      "replace": true,
+      "file": "CA_053_054_rail_straight.glb",
+      "orientation": 1
+    },
+    "56": {
+      "replace": true,
+      "file": "CA_056_058_060_061_rail_branch.glb",
+      "orientation": 3
+    },
+    "57": {
+      "replace": true,
+      "file": "CA_057_059_062_rail_branch_left.glb",
+      "orientation": 1
+    },
+    "58": {
+      "replace": true,
+      "file": "CA_056_058_060_061_rail_branch.glb",
+      "orientation": 1
+    },
+    "59": {
+      "replace": true,
+      "file": "CA_057_059_062_rail_branch_left.glb",
+      "orientation": 0
+    },
+    "60": {
+      "replace": true,
+      "file": "CA_056_058_060_061_rail_branch.glb",
+      "orientation": 0
+    },
+    "61": {
+      "replace": true,
+      "file": "CA_056_058_060_061_rail_branch.glb",
+      "orientation": 2
+    },
+    "62": {
+      "replace": true,
+      "file": "CA_057_059_062_rail_branch_left.glb",
+      "orientation": 2
+    },
+    "63": {
+      "replace": true,
+      "file": "CA_063_064_065_066_rails_slope.glb",
+      "orientation": 3
+    },
+    "64": {
+      "replace": true,
+      "file": "CA_063_064_065_066_rails_slope.glb",
+      "orientation": 0
+    },
+    "65": {
+      "replace": true,
+      "file": "CA_063_064_065_066_rails_slope.glb",
+      "orientation": 1
+    },
+    "66": {
+      "replace": true,
+      "file": "CA_063_064_065_066_rails_slope.glb",
+      "orientation": 2
+    },
+    "67": {
+      "replace": true,
+      "file": "CA_067_068_totem_statue.glb",
+      "orientation": 0
+    },
+    "68": {
+      "replace": true,
+      "file": "CA_067_068_totem_statue.glb",
+      "orientation": 3
+    },
+    "69": {
+      "replace": true,
+      "file": "CA_069_wooden_planks.glb",
+      "orientation": 0
+    },
+    "70": {
+      "mirror": true
+    },
+    "71": {
+      "replace": true,
+      "file": "CA_071_you_shall_not_pass_signal.glb",
+      "orientation": 0
+    },
+    "72": {
+      "replace": true,
+      "file": "CA_072_stones.glb",
+      "orientation": 0
+    },
+    "73": {
+      "replace": true,
+      "file": "CA_073_stone.glb",
+      "orientation": 0
+    },
+    "76": {
+      "mirror": true
+    },
+    "77": {
+      "mirror": true
+    },
+    "78": {
+      "mirror": true
+    },
+    "81": {
+      "mirror": true
+    },
+    "82": {
+      "mirror": true
+    },
+    "83": {
+      "mirror": true
+    },
+    "85": {
+      "replace": true,
+      "file": "CA_085_086_railing_straight_rope.glb",
+      "orientation": 0
+    },
+    "86": {
+      "replace": true,
+      "file": "CA_085_086_railing_straight_rope.glb",
+      "orientation": 1
+    },
+    "87": {
+      "replace": true,
+      "file": "CA_087_088_089_090_railing_corner.glb",
+      "orientation": 2
+    },
+    "88": {
+      "replace": true,
+      "file": "CA_087_088_089_090_railing_corner.glb",
+      "orientation": 0
+    },
+    "89": {
+      "replace": true,
+      "file": "CA_087_088_089_090_railing_corner.glb",
+      "orientation": 1
+    },
+    "90": {
+      "replace": true,
+      "file": "CA_087_088_089_090_railing_corner.glb",
+      "orientation": 3
+    },
+    "91": {
+      "replace": true,
+      "file": "CA_091_092_railing_straight_pole.glb",
+      "orientation": 0
+    },
+    "92": {
+      "replace": true,
+      "file": "CA_091_092_railing_straight_pole.glb",
+      "orientation": 1
+    },
+    "93": {
+      "replace": true,
+      "file": "CA_093_094_095_096_railing_end.glb",
+      "orientation": 0
+    },
+    "94": {
+      "replace": true,
+      "file": "CA_093_094_095_096_railing_end.glb",
+      "orientation": 2
+    },
+    "95": {
+      "replace": true,
+      "file": "CA_093_094_095_096_railing_end.glb",
+      "orientation": 3
+    },
+    "96": {
+      "replace": true,
+      "file": "CA_093_094_095_096_railing_end.glb",
+      "orientation": 1
+    },
+    "97": {
+      "mirror": true
+    },
+    "98": {
+      "mirror": true
+    },
+    "99": {
+      "mirror": true
+    },
+    "100": {
+      "mirror": true
+    },
+    "101": {
+      "mirror": true
+    },
+    "102": {
+      "mirror": true
+    },
+    "103": {
+      "mirror": true
+    },
+    "104": {
+      "mirror": true
+    },
+    "108": {
+      "replace": true,
+      "file": "CA_108_directional_arrow_base.glb",
+      "orientation": 0
+    },
+    "114": {
+      "replace": true,
+      "file": "CA_114_cone.glb",
+      "orientation": 0
+    },
+    "115": {
+      "replace": true,
+      "file": "CA_115_116_cosmodrome_floor_limits.glb",
+      "orientation": 0
+    },
+    "116": {
+      "replace": true,
+      "file": "CA_115_116_cosmodrome_floor_limits.glb",
+      "orientation": 1
+    },
+    "117": {
+      "replace": true,
+      "file": "CA_117_122_128_129_cosmodrome_floor_limits_corner.glb",
+      "orientation": 0
+    },
+    "119": {
+      "replace": true,
+      "file": "CA_119_cosmodrome_floor_holes.glb",
+      "orientation": 0
+    },
+    "122": {
+      "replace": true,
+      "file": "CA_117_122_128_129_cosmodrome_floor_limits_corner.glb",
+      "orientation": 2
+    },
+    "126": {
+      "mirror": true
+    },
+    "128": {
+      "replace": true,
+      "file": "CA_117_122_128_129_cosmodrome_floor_limits_corner.glb",
+      "orientation": 3
+    },
+    "129": {
+      "replace": true,
+      "file": "CA_117_122_128_129_cosmodrome_floor_limits_corner.glb",
+      "orientation": 1
+    },
+    "130": {
+      "replace": true,
+      "file": "CA_130_cosmodrome_auxiliary_light_small.glb",
+      "orientation": 0
+    },
+    "131": {
+      "replace": true,
+      "file": "CA_131_cosmodrome_auxiliary_light_big.glb",
+      "orientation": 0
+    },
+    "132": {
+      "replace": true,
+      "file": "CA_132_cosmodrome_floor_slope_left_end.glb",
+      "orientation": 0
+    },
+    "133": {
+      "replace": true,
+      "file": "CA_133_cosmodrome_floor_slope_right_end.glb",
+      "orientation": 3
+    },
+    "135": {
+      "replace": true,
+      "file": "CA_135_136_cosmodrome_support_pillar.glb",
+      "orientation": 1
+    },
+    "136": {
+      "replace": true,
+      "file": "CA_135_136_cosmodrome_support_pillar.glb",
+      "orientation": 3
+    },
+    "137": {
+      "replace": true,
+      "file": "CA_137_cosmodrome_support_pillar.glb",
+      "orientation": 0
+    },
+    "138": {
+      "replace": true,
+      "file": "CA_138_electrifying_bars.glb",
+      "orientation": 0
+    },
+    "139": {
+      "replace": true,
+      "file": "CA_139_141_cosmodrome_floor_slope.glb",
+      "orientation": 0
+    },
+    "140": {
+      "replace": true,
+      "file": "CA_140_cosmodrome_floor_slope_right_end.glb",
+      "orientation": 0
+    },
+    "141": {
+      "replace": true,
+      "file": "CA_139_141_cosmodrome_floor_slope.glb",
+      "orientation": 3
+    },
+    "142": {
+      "replace": true,
+      "file": "CA_142_cosmodrome_floor_slope_left_end.glb",
+      "orientation": 3
+    },
+    "143": {
+      "replace": true,
+      "file": "CA_143_wooden_box.glb",
+      "orientation": 0
+    },
+    "144": {
+      "mirror": true
+    },
+    "145": {
+      "mirror": true
+    },
+    "146": {
+      "mirror": true
+    },
+    "147": {
+      "mirror": true
+    },
+    "149": {
+      "replace": true,
+      "file": "CA_149_cosmodrome_landing_floor_spot.glb",
+      "orientation": 0
+    },
+    "150": {
+      "replace": true,
+      "file": "CA_150_cosmodrome_landing_floor_arrow_and_sides.glb",
+      "orientation": 0
+    },
+    "151": {
+      "replace": true,
+      "file": "CA_150_151_152_cosmodrome_landing_floor_arrow.glb",
+      "orientation": 3
+    },
+    "152": {
+      "replace": true,
+      "file": "CA_150_151_152_cosmodrome_landing_floor_arrow.glb",
+      "orientation": 1
+    },
+    "153": {
+      "mirror": false
+    },
+    "154": {
+      "replace": true,
+      "file": "CA_152_oil_barrel.glb",
+      "orientation": 0
+    },
+    "155": {
+      "replace": true,
+      "file": "CA_155_big_spool.glb",
+      "orientation": 0
+    },
+    "156": {
+      "replace": true,
+      "file": "CA_156_blue_table.glb",
+      "orientation": 0
+    },
+    "157": {
+      "replace": true,
+      "file": "CA_157_158_white_bench.glb",
+      "orientation": 0
+    },
+    "158": {
+      "replace": true,
+      "file": "CA_157_158_white_bench.glb",
+      "orientation": 1
+    },
+    "159": {
+      "replace": true,
+      "file": "CA_159_simple_bed.glb",
+      "orientation": 0
+    },
+    "160": {
+      "replace": true,
+      "file": "CA_160_folding_screen.glb",
+      "orientation": 0
+    },
+    "161": {
+      "replace": true,
+      "file": "CA_161_stalactites.glb",
+      "orientation": 0
+    },
+    "162": {
+      "replace": true,
+      "file": "CA_162_stalactites.glb",
+      "orientation": 0
+    },
+    "163": {
+      "replace": true,
+      "file": "CA_163_stalagmites.glb",
+      "orientation": 0
+    },
+    "169": {
+      "replace": true,
+      "file": "CA_169_trap_spears.glb",
+      "orientation": 0
+    },
+    "170": {
+      "replace": true,
+      "file": "CA_170_trap_spears.glb",
+      "orientation": 0
+    },
+    "172": {
+      "replace": true,
+      "file": "CA_172_stalagmites.glb",
+      "orientation": 0
+    },
+    "174": {
+      "replace": true,
+      "file": "CA_174_stalagmites.glb",
+      "orientation": 0
+    },
+    "175": {
+      "mirror": true
+    },
+    "176": {
+      "replace": true,
+      "file": "CA_176_trap_spears.glb",
+      "orientation": 0
+    },
+    "177": {
+      "replace": true,
+      "file": "CA_177_stalactites_corner.glb",
+      "orientation": 0
+    },
+    "182": {
+      "mirror": true
+    },
+    "183": {
+      "mirror": true
+    },
+    "186": {
+      "replace": true,
+      "file": "CA_186_round_funny_chest.glb",
+      "orientation": 0
+    },
+    "187": {
+      "replace": true,
+      "file": "CA_187_white_bench_small.glb",
+      "orientation": 0
+    },
+    "190": {
+      "mirror": true
+    },
+    "198": {
+      "mirror": true
+    },
+    "5:4x6x1:2016,2017,2018,2018,2019,2020,2021,2021,2022,2023,2024,2024,2025,2026,2027,2027,2028,2029,2030,2030,2031,2032,2033,2033": {
+      "replace": true,
+      "file": "CA_005_iron_fence_var2.glb",
+      "orientation": 0
+    },
+    "6:1x9x1:2034,2035,2036,2037,2038,2038,2039,2040,2041": {
+      "replace": true,
+      "file": "CA_006_iron_pillar_var2.glb",
+      "orientation": 0
+    },
+    "6:1x7x1:2035,2036,2037,2038,2039,2039,2040": {
+      "replace": true,
+      "file": "CA_006_iron_pillar_var1.glb",
+      "orientation": 0
+    },
+    "6:1x7x1:2034,2035,2036,2037,2039,2040,2041": {
+      "replace": true,
+      "file": "CA_006_iron_pillar_var4.glb",
+      "orientation": 0
+    },
+    "6:1x13x1:2034,2035,2036,2037,2038,2039,2040,2037,2038,2038,2039,2040,2041": {
+      "replace": true,
+      "file": "CA_006_iron_pillar_var5.glb",
+      "orientation": 0
+    },
+    "6:1x14x1:2037,2038,2037,2038,2036,2039,2037,2038,2039,2039,2039,2039,2040,2041": {
+      "replace": true,
+      "file": "CA_006_iron_pillar_var6.glb",
+      "orientation": 0
+    },
+    "6:1x10x1:2037,2038,2037,2038,2036,2037,2038,2039,2040,2041": {
+      "replace": true,
+      "file": "CA_006_iron_pillar_var7.glb",
+      "orientation": 0
+    },
+    "6:1x7x1:2040,2038,2039,2038,2039,2040,2041": {
+      "replace": true,
+      "file": "CA_006_iron_pillar_var4.glb",
+      "orientation": 0
+    },
+    "6:1x16x1:2038,2037,2034,2035,2036,2037,2038,2039,2040,2039,2040,2039,2040,2037,2037,2038": {
+      "replace": true,
+      "file": "CA_006_iron_pillar_var8.glb",
+      "orientation": 0
+    },
+    "6:1x19x1:2034,2035,2036,2037,2038,2039,2040,2038,2039,2040,2038,2039,2039,2040,2039,2038,2039,2040,2041": {
+      "replace": true,
+      "file": "CA_006_iron_pillar_var9.glb",
+      "orientation": 0
+    },
+    "6:1x14x1:2034,2035,2036,2037,2038,2039,2038,2039,2040,2039,2038,2039,2040,2041": {
+      "replace": true,
+      "file": "CA_006_iron_pillar_var10.glb",
+      "orientation": 0
+    },
+    "15:3x4x1:2084,2085,2086,2087,2088,2089,2096,2097,2098,2099,2100,2101": {
+      "replace": true,
+      "file": "CA_015_iron_ladder_var2.glb",
+      "orientation": 0
+    },
+    "15:3x2x1:2084,2085,2086,2099,2100,2101": {
+      "replace": true,
+      "file": "CA_015_iron_ladder_var1.glb",
+      "orientation": 0
+    },
+    "16:1x3x3:2656,2660,2661,2662,2666,2667,2668,2672,2673": {
+      "replace": true,
+      "file": "CA_016_iron_ladder_var3.glb",
+      "orientation": 1
+    },
+    "16:1x7x3:2656,2657,2658,2659,2660,2660,2661,2662,2663,2664,2665,2666,2666,2667,2668,2669,2670,2671,2672,2672,2673": {
+      "replace": true,
+      "file": "CA_016_iron_ladder_var1.glb",
+      "orientation": 1
+    },
+    "16:1x9x3:2656,2657,2658,2659,2660,2661,2659,2660,2661,2662,2663,2664,2665,2666,2667,2665,2666,2667,2668,2669,2670,2671,2672,2673,2671,2672,2673": {
+      "replace": true,
+      "file": "CA_016_iron_ladder_var2.glb",
+      "orientation": 1
+    },
+    "17:5x2x1:2102,2103,2104,2105,2105,2106,2107,2108,2109,2109": {
+      "replace": true,
+      "file": "CA_017_spikes_var1.glb",
+      "orientation": 0
+    },
+    "17:11x2x1:2102,2103,2105,2102,2103,2104,2105,2102,2103,2104,2105,2106,2107,2109,2106,2107,2108,2109,2106,2107,2108,2109": {
+      "replace": true,
+      "file": "CA_017_spikes_var2.glb",
+      "orientation": 0
+    },
+    "18:1x2x10:2110,2111,2112,2113,2114,2115,2116,2117,2110,2111,2112,2113,2114,2115,2116,2117,2114,2115,2116,2117": {
+      "replace": true,
+      "file": "CA_018_spikes_var1.glb",
+      "orientation": 1
+    },
+    "18:1x2x15:2110,2111,2112,2113,2114,2115,2116,2117,2110,2111,2112,2113,2114,2115,2116,2117,2110,2111,2112,2113,2114,2115,2116,2117,2112,2113,2114,2115,2116,2117": {
+      "replace": true,
+      "file": "CA_018_spikes_var2.glb",
+      "orientation": 1
+    },
+    "18:1x2x10:2110,2111,2112,2113,2110,2111,2112,2113,2114,2115,2116,2117,2110,2111,2112,2113,2114,2115,2116,2117": {
+      "replace": true,
+      "file": "CA_018_spikes_var1.glb",
+      "orientation": 1
+    },
+    "18:1x2x2:2110,2111,2112,2113": {
+      "replace": true,
+      "file": "CA_018_spikes_var3.glb",
+      "orientation": 1
+    },
+    "18:1x2x9:2116,2117,2110,2111,2112,2113,2114,2115,2116,2117,2110,2111,2112,2113,2114,2115,2116,2117": {
+      "replace": true,
+      "file": "CA_018_spikes_var5.glb",
+      "orientation": 1
+    },
+    "49:2x1x3:2355,2356,2358,2359,2361,2362": {
+      "replace": true,
+      "file": "CA_049_rail_curve_var1.glb",
+      "orientation": 0
+    },
+    "51:2x1x3:127,2371,2373,2374,2376,2377": {
+      "replace": true,
+      "file": "CA_051_rail_curve_var2.glb",
+      "orientation": 0
+    },
+    "56:3x1x3:-1,2394,2395,2393,2397,2398,2396,2400,2401": {
+      "replace": true,
+      "file": "CA_056_058_060_061_rail_branch.glb",
+      "orientation": 3
+    },
+    "69:20x1x4:2488,2489,2488,2489,2488,2489,2488,2489,2488,2489,2488,2489,2488,2489,2488,2489,2488,2489,2488,2489,2490,2491,2490,2491,2490,2491,2490,2491,2490,2491,2490,2491,2490,2491,2490,2491,2490,2491,2490,2491,2490,2491,2490,2491,2490,2491,2490,2491,2490,2491,2490,2491,2490,2491,2490,2491,2490,2491,2490,-1,2492,2493,2492,2493,2492,2493,2492,2493,2492,2493,2492,2493,2492,2493,2492,2493,2492,2493": {
+      "replace": true,
+      "file": "CA_069_wooden_planks_var2.glb",
+      "orientation": 0
+    },
+    "42:1x2x1:2297,2298": {
+      "replace": true,
+      "file": "CA_042_shining_sparkles.glb",
+      "orientation": 0
+    },
+    "73:2x1x2:127,2533,2536,2537": {
+      "replace": true,
+      "file": "CA_073_stone_var1.glb",
+      "orientation": 0
+    },
+    "115:9x1x1:2753,2754,2753,2754,2753,2754,2753,2754,2753": {
+      "replace": true,
+      "file": "CA_115_116_cosmodrome_floor_limits_var1.glb",
+      "orientation": 0
+    },
+    "116:1x1x9:2756,2757,2756,2757,2756,2757,2756,2757,2756": {
+      "replace": true,
+      "file": "CA_115_116_cosmodrome_floor_limits_var1.glb",
+      "orientation": 1
+    },
+    "115:2x1x1:2754,2754": {
+      "replace": true,
+      "file": "CA_115_116_cosmodrome_floor_limits_var2.glb",
+      "orientation": 0
+    },
+    "116:1x1x2:2757,2757": {
+      "replace": true,
+      "file": "CA_115_116_cosmodrome_floor_limits_var2.glb",
+      "orientation": 1
+    },
+    "116:1x1x3:2757,2757,2757": {
+      "replace": true,
+      "file": "CA_116_cosmodrome_floor_limits_var3.glb",
+      "orientation": 1
+    },
+    "119:3x1x3:2760,2761,2761,2763,2764,2764,2763,2767,2765": {
+      "replace": true,
+      "file": "CA_119_cosmodrome_floor_holes.glb",
+      "orientation": 0
+    },
+    "119:3x1x2:2762,2761,2762,2767,2765,2764": {
+      "replace": true,
+      "file": "CA_119_cosmodrome_floor_holes_var2.glb",
+      "orientation": 0
+    },
+    "119:3x1x3:2763,2768,2765,2763,2765,2765,2766,2764,2764": {
+      "replace": true,
+      "file": "CA_119_cosmodrome_floor_holes.glb",
+      "orientation": 0
+    },
+    "119:3x1x2:2762,2761,2762,2768,2767,2768": {
+      "replace": true,
+      "file": "CA_119_cosmodrome_floor_holes_var2.glb",
+      "orientation": 2
+    },
+    "119:12x1x19:2760,2761,2761,2761,2761,2762,2762,2761,2762,2761,2761,2762,2766,2764,2764,2764,2764,2765,2764,2765,2765,2764,2768,2767,2763,2764,2764,2764,2764,2765,2767,2765,2768,2767,2765,2764,2763,2767,2767,2767,2767,2768,2767,2768,2765,2767,2768,2767,2766,2765,2765,2765,2765,2765,2764,2765,2768,2767,2765,2764,2763,2764,2764,2764,2764,2768,2765,2764,2765,2767,2768,2767,2766,2764,2764,2764,2764,2765,2764,2767,2765,2764,2768,2767,2763,2764,2764,2764,2764,2765,2764,2767,2768,2767,2765,2764,2763,2767,2767,2767,2767,2768,2767,2764,2765,2767,2768,2767,2766,2765,2765,2765,2765,2765,2764,2765,2764,2764,2765,2764,2763,2768,2768,2768,2768,2768,2767,2768,2767,2767,2768,2767,2763,2765,2765,2765,2765,2764,2765,2764,2765,2764,2764,2765,2766,2764,2764,2764,2764,2767,2768,2767,2768,2767,2767,2768,2763,2767,2767,2767,2767,2768,2767,2764,2764,2768,2768,2767,2766,2765,2765,2765,2765,2765,2764,2765,2767,2765,2765,2764,2763,2768,2768,2768,2768,2768,2767,2768,2767,2768,2768,2767,2763,2765,2765,2765,2765,2764,2765,2764,2764,2765,2764,2765,2763,2765,2765,2765,2765,2764,2765,2764,2764,2765,2764,2765,2766,2764,2764,2764,2764,2767,2768,2767,2767,2768,2767,2768": {
+      "replace": true,
+      "file": "CA_119_cosmodrome_floor_holes_var6.glb",
+      "orientation": 0
+    },
+    "114:1x2x1:2750,2751": {
+      "replace": true,
+      "file": "CA_114_cone_var1.glb",
+      "orientation": 0
+    },
+    "149:4x1x5:-1,2861,2862,2863,2864,2865,-1,2866,2868,-1,-1,-1,2870,2871,-1,2872,-1,2874,2875,2876": {
+      "replace": true,
+      "file": "CA_149_cosmodrome_landing_floor_spot_var1.glb",
+      "orientation": 0
+    },
+    "132:3x3x2:-1,2811,-1,2811,-1,-1,-1,-1,-1,-1,2811,2812,2811,2812,-1,2812": {
+      "replace": true,
+      "file": "CA_132_cosmodrome_floor_slope_left_end_var4.glb",
+      "orientation": 0
+    },
+    "137:1x8x1:2820,2821,2822,2823,2824,2825,2826,2827": {
+      "replace": true,
+      "file": "CA_137_cosmodrome_support_pillar_var1.glb",
+      "orientation": 0
+    },
+    "138:18x1x4:2829,2830,2829,2830,2829,2830,2829,2830,2829,2830,2829,2830,2829,2830,2829,2830,2829,2830,2831,2832,2831,2832,2831,2832,2831,2832,2831,2832,2831,2832,2831,2832,2831,2832,2831,2832,2831,2832,2831,2832,2831,2832,2831,2832,2831,2832,2831,2832,2831,2832,2831,2832,2831,2832,2833,2834,2833,2834,2833,2834,2833,2834,2833,2834,2833,2834,2833,2834,2833,2834,2833,2834": {
+      "replace": true,
+      "file": "CA_138_electrifying_bars_var1.glb",
+      "orientation": 0
+    },
+    "143:2x8x2:0,2839,0,2840,0,2841,2842,2843,0,2839,0,2840,0,2841,2842,2843,2849,2850,2851,2852,2853,2854,2855,2856,2849,2850,2851,2852,2853,2854,2855,2856": {
+      "replace": true,
+      "file": "CA_143_wooden_box_var1.glb",
+      "orientation": 0
+    },
+    "143:2x6x6:0,2839,0,2840,0,2841,2842,2843,-1,-1,-1,-1,2849,2850,2851,2852,2853,2854,2855,2856,0,2839,2842,2843,-1,-1,-1,-1,-1,-1,-1,-1,0,2844,2847,2848,0,2839,0,2840,0,2841,2842,2843,2849,2850,2855,2856,0,2844,0,2845,0,2846,2847,2848,-1,-1,-1,-1,2849,2850,2851,2852,2853,2854,2855,2856": {
+      "replace": true,
+      "file": "CA_143_wooden_box_var2.glb",
+      "orientation": 0
+    },
+    "143:4x6x6:-1,-1,0,2839,-1,-1,0,2840,-1,-1,0,2841,-1,-1,2842,2843,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2844,-1,0,2839,2845,-1,0,2839,2846,-1,0,2840,2848,-1,0,2839,-1,-1,2842,2843,-1,0,-1,2849,2850,0,0,2844,2852,0,0,2844,2854,2842,0,2845,2856,-1,0,2844,-1,-1,2847,2848,-1,0,-1,0,2839,0,2849,2850,2840,0,2849,2850,2841,2847,2851,2852,2843,-1,2849,2850,-1,-1,2855,2856,-1,2849,2850,0,2844,2851,2852,0,2845,2853,2854,0,2846,2855,2856,2847,2848,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2849,2850,-1,-1,2851,2852,-1,-1,2853,2854,-1,-1,2855,2856": {
+      "replace": true,
+      "file": "CA_143_wooden_box_var4.glb",
+      "orientation": 0
+    },
+    "143:4x4x4:-1,-1,0,2839,-1,-1,2842,2843,-1,-1,-1,-1,-1,-1,-1,-1,0,2839,2849,2850,0,2840,2855,2856,0,2841,-1,-1,2842,2843,-1,-1,0,2844,-1,-1,0,2845,-1,-1,0,2846,-1,-1,2847,2848,-1,-1,2849,2850,-1,-1,2851,2852,-1,-1,2853,2854,-1,-1,2855,2856": {
+      "replace": true,
+      "file": "CA_143_wooden_box_var3.glb",
+      "orientation": 0
+    },
+    "156:4x3x2:0,0,0,2906,0,0,0,2907,2908,2909,2909,2910,2914,127,127,2915,2916,127,127,2917,2918,2919,2919,2920": {
+      "replace": true,
+      "file": "CA_156_blue_table_var1.glb",
+      "orientation": 0
+    },
+    "157:2x2x1:2921,2922,2923,2925": {
+      "replace": true,
+      "file": "CA_157_white_bench_var1.glb",
+      "orientation": 0
+    },
+    "159:2x3x3:0,2931,0,2932,2933,2934,0,127,0,2938,2936,2937,2941,2942,2943,2944,2945,2946": {
+      "replace": true,
+      "file": "CA_159_simple_bed_var2.glb",
+      "orientation": 0
+    },
+    "159:2x3x5:0,2931,0,2932,2933,2934,0,127,0,2935,2936,2937,0,127,0,2935,2939,2940,0,127,0,2938,2939,2940,2941,2942,2943,2944,2945,2946": {
+      "replace": true,
+      "file": "CA_159_simple_bed_var1.glb",
+      "orientation": 0
+    },
+    "69:7x2x11:-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2488,2489,2489,2488,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2490,2491,2491,2490,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2492,2493,2493,2492,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2488,2489,2489,2488,-1,-1,-1,-1,-1,-1,-1,-1,-1,2488,2490,2491,2491,2490,-1,2491,-1,-1,-1,-1,-1,-1,-1,2492,2490,2491,2491,2490,2492,2493,-1,-1,-1,-1,-1,-1,-1,-1,2492,2493,2493,2492,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2488,2489,2489,2488,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2490,2491,2491,2490,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2490,2491,2491,2490,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2492,2493,2493,2492": {
+      "replace": true,
+      "file": "CA_069_wooden_planks_var1.glb",
+      "orientation": 0
+    }
+  },
+  "4": {
+    "0": {
+      "mirror": false
+    },
+    "3": {
+      "mirror": true
+    },
+    "4": {
+      "mirror": true
+    },
+    "5": {
+      "mirror": true
+    },
+    "6": {
+      "mirror": true
+    },
+    "7": {
+      "mirror": true
+    },
+    "8": {
+      "mirror": true
+    },
+    "9": {
+      "replace": true,
+      "file": "EM_009_hole_with_bars.glb",
+      "orientation": 0
+    },
+    "14": {
+      "mirror": true
+    },
+    "16": {
+      "mirror": true
+    },
+    "17": {
+      "mirror": true
+    },
+    "18": {
+      "mirror": true
+    },
+    "21": {
+      "replace": true,
+      "file": "EM_021_cylinder_vertical.glb",
+      "orientation": 0
+    },
+    "22": {
+      "replace": true,
+      "file": "EM_022_023_cylinder_horizontal.glb",
+      "orientation": 0
+    },
+    "23": {
+      "replace": true,
+      "file": "EM_022_023_cylinder_horizontal.glb",
+      "orientation": 1
+    },
+    "29": {
+      "replace": true,
+      "file": "EM_029_031_cylinder_curve_up.glb",
+      "orientation": 0
+    },
+    "31": {
+      "replace": true,
+      "file": "EM_029_031_cylinder_curve_up.glb",
+      "orientation": 2
+    },
+    "32": {
+      "replace": true,
+      "file": "EM_032_033_034_035_cylinder_curve_down.glb",
+      "orientation": 0
+    },
+    "33": {
+      "replace": true,
+      "file": "EM_032_033_034_035_cylinder_curve_down.glb",
+      "orientation": 3
+    },
+    "34": {
+      "replace": true,
+      "file": "EM_032_033_034_035_cylinder_curve_down.glb",
+      "orientation": 2
+    },
+    "35": {
+      "replace": true,
+      "file": "EM_032_033_034_035_cylinder_curve_down.glb",
+      "orientation": 1
+    },
+    "36": {
+      "replace": true,
+      "file": "EM_036_cylinder_vertical_small.glb",
+      "orientation": 0
+    },
+    "37": {
+      "replace": true,
+      "file": "EM_037_038_cylinder_curve_down_start.glb",
+      "orientation": 0
+    },
+    "38": {
+      "replace": true,
+      "file": "EM_037_038_cylinder_curve_down_start.glb",
+      "orientation": 3
+    },
+    "39": {
+      "replace": true,
+      "file": "EM_039_cylinder_vertical_small_start.glb",
+      "orientation": 0
+    },
+    "45": {
+      "replace": true,
+      "file": "EM_045_067_cylinder_vertical_fork.glb",
+      "orientation": 0
+    },
+    "48": {
+      "replace": true,
+      "file": "EM_048_counter_J.glb",
+      "orientation": 0
+    },
+    "49": {
+      "replace": true,
+      "file": "EM_049_cone.glb",
+      "orientation": 0
+    },
+    "50": {
+      "replace": true,
+      "file": "EM_050_cylinder_horizontal_start.glb",
+      "orientation": 0
+    },
+    "59": {
+      "mirror": false
+    },
+    "60": {
+      "mirror": false
+    },
+    "67": {
+      "replace": true,
+      "file": "EM_045_067_cylinder_vertical_fork.glb",
+      "orientation": 3
+    },
+    "68": {
+      "mirror": true
+    },
+    "69": {
+      "mirror": true
+    },
+    "70": {
+      "mirror": true
+    },
+    "75": {
+      "replace": true,
+      "file": "EM_075_fire_extinguisher.glb",
+      "orientation": 0
+    },
+    "77": {
+      "replace": true,
+      "file": "EM_077_stairs.glb",
+      "orientation": 3
+    },
+    "78": {
+      "mirror": true
+    },
+    "79": {
+      "mirror": true
+    },
+    "82": {
+      "mirror": false
+    },
+    "83": {
+      "replace": true,
+      "file": "EM_083_capsule_light.glb",
+      "orientation": 0
+    },
+    "84": {
+      "mirror": true
+    },
+    "85": {
+      "mirror": true
+    },
+    "86": {
+      "mirror": true
+    },
+    "87": {
+      "mirror": true
+    },
+    "88": {
+      "mirror": true
+    },
+    "89": {
+      "mirror": true
+    },
+    "90": {
+      "mirror": true
+    },
+    "92": {
+      "replace": true,
+      "file": "EM_92_93_window_fence.glb",
+      "orientation": 1
+    },
+    "93": {
+      "replace": true,
+      "file": "EM_92_93_window_fence.glb",
+      "orientation": 0
+    },
+    "94": {
+      "replace": true,
+      "file": "EM_021_cylinder_vertical.glb",
+      "orientation": 0
+    },
+    "100": {
+      "replace": true,
+      "file": "EM_100_window_fence_corner.glb",
+      "orientation": 0
+    },
+    "107": {
+      "replace": true,
+      "file": "EM_107_cylinder_vertical_top_deco.glb",
+      "orientation": 0
+    },
+    "108": {
+      "replace": true,
+      "file": "EM_108_109_cylinder_railings.glb",
+      "orientation": 0
+    },
+    "109": {
+      "replace": true,
+      "file": "EM_108_109_cylinder_railings.glb",
+      "orientation": 1
+    },
+    "111": {
+      "replace": true,
+      "file": "EM_111_125_window_fence_border.glb",
+      "orientation": 0
+    },
+    "112": {
+      "replace": true,
+      "file": "EM_112_counter_rectangular.glb",
+      "orientation": 0
+    },
+    "114": {
+      "replace": true,
+      "file": "EM_114_window_fence_border.glb",
+      "orientation": 1
+    },
+    "119": {
+      "replace": true,
+      "file": "EM_119_radar.glb",
+      "orientation": 0
+    },
+    "125": {
+      "replace": true,
+      "file": "EM_111_125_window_fence_border.glb",
+      "orientation": 1
+    },
+    "126": {
+      "replace": true,
+      "file": "EM_126_127_132_140_long_bench.glb",
+      "orientation": 0
+    },
+    "127": {
+      "replace": true,
+      "file": "EM_126_127_132_140_long_bench.glb",
+      "orientation": 3
+    },
+    "128": {
+      "replace": true,
+      "file": "EM_128_129_130_131_chair.glb",
+      "orientation": 0
+    },
+    "129": {
+      "replace": true,
+      "file": "EM_128_129_130_131_chair.glb",
+      "orientation": 1
+    },
+    "130": {
+      "replace": true,
+      "file": "EM_128_129_130_131_chair.glb",
+      "orientation": 3
+    },
+    "131": {
+      "replace": true,
+      "file": "EM_128_129_130_131_chair.glb",
+      "orientation": 2
+    },
+    "132": {
+      "replace": true,
+      "file": "EM_126_127_132_140_long_bench.glb",
+      "orientation": 1
+    },
+    "133": {
+      "replace": true,
+      "file": "EM_133_blue_table.glb",
+      "orientation": 0
+    },
+    "135": {
+      "replace": true,
+      "file": "EM_135_dolly_cart_barriers.glb",
+      "orientation": 0
+    },
+    "136": {
+      "replace": true,
+      "file": "EM_136_big_spool.glb",
+      "orientation": 0
+    },
+    "137": {
+      "replace": true,
+      "file": "EM_137_black_hose.glb",
+      "orientation": 0
+    },
+    "138": {
+      "replace": true,
+      "file": "EM_138_dolly_cart.glb",
+      "orientation": 0
+    },
+    "139": {
+      "replace": true,
+      "file": "EM_139_bunk_beds.glb",
+      "orientation": 0
+    },
+    "140": {
+      "replace": true,
+      "file": "EM_126_127_132_140_long_bench.glb",
+      "orientation": 2
+    },
+    "141": {
+      "replace": true,
+      "file": "EM_141_oil_barrel.glb",
+      "orientation": 0
+    },
+    "142": {
+      "replace": true,
+      "file": "EM_142_piled_oil_barrels.glb",
+      "orientation": 0
+    },
+    "143": {
+      "replace": true,
+      "file": "EM_143_map_screen.glb",
+      "orientation": 0
+    },
+    "144": {
+      "replace": true,
+      "file": "EM_144_megaphone.glb",
+      "orientation": 0
+    },
+    "146": {
+      "replace": true,
+      "file": "EM_146_airlock_curved_wall.glb",
+      "orientation": 0
+    },
+    "150": {
+      "replace": true,
+      "file": "EM_150_wheel_switch_base.glb",
+      "orientation": 0
+    },
+    "151": {
+      "replace": true,
+      "file": "EM_151_dolly_cart_slope.glb",
+      "orientation": 0
+    },
+    "155": {
+      "replace": true,
+      "file": "EM_155_wooden_box.glb",
+      "orientation": 0
+    },
+    "157": {
+      "mirror": true
+    },
+    "108:5x2x1:127,4141,127,4141,4141,4142,4143,4142,4143,4143": {
+      "replace": true,
+      "file": "EM_108_cylinder_railings_var1.glb",
+      "orientation": 0
+    },
+    "108:3x2x1:127,4141,4141,4142,4143,4143": {
+      "replace": true,
+      "file": "EM_108_cylinder_railings_var2.glb",
+      "orientation": 0
+    },
+    "108:4x2x1:127,4141,127,4141,4142,4143,4142,4143": {
+      "replace": true,
+      "file": "EM_108_cylinder_railings_var3.glb",
+      "orientation": 0
+    },
+    "108:4x2x1:127,4141,4141,4141,4142,4143,4143,4143": {
+      "replace": true,
+      "file": "EM_108_cylinder_railings_var4.glb",
+      "orientation": 0
+    },
+    "109:1x2x4:127,4144,4145,4146,127,4144,4145,4146": {
+      "replace": true,
+      "file": "EM_109_cylinder_railings_var1.glb",
+      "orientation": 0
+    },
+    "21:4x10x1:3147,3146,3146,3146,-1,3147,3147,3147,-1,3147,3146,-1,-1,3147,3147,-1,-1,3146,-1,-1,-1,3147,-1,-1,-1,3146,-1,-1,-1,3147,-1,-1,-1,3146,-1,-1,-1,3147": {
+      "replace": true,
+      "file": "EM_021_cylinder_vertical_var2.glb",
+      "orientation": 0
+    },
+    "21:1x10x1:3146,3147,3147,3147,3146,3147,3146,3147,3146,3147": {
+      "replace": true,
+      "file": "EM_021_cylinder_vertical_var3.glb",
+      "orientation": 0
+    },
+    "21:1x2x2:-1,3147,3146,3147": {
+      "replace": true,
+      "file": "EM_021_cylinder_vertical_var5.glb",
+      "orientation": 0
+    },
+    "21:1x3x1:3146,3147,3147": {
+      "replace": true,
+      "file": "EM_021_cylinder_vertical_var6.glb",
+      "orientation": 0
+    },
+    "21:1x4x2:-1,3146,3147,3147,3146,3147,3146,3147": {
+      "replace": true,
+      "file": "EM_021_cylinder_vertical_var4.glb",
+      "orientation": 0
+    },
+    "142:1x4x2:3504,3505,3506,3507,3504,3505,3506,3507": {
+      "replace": true,
+      "file": "EM_141_piled_oil_barrels_var1.glb",
+      "orientation": 0
+    },
+    "155:2x2x2:0,3516,3519,3520,3521,3522,3527,3528": {
+      "replace": true,
+      "file": "EM_155_wooden_box_var1.glb",
+      "orientation": 0
+    },
+    "155:5x8x4:0,0,3516,-1,-1,0,0,3517,-1,-1,0,0,3518,-1,-1,0,3519,3520,-1,-1,0,3518,-1,-1,-1,3519,3520,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3521,3522,-1,-1,-1,3523,3524,-1,-1,3521,3525,3526,-1,-1,3523,3527,3528,-1,-1,3525,3526,-1,-1,-1,3527,3528,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,3516,-1,-1,-1,0,3517,-1,-1,-1,0,3518,-1,-1,-1,3519,3520,0,3516,-1,-1,-1,0,3517,-1,-1,-1,0,3518,-1,-1,-1,3519,3520,-1,-1,-1,-1,-1,-1,3521,3522,-1,-1,-1,3523,3524,-1,-1,-1,3525,3526,-1,-1,-1,3527,3528,3521,3522,-1,-1,-1,3523,3524,-1,-1,-1,3525,3526,-1,-1,-1,3527,3528": {
+      "replace": true,
+      "file": "EM_155_wooden_box_var2.glb",
+      "orientation": 0
+    },
+    "155:4x4x4:-1,-1,0,3516,-1,-1,0,3517,-1,-1,0,3518,-1,-1,3519,3520,0,3516,3521,3522,0,3517,3523,3524,0,3518,3525,3526,3519,3520,3527,3528,0,3516,-1,-1,0,3517,-1,-1,0,3518,-1,-1,3519,3520,-1,-1,3521,3522,-1,-1,3523,3524,-1,-1,3525,3526,-1,-1,3527,3528": {
+      "replace": true,
+      "file": "EM_155_wooden_box_var4.glb",
+      "orientation": 0
+    },
+    "155:2x6x4:-1,-1,-1,-1,0,3516,0,3517,0,3518,3519,3520,-1,-1,-1,-1,3521,3522,3523,3524,3525,3526,3527,3528,0,3516,0,3517,0,3518,3519,3520,-1,-1,-1,-1,3521,3522,3523,3524,3525,3526,3527,3528": {
+      "replace": true,
+      "file": "EM_155_wooden_box_var8.glb",
+      "orientation": 0
+    },
+    "155:4x5x2:0,3516,0,3516,0,3516,0,3517,0,3517,0,3518,0,3518,3519,3520,3519,3520,-1,-1,3521,3522,3521,3522,3521,3522,3523,3524,3523,3524,3525,3526,3525,3526,3527,3528,3527,3528": {
+      "replace": true,
+      "file": "EM_155_wooden_box_var9.glb",
+      "orientation": 0
+    },
+    "155:2x4x1:0,3516,0,3517,0,3518,3519,3520": {
+      "replace": true,
+      "file": "EM_155_wooden_box_var11.glb",
+      "orientation": 0
+    },
+    "155:2x6x4:0,3516,0,3517,0,3518,3519,3520,-1,-1,-1,-1,3521,3522,3523,3524,3525,3526,3527,3528,-1,-1,-1,-1,0,3516,0,3517,0,3518,0,3517,0,3518,3519,3520,3521,3522,3523,3524,3525,3526,3523,3524,3525,3526,3527,3528": {
+      "replace": true,
+      "file": "EM_155_wooden_box_var10.glb",
+      "orientation": 0
+    },
+    "133:2x3x3:0,3397,0,3398,3399,3401,0,127,0,127,3404,3405,3406,3407,3408,3409,3410,3413": {
+      "replace": true,
+      "file": "EM_133_blue_table_var1.glb",
+      "orientation": 0
+    },
+    "133:3x3x3:0,0,3397,0,0,3398,3399,3400,3401,0,0,127,0,0,127,3404,2912,3405,3406,127,3407,3408,127,3409,3410,3411,3413": {
+      "replace": true,
+      "file": "EM_133_blue_table_var2.glb",
+      "orientation": 0
+    },
+    "133:2x3x4:0,3397,0,3398,3399,3401,0,127,0,127,3402,3403,0,127,0,127,3404,3405,3406,3407,3408,3409,3410,3413": {
+      "replace": true,
+      "file": "EM_133_blue_table_var3.glb",
+      "orientation": 0
+    },
+    "133:2x3x2:0,3397,0,3398,3399,3401,3406,3407,3408,3409,3410,3413": {
+      "replace": true,
+      "file": "EM_133_blue_table_var4.glb",
+      "orientation": 0
+    },
+    "140:1x4x3:3490,3491,3492,3493,127,3497,3498,3499,3500,3501,3502,3503": {
+      "replace": true,
+      "file": "EM_126_140_long_bench_var1.glb",
+      "orientation": 2
+    },
+    "126:1x4x3:3368,3369,3370,3371,127,3372,3373,3374,3377,3378,3379,3380": {
+      "replace": true,
+      "file": "EM_126_140_long_bench_var1.glb",
+      "orientation": 0
+    },
+    "12:2x1x1:4876,4877": {
+      "replace": true,
+      "file": "EM_012_airlock_entrance.glb",
+      "orientation": 0
+    },
+    "112:2x3x3:0,3340,0,3341,3342,3343,-1,3345,3346,3347,3348,3349,-1,3345,3346,3347,3348,3349": {
+      "replace": true,
+      "file": "EM_112_counter_corner_var1.glb",
+      "orientation": 0
+    }
+  },
+  "5": {
+    "0": {
+      "mirror": true
+    },
+    "1": {
+      "mirror": true
+    },
+    "2": {
+      "mirror": true
+    },
+    "3": {
+      "replace": true,
+      "file": "DI_003_004_006_007_entrance.glb",
+      "orientation": 2
+    },
+    "4": {
+      "replace": true,
+      "file": "DI_003_004_006_007_entrance.glb",
+      "orientation": 0
+    },
+    "5": {
+      "replace": true,
+      "file": "DI_005_008_entrance.glb",
+      "orientation": 0
+    },
+    "6": {
+      "replace": true,
+      "file": "DI_003_004_006_007_entrance.glb",
+      "orientation": 3
+    },
+    "7": {
+      "replace": true,
+      "file": "DI_003_004_006_007_entrance.glb",
+      "orientation": 1
+    },
+    "8": {
+      "replace": true,
+      "file": "DI_005_008_entrance.glb",
+      "orientation": 1
+    },
+    "9": {
+      "replace": true,
+      "file": "DI_009_pattern_block.glb",
+      "orientation": 0
+    },
+    "10": {
+      "replace": true,
+      "file": "DI_010_pillar.glb",
+      "orientation": 0
+    },
+    "11": {
+      "replace": true,
+      "file": "DI_011_fountain.glb",
+      "orientation": 0
+    },
+    "13": {
+      "mirror": true
+    },
+    "15": {
+      "replace": true,
+      "file": "DI_015_pot.glb",
+      "orientation": 0
+    },
+    "16": {
+      "replace": true,
+      "file": "DI_016_candle_stand.glb",
+      "orientation": 0
+    },
+    "17": {
+      "mirror": true
+    },
+    "19": {
+      "mirror": true
+    },
+    "20": {
+      "mirror": true
+    },
+    "21": {
+      "replace": true,
+      "file": "DI_003_004_006_007_entrance.glb",
+      "orientation": 3
+    },
+    "22": {
+      "mirror": true
+    },
+    "23": {
+      "replace": true,
+      "file": "DI_023_pouf.glb",
+      "orientation": 0
+    },
+    "24": {
+      "replace": true,
+      "file": "DI_024_rug.glb",
+      "orientation": 0
+    },
+    "25": {
+      "replace": true,
+      "file": "DI_025_plant.glb",
+      "orientation": 0
+    },
+    "26": {
+      "replace": true,
+      "file": "DI_026_027_lamp.glb",
+      "orientation": 0
+    },
+    "27": {
+      "replace": true,
+      "file": "DI_026_027_lamp.glb",
+      "orientation": 3
+    },
+    "28": {
+      "replace": true,
+      "file": "DI_028_table.glb",
+      "orientation": 0
+    },
+    "29": {
+      "mirror": true
+    },
+    "30": {
+      "mirror": true
+    },
+    "31": {
+      "replace": true,
+      "file": "DI_003_004_006_007_entrance.glb",
+      "orientation": 2
+    },
+    "32": {
+      "replace": true,
+      "file": "DI_032_shelf.glb",
+      "orientation": 0
+    },
+    "34": {
+      "replace": true,
+      "file": "DI_034_035_open_wall.glb",
+      "orientation": 3
+    },
+    "35": {
+      "replace": true,
+      "file": "DI_034_035_open_wall.glb",
+      "orientation": 0
+    },
+    "36": {
+      "replace": true,
+      "file": "DI_036_bottle.glb",
+      "orientation": 0
+    },
+    "37": {
+      "mirror": true
+    },
+    "38": {
+      "replace": true,
+      "file": "DI_038_ladder.glb",
+      "orientation": 0
+    },
+    "39": {
+      "mirror": true
+    },
+    "40": {
+      "mirror": true
+    },
+    "41": {
+      "mirror": true
+    },
+    "42": {
+      "mirror": true
+    },
+    "43": {
+      "mirror": true
+    },
+    "44": {
+      "mirror": true
+    },
+    "45": {
+      "mirror": true
+    },
+    "46": {
+      "mirror": true
+    },
+    "47": {
+      "replace": true,
+      "file": "DI_047_pillar.glb",
+      "orientation": 0
+    },
+    "48": {
+      "replace": true,
+      "file": "DI_048_towels_on_shelf.glb",
+      "orientation": 0
+    },
+    "49": {
+      "mirror": true
+    },
+    "50": {
+      "replace": true,
+      "file": "DI_050_chest.glb",
+      "orientation": 0
+    },
+    "51": {
+      "replace": true,
+      "file": "DI_051_candle.glb",
+      "orientation": 0
+    },
+    "54": {
+      "replace": true,
+      "file": "DI_054_counter_corner.glb",
+      "orientation": 0
+    },
+    "55": {
+      "replace": true,
+      "file": "DI_055_candle_on_plate.glb",
+      "orientation": 0
+    },
+    "56": {
+      "replace": true,
+      "file": "DI_056_small_bottle.glb",
+      "orientation": 0
+    },
+    "57": {
+      "replace": true,
+      "file": "DI_057_three_shelfs_with_items.glb",
+      "orientation": 0
+    },
+    "58": {
+      "replace": true,
+      "file": "DI_058_pillows.glb",
+      "orientation": 0
+    },
+    "59": {
+      "replace": true,
+      "file": "DI_059_bunny_in_bowl.glb",
+      "orientation": 0
+    },
+    "61": {
+      "replace": true,
+      "file": "DI_061_062_cabinet.glb",
+      "orientation": 1
+    },
+    "62": {
+      "replace": true,
+      "file": "DI_061_062_cabinet.glb",
+      "orientation": 2
+    },
+    "64": {
+      "replace": true,
+      "file": "DI_064_store_items.glb",
+      "orientation": 0
+    },
+    "65": {
+      "replace": true,
+      "file": "DI_065_tomatoes.glb",
+      "orientation": 0
+    },
+    "66": {
+      "replace": true,
+      "file": "DI_066_candle.glb",
+      "orientation": 0
+    },
+    "67": {
+      "replace": true,
+      "file": "DI_067_shelf_items.glb",
+      "orientation": 0
+    },
+    "68": {
+      "replace": true,
+      "file": "DI_068_069_cabinet.glb",
+      "orientation": 3
+    },
+    "69": {
+      "replace": true,
+      "file": "DI_068_069_cabinet.glb",
+      "orientation": 0
+    },
+    "70": {
+      "replace": true,
+      "file": "DI_070_cash_register.glb",
+      "orientation": 0
+    },
+    "71": {
+      "replace": true,
+      "file": "DI_071_072_railing_straight_pole.glb",
+      "orientation": 0
+    },
+    "72": {
+      "replace": true,
+      "file": "DI_071_072_railing_straight_pole.glb",
+      "orientation": 1
+    },
+    "73": {
+      "replace": true,
+      "file": "DI_073_bunny_doll.glb",
+      "orientation": 0
+    },
+    "74": {
+      "replace": true,
+      "file": "DI_074_telescope.glb",
+      "orientation": 0
+    },
+    "75": {
+      "replace": true,
+      "file": "DI_075_076_railing_corner.glb",
+      "orientation": 0
+    },
+    "76": {
+      "replace": true,
+      "file": "DI_075_076_railing_corner.glb",
+      "orientation": 2
+    },
+    "77": {
+      "replace": true,
+      "file": "DI_077_78_railing_end.glb",
+      "orientation": 0
+    },
+    "78": {
+      "replace": true,
+      "file": "DI_077_78_railing_end.glb",
+      "orientation": 3
+    },
+    "79": {
+      "replace": true,
+      "file": "DI_079_080_railing_straight_rope.glb",
+      "orientation": 1
+    },
+    "80": {
+      "replace": true,
+      "file": "DI_079_080_railing_straight_rope.glb",
+      "orientation": 0
+    },
+    "82": {
+      "replace": true,
+      "file": "DI_082_radio_broadcaster.glb",
+      "orientation": 0
+    },
+    "85": {
+      "replace": true,
+      "file": "DI_085_desk.glb",
+      "orientation": 0
+    },
+    "86": {
+      "replace": true,
+      "file": "DI_086_paper_rolls_container.glb",
+      "orientation": 0
+    },
+    "87": {
+      "replace": true,
+      "file": "DI_087_window.glb",
+      "orientation": 0
+    },
+    "92": {
+      "mirror": true
+    },
+    "93": {
+      "mirror": true
+    },
+    "94": {
+      "replace": true,
+      "file": "DI_094_towel_over_counter.glb",
+      "orientation": 0
+    },
+    "95": {
+      "mirror": true
+    },
+    "96": {
+      "replace": true,
+      "file": "DI_096_health.glb",
+      "orientation": 0
+    },
+    "97": {
+      "replace": true,
+      "file": "DI_097_magic.glb",
+      "orientation": 0
+    },
+    "98": {
+      "replace": true,
+      "file": "DI_098_elephant_doll.glb",
+      "orientation": 0
+    },
+    "100": {
+      "replace": true,
+      "file": "DI_100_bottle_glasses.glb",
+      "orientation": 0
+    },
+    "101": {
+      "replace": true,
+      "file": "DI_101_glasses_on_shelf.glb",
+      "orientation": 0
+    },
+    "102": {
+      "replace": true,
+      "file": "DI_102_glasses_on_shelf.glb",
+      "orientation": 0
+    },
+    "32:3x1x1:5361,5362,5362": {
+      "replace": true,
+      "file": "DI_032_shelf_var01.glb",
+      "orientation": 0
+    },
+    "57:3x6x1:5056,5057,5058,5059,5060,5061,5062,5063,5064,5065,5066,5067,5068,5069,5070,5071,5072,5073": {
+      "replace": true,
+      "file": "DI_057_three_shelfs_with_items.glb",
+      "orientation": 0
+    },
+    "16:1x6x2:4340,4341,4342,4343,4344,4345,4340,4341,4345": {
+      "replace": true,
+      "file": "DI_016_candle_stand_var01.glb",
+      "orientation": 0
+    },
+    "25:3x6x2:0,0,4405,0,0,4406,0,0,4407,0,0,4408,0,0,4409,4410,4411,4412,127,4413,4414,4415,4416,4417,4418,4419,4420,4421,4422,4423,4424,4425,4426,4427,4428,4429": {
+      "replace": true,
+      "file": "DI_025_plant.glb",
+      "orientation": 0
+    },
+    "25:2x6x3:0,127,0,127,0,4401,0,4402,0,4403,127,4404,0,4405,0,4406,0,4407,0,4408,0,4409,4411,4412,4413,4414,4416,4417,4419,4420,4422,4423,4425,4426,4428,4429": {
+      "replace": true,
+      "file": "DI_025_plant.glb",
+      "orientation": 0
+    },
+    "10:1x5x2:4331,4332,4333,4334,4335,4331,4332,4333,4334,4335": {
+      "replace": true,
+      "file": "DI_010_pillar_var01_02.glb",
+      "orientation": 0
+    },
+    "10:2x5x1:4331,4331,4332,4332,4333,4333,4334,4334,4335,4335": {
+      "replace": true,
+      "file": "DI_010_pillar_var01_02.glb",
+      "orientation": 1
+    },
+    "10:1x4x1:4331,4332,4333,4335": {
+      "replace": true,
+      "file": "DI_010_pillar_var03.glb",
+      "orientation": 0
+    },
+    "9:1x1x1:4330": {
+      "replace": true,
+      "file": "DI_009_pattern_block_var01.glb",
+      "orientation": 0
+    },
+    "9:2x1x2:4330,-1,-1,4330": {
+      "replace": true,
+      "file": "DI_009_pattern_block_var02.glb",
+      "orientation": 0
+    },
+    "9:7x1x1:4330,4330,4330,4330,4330,4330,4330": {
+      "replace": true,
+      "file": "DI_009_pattern_block_var07.glb",
+      "orientation": 1
+    },
+    "9:2x1x2:-1,4330,4330": {
+      "replace": true,
+      "file": "DI_009_pattern_block_var02.glb",
+      "orientation": 1
+    },
+    "9:3x1x3:-1,-1,4329,-1,-1,4329,4330,4330,4330": {
+      "replace": true,
+      "file": "DI_009_pattern_block_var08.glb",
+      "orientation": 0
+    },
+    "9:2x1x1:4330,4330": {
+      "replace": true,
+      "file": "DI_009_pattern_block.glb",
+      "orientation": 1
+    },
+    "9:1x1x4:4330,4330,4329,4330": {
+      "replace": true,
+      "file": "DI_009_pattern_block_var04.glb",
+      "orientation": 0
+    },
+    "9:1x1x4:4330,4329,4330,4329": {
+      "replace": true,
+      "file": "DI_009_pattern_block_var04.glb",
+      "orientation": 0
+    },
+    "9:1x1x4:4329,4330,4329,4330": {
+      "replace": true,
+      "file": "DI_009_pattern_block_var04.glb",
+      "orientation": 0
+    },
+    "9:4x1x1:4330,4330,4330,4330": {
+      "replace": true,
+      "file": "DI_009_pattern_block_var04.glb",
+      "orientation": 1
+    },
+    "9:1x1x4:4329,4330,4329,4329": {
+      "replace": true,
+      "file": "DI_009_pattern_block_var04.glb",
+      "orientation": 0
+    },
+    "9:3x1x1:4330,4330,4330": {
+      "replace": true,
+      "file": "DI_009_pattern_block_var03.glb",
+      "orientation": 1
+    },
+    "9:5x1x1:4330,4330,4330,4330,4330": {
+      "replace": true,
+      "file": "DI_009_pattern_block_var05.glb",
+      "orientation": 1
+    },
+    "9:1x1x5:4330,4329,4330,4329,4330": {
+      "replace": true,
+      "file": "DI_009_pattern_block_var05.glb",
+      "orientation": 0
+    },
+    "9:1x1x3:4329,4329,4330": {
+      "replace": true,
+      "file": "DI_009_pattern_block_var03.glb",
+      "orientation": 0
+    },
+    "9:1x1x4:4330,4329,4330,4330": {
+      "replace": true,
+      "file": "DI_009_pattern_block_var04.glb",
+      "orientation": 0
+    },
+    "9:6x1x1:4330,4330,4330,4330,4330,4330": {
+      "replace": true,
+      "file": "DI_009_pattern_block_var06.glb",
+      "orientation": 1
+    },
+    "24:4x1x4:4381,4383,4384,4385,4386,4388,4389,4390,4391,4393,4394,4395,4396,4398,4399,4400": {
+      "replace": true,
+      "file": "DI_024_rug_var01.glb",
+      "orientation": 0
+    },
+    "24:3x1x4:4383,4384,4385,4388,4389,4390,4393,4394,4395,4398,4399,4400": {
+      "replace": true,
+      "file": "DI_024_rug_var02.glb",
+      "orientation": 0
+    },
+    "58:1x1x8:5074,5075,5076,5077,5074,5075,5076,5077": {
+      "replace": true,
+      "file": "DI_058_pillows_var01.glb",
+      "orientation": 0
+    },
+    "58:1x1x6:5074,5075,5076,5077,5076,5077": {
+      "replace": true,
+      "file": "DI_058_pillows_var02.glb",
+      "orientation": 0
+    },
+    "61:4x2x1:4565,4566,4565,4566,5091,5092,5091,5092": {
+      "replace": true,
+      "file": "DI_061_cabinet_var01.glb",
+      "orientation": 1
+    },
+    "62:1x2x5:4549,5093,4549,5093,4549,5093,4549,5093,4549,5093": {
+      "replace": true,
+      "file": "DI_062_cabinet_var02.glb",
+      "orientation": 2
+    },
+    "62:1x2x4:4549,5093,4549,5093,4549,5093,4555,5094": {
+      "replace": true,
+      "file": "DI_061_cabinet_var01.glb",
+      "orientation": 2
+    }
+  },
+  "6": {
+    "11": {
+      "mirror": true
+    },
+    "30": {
+      "mirror": false
+    },
+    "45": {
+      "mirror": true
+    },
+    "71": {
+      "mirror": true
+    },
+    "72": {
+      "mirror": true
+    },
+    "75": {
+      "mirror": true
+    }
+  },
+  "7": {
+    "5": {
+      "mirror": true
+    },
+    "6": {
+      "mirror": true
+    },
+    "19": {
+      "mirror": true
+    },
+    "21": {
+      "mirror": true
+    },
+    "28": {
+      "mirror": true
+    },
+    "31": {
+      "mirror": true
+    },
+    "56": {
+      "mirror": true
+    },
+    "57": {
+      "mirror": true
+    },
+    "63": {
+      "mirror": true
+    },
+    "64": {
+      "mirror": true
+    },
+    "72": {
+      "mirror": true
+    },
+    "73": {
+      "mirror": true
+    },
+    "86": {
+      "mirror": true
+    },
+    "89": {
+      "mirror": true
+    },
+    "90": {
+      "mirror": true
+    },
+    "96": {
+      "mirror": true
+    },
+    "97": {
+      "mirror": true
+    },
+    "129": {
+      "mirror": true
+    },
+    "138": {
+      "mirror": true
+    },
+    "139": {
+      "mirror": true
+    },
+    "143": {
+      "mirror": true
+    },
+    "144": {
+      "mirror": true
+    },
+    "147": {
+      "mirror": true
+    },
+    "152": {
+      "mirror": true
+    },
+    "169": {
+      "mirror": true
+    },
+    "226": {
+      "mirror": true
+    },
+    "228": {
+      "mirror": true
+    },
+    "251": {
+      "mirror": true
+    }
+  },
+  "8": {
+    "0": {
+      "mirror": true
+    },
+    "1": {
+      "mirror": true
+    },
+    "2": {
+      "mirror": true
+    },
+    "3": {
+      "mirror": true
+    },
+    "15": {
+      "mirror": true
+    },
+    "16": {
+      "mirror": true
+    },
+    "17": {
+      "mirror": true
+    },
+    "18": {
+      "mirror": true
+    },
+    "21": {
+      "mirror": true
+    },
+    "26": {
+      "mirror": true
+    },
+    "31": {
+      "mirror": true
+    },
+    "32": {
+      "mirror": true
+    },
+    "34": {
+      "mirror": true
+    },
+    "35": {
+      "mirror": true
+    },
+    "36": {
+      "mirror": true
+    },
+    "37": {
+      "mirror": true
+    },
+    "38": {
+      "mirror": true
+    },
+    "39": {
+      "mirror": true
+    },
+    "66": {
+      "mirror": true
+    },
+    "67": {
+      "mirror": true
+    }
+  },
+  "9": {
+    "0": {
+      "mirror": true
+    },
+    "2": {
+      "mirror": true
+    },
+    "3": {
+      "mirror": true
+    },
+    "4": {
+      "mirror": true
+    },
+    "5": {
+      "mirror": true
+    },
+    "6": {
+      "mirror": true
+    },
+    "7": {
+      "mirror": true
+    },
+    "8": {
+      "mirror": true
+    },
+    "9": {
+      "mirror": true
+    },
+    "23": {
+      "mirror": true
+    },
+    "24": {
+      "mirror": true
+    },
+    "27": {
+      "mirror": true
+    },
+    "32": {
+      "mirror": true
+    },
+    "33": {
+      "mirror": true
+    },
+    "34": {
+      "mirror": true
+    },
+    "35": {
+      "mirror": true
+    },
+    "36": {
+      "mirror": true
+    },
+    "37": {
+      "mirror": true
+    },
+    "39": {
+      "mirror": true
+    },
+    "41": {
+      "mirror": true
+    },
+    "42": {
+      "mirror": true
+    },
+    "43": {
+      "mirror": true
+    },
+    "44": {
+      "mirror": true
+    },
+    "45": {
+      "mirror": true
+    },
+    "47": {
+      "mirror": true
+    },
+    "51": {
+      "mirror": true
+    },
+    "52": {
+      "mirror": true
+    },
+    "64": {
+      "mirror": true
+    },
+    "67": {
+      "mirror": true
+    },
+    "68": {
+      "mirror": true
+    },
+    "69": {
+      "mirror": true
+    },
+    "103": {
+      "mirror": true
+    },
+    "104": {
+      "mirror": true
+    },
+    "105": {
+      "mirror": true
+    }
+  },
+  "10": {
+    "4": {
+      "mirror": true
+    },
+    "7": {
+      "mirror": true
+    },
+    "8": {
+      "mirror": true
+    },
+    "12": {
+      "mirror": true
+    },
+    "33": {
+      "mirror": true
+    },
+    "34": {
+      "mirror": true
+    },
+    "61": {
+      "mirror": true
+    },
+    "62": {
+      "mirror": true
+    },
+    "64": {
+      "mirror": true
+    },
+    "65": {
+      "mirror": true
+    },
+    "67": {
+      "mirror": true
+    },
+    "68": {
+      "mirror": true
+    },
+    "69": {
+      "mirror": true
+    },
+    "86": {
+      "mirror": true
+    },
+    "105": {
+      "mirror": true
+    },
+    "110": {
+      "mirror": true
+    },
+    "124": {
+      "mirror": true
+    }
+  },
+  "11": {
+    "13": {
+      "mirror": true
+    },
+    "35": {
+      "mirror": true
+    },
+    "64": {
+      "mirror": true
+    },
+    "65": {
+      "mirror": true
+    },
+    "66": {
+      "mirror": true
+    },
+    "67": {
+      "mirror": true
+    },
+    "70": {
+      "mirror": true
+    },
+    "79": {
+      "mirror": true
+    },
+    "80": {
+      "mirror": true
+    },
+    "85": {
+      "mirror": true
+    },
+    "86": {
+      "mirror": true
+    },
+    "87": {
+      "mirror": true
+    },
+    "88": {
+      "mirror": true
+    },
+    "97": {
+      "mirror": true
+    },
+    "98": {
+      "mirror": true
+    },
+    "106": {
+      "mirror": true
+    },
+    "107": {
+      "mirror": true
+    },
+    "124": {
+      "mirror": true
+    },
+    "125": {
+      "mirror": true
+    },
+    "143": {
+      "mirror": true
+    },
+    "149": {
+      "mirror": true
+    },
+    "150": {
+      "mirror": true
+    },
+    "152": {
+      "mirror": true
+    },
+    "155": {
+      "mirror": true
+    },
+    "192": {
+      "mirror": true
+    },
+    "198": {
+      "mirror": true
+    },
+    "202": {
+      "mirror": true
+    },
+    "203": {
+      "mirror": true
+    }
+  },
+  "12": {
+    "89": {
+      "mirror": true
+    },
+    "92": {
+      "mirror": true
+    },
+    "93": {
+      "mirror": true
+    },
+    "94": {
+      "mirror": true
+    },
+    "96": {
+      "mirror": true
+    },
+    "97": {
+      "mirror": true
+    },
+    "108": {
+      "mirror": true
+    },
+    "109": {
+      "mirror": true
+    },
+    "110": {
+      "mirror": true
+    },
+    "145": {
+      "mirror": true
+    },
+    "146": {
+      "mirror": true
+    },
+    "147": {
+      "mirror": true
+    },
+    "148": {
+      "mirror": true
+    },
+    "149": {
+      "mirror": true
+    },
+    "150": {
+      "mirror": true
+    }
+  },
+  "13": {
+    "0": {
+      "mirror": true
+    },
+    "2": {
+      "replace": true,
+      "file": "OT_002_white_chair.glb",
+      "orientation": 0
+    },
+    "4": {
+      "replace": true,
+      "file": "OT_004_vanity_table.glb",
+      "orientation": 0
+    },
+    "5": {
+      "replace": true,
+      "file": "OT_005_room_divider.glb",
+      "orientation": 0
+    },
+    "6": {
+      "replace": true,
+      "file": "OT_006_storage_trunk.glb",
+      "orientation": 0
+    },
+    "7": {
+      "replace": true,
+      "file": "OT_007_white_stool.glb",
+      "orientation": 0
+    },
+    "8": {
+      "replace": true,
+      "file": "OT_008_orange_curtains.glb",
+      "orientation": 0
+    },
+    "9": {
+      "replace": true,
+      "file": "OT_009_orange_curtains.glb",
+      "orientation": 0
+    },
+    "10": {
+      "mirror": true
+    },
+    "15": {
+      "mirror": true
+    },
+    "16": {
+      "replace": true,
+      "file": "OT_016_wooden_window.glb",
+      "orientation": 0
+    },
+    "17": {
+      "replace": true,
+      "file": "OT_017_casino_reception_cabinet.glb",
+      "orientation": 0
+    },
+    "18": {
+      "mirror": true
+    },
+    "19": {
+      "replace": true,
+      "file": "OT_019_020_brown_stairs.glb",
+      "orientation": 1
+    },
+    "20": {
+      "replace": true,
+      "file": "OT_019_020_brown_stairs.glb",
+      "orientation": 0
+    },
+    "22": {
+      "mirror": true
+    },
+    "26": {
+      "mirror": true
+    },
+    "27": {
+      "mirror": true
+    },
+    "28": {
+      "replace": true,
+      "file": "OT_028_esmer_bar_sign.glb",
+      "orientation": 0
+    },
+    "29": {
+      "mirror": true
+    },
+    "31": {
+      "replace": true,
+      "file": "OT_031_032_033_034_035_bar_armchair.glb",
+      "orientation": 1
+    },
+    "33": {
+      "replace": true,
+      "file": "OT_031_032_033_034_035_bar_armchair.glb",
+      "orientation": 0
+    },
+    "34": {
+      "replace": true,
+      "file": "OT_031_032_033_034_035_bar_armchair.glb",
+      "orientation": 3
+    },
+    "36": {
+      "mirror": true
+    },
+    "37": {
+      "replace": true,
+      "file": "OT_037_038_green_square_table.glb",
+      "orientation": 0
+    },
+    "38": {
+      "replace": true,
+      "file": "OT_037_038_green_square_table.glb",
+      "orientation": 1
+    },
+    "39": {
+      "replace": true,
+      "file": "OT_039_080_magritte_plants.glb",
+      "orientation": 0
+    },
+    "40": {
+      "replace": true,
+      "file": "OT_040_041_grey_stairs.glb",
+      "orientation": 3
+    },
+    "41": {
+      "replace": true,
+      "file": "OT_040_041_grey_stairs.glb",
+      "orientation": 0
+    },
+    "43": {
+      "replace": true,
+      "file": "OT_043_145_148_149_broken_wall_corner_deco.glb",
+      "orientation": 2
+    },
+    "46": {
+      "replace": true,
+      "file": "OT_046_047_broken_wall_deco.glb",
+      "orientation": 0
+    },
+    "47": {
+      "replace": true,
+      "file": "OT_046_047_broken_wall_deco.glb",
+      "orientation": 3
+    },
+    "48": {
+      "replace": true,
+      "file": "OT_048_054_broken_wall_vert_back_deco.glb",
+      "orientation": 0
+    },
+    "49": {
+      "replace": true,
+      "file": "OT_049_broken_wall_vert_deco.glb",
+      "orientation": 3
+    },
+    "50": {
+      "replace": true,
+      "file": "OT_050_051_broken_wall_corner_out_deco.glb",
+      "orientation": 0
+    },
+    "51": {
+      "replace": true,
+      "file": "OT_050_051_broken_wall_corner_out_deco.glb",
+      "orientation": 3
+    },
+    "52": {
+      "replace": true,
+      "file": "OT_052_150_broken_wall_corner_in_backface_deco.glb",
+      "orientation": 0
+    },
+    "53": {
+      "replace": true,
+      "file": "OT_053_broken_wall_corner_in_deco.glb",
+      "orientation": 3
+    },
+    "54": {
+      "replace": true,
+      "file": "OT_048_054_broken_wall_vert_back_deco.glb",
+      "orientation": 2
+    },
+    "56": {
+      "replace": true,
+      "file": "OT_056_broken_wall_arch_deco.glb",
+      "orientation": 0
+    },
+    "58": {
+      "replace": true,
+      "file": "OT_058_059_round_wall_lamp.glb",
+      "orientation": 0
+    },
+    "59": {
+      "replace": true,
+      "file": "OT_058_059_round_wall_lamp.glb",
+      "orientation": 3
+    },
+    "60": {
+      "replace": true,
+      "file": "OT_060_round_table_lamp.glb",
+      "orientation": 0
+    },
+    "61": {
+      "replace": true,
+      "file": "OT_061_round_table_lamp.glb",
+      "orientation": 0
+    },
+    "62": {
+      "replace": true,
+      "file": "OT_062_magritte_painting_1.glb",
+      "orientation": 0
+    },
+    "63": {
+      "replace": true,
+      "file": "OT_063_duam_catwalk.glb",
+      "orientation": 0
+    },
+    "65": {
+      "replace": true,
+      "file": "OT_065_magritte_painting_2.glb",
+      "orientation": 0
+    },
+    "66": {
+      "mirror": true
+    },
+    "67": {
+      "mirror": true
+    },
+    "71": {
+      "replace": true,
+      "file": "OT_071_huge_zlitos_with_keyhole.glb",
+      "orientation": 0
+    },
+    "73": {
+      "replace": true,
+      "file": "OT_073_082_classy_wall_lamp.glb",
+      "orientation": 0
+    },
+    "75": {
+      "replace": true,
+      "file": "OT_075_sink.glb",
+      "orientation": 0
+    },
+    "76": {
+      "replace": true,
+      "file": "OT_076_towel.glb",
+      "orientation": 0
+    },
+    "77": {
+      "replace": true,
+      "file": "OT_077_081_deluxe_armchair.glb",
+      "orientation": 0
+    },
+    "79": {
+      "replace": true,
+      "file": "OT_079_casino_slot_machine.glb",
+      "orientation": 0
+    },
+    "80": {
+      "replace": true,
+      "file": "OT_039_080_magritte_plants.glb",
+      "orientation": 0
+    },
+    "81": {
+      "replace": true,
+      "file": "OT_077_081_deluxe_armchair.glb",
+      "orientation": 2
+    },
+    "82": {
+      "replace": true,
+      "file": "OT_073_082_classy_wall_lamp.glb",
+      "orientation": 3
+    },
+    "83": {
+      "replace": true,
+      "file": "OT_083_deluxe_couch.glb",
+      "orientation": 0
+    },
+    "84": {
+      "replace": true,
+      "file": "OT_084_085_huge_zlitos_deco.glb",
+      "orientation": 0
+    },
+    "85": {
+      "replace": true,
+      "file": "OT_084_085_huge_zlitos_deco.glb",
+      "orientation": 2
+    },
+    "89": {
+      "mirror": true
+    },
+    "90": {
+      "replace": true,
+      "file": "OT_084_085_huge_zlitos_deco.glb",
+      "orientation": 1
+    },
+    "91": {
+      "mirror": true
+    },
+    "92": {
+      "replace": true,
+      "file": "OT_092_green_counter.glb",
+      "orientation": 0
+    },
+    "102": {
+      "replace": true,
+      "file": "OT_102_103_104_105_casino_coin_slot.glb",
+      "orientation": 0
+    },
+    "103": {
+      "replace": true,
+      "file": "OT_102_103_104_105_casino_coin_slot.glb",
+      "orientation": 1
+    },
+    "104": {
+      "replace": true,
+      "file": "OT_102_103_104_105_casino_coin_slot.glb",
+      "orientation": 2
+    },
+    "105": {
+      "replace": true,
+      "file": "OT_102_103_104_105_casino_coin_slot.glb",
+      "orientation": 3
+    },
+    "106": {
+      "replace": true,
+      "file": "OT_106_107_110_111_lemuzard_gambling_barrier.glb",
+      "orientation": 0
+    },
+    "108": {
+      "replace": true,
+      "file": "OT_108_109_lemuzard_gambling_barrier.glb",
+      "orientation": 0
+    },
+    "110": {
+      "replace": true,
+      "file": "OT_106_107_110_111_lemuzard_gambling_barrier.glb",
+      "orientation": 1
+    },
+    "114": {
+      "replace": true,
+      "file": "OT_114_duams_gambling_barrier.glb",
+      "orientation": 0
+    },
+    "117": {
+      "replace": true,
+      "file": "OT_117_118_fancy_railings_straight.glb",
+      "orientation": 0
+    },
+    "118": {
+      "replace": true,
+      "file": "OT_117_118_fancy_railings_straight.glb",
+      "orientation": 1
+    },
+    "119": {
+      "replace": true,
+      "file": "OT_119_120_121_122_fancy_railings_corner.glb",
+      "orientation": 0
+    },
+    "120": {
+      "replace": true,
+      "file": "OT_119_120_121_122_fancy_railings_corner.glb",
+      "orientation": 3
+    },
+    "121": {
+      "replace": true,
+      "file": "OT_119_120_121_122_fancy_railings_corner.glb",
+      "orientation": 2
+    },
+    "122": {
+      "replace": true,
+      "file": "OT_119_120_121_122_fancy_railings_corner.glb",
+      "orientation": 1
+    },
+    "123": {
+      "replace": true,
+      "file": "OT_123_124_125_126_fancy_railings_end.glb",
+      "orientation": 1
+    },
+    "124": {
+      "replace": true,
+      "file": "OT_123_124_125_126_fancy_railings_end.glb",
+      "orientation": 0
+    },
+    "125": {
+      "replace": true,
+      "file": "OT_123_124_125_126_fancy_railings_end.glb",
+      "orientation": 3
+    },
+    "126": {
+      "replace": true,
+      "file": "OT_123_124_125_126_fancy_railings_end.glb",
+      "orientation": 2
+    },
+    "127": {
+      "mirror": true
+    },
+    "128": {
+      "mirror": true
+    },
+    "129": {
+      "replace": true,
+      "file": "OT_084_085_huge_zlitos_deco.glb",
+      "orientation": 3
+    },
+    "134": {
+      "replace": true,
+      "file": "OT_134_mutant_turtle_tank.glb",
+      "orientation": 0
+    },
+    "136": {
+      "mirror": true
+    },
+    "137": {
+      "mirror": true
+    },
+    "138": {
+      "replace": true,
+      "file": "OT_138_139_green_square_stool.glb",
+      "orientation": 0
+    },
+    "139": {
+      "replace": true,
+      "file": "OT_138_139_green_square_stool.glb",
+      "orientation": 1
+    },
+    "140": {
+      "replace": true,
+      "file": "OT_140_stage_light.glb",
+      "orientation": 0
+    },
+    "141": {
+      "replace": true,
+      "file": "OT_141_red_fire_extinguisher.glb",
+      "orientation": 0
+    },
+    "143": {
+      "replace": true,
+      "file": "OT_143_office_u_table.glb",
+      "orientation": 0
+    },
+    "145": {
+      "replace": true,
+      "file": "OT_043_145_148_149_broken_wall_corner_deco.glb",
+      "orientation": 0
+    },
+    "146": {
+      "replace": true,
+      "file": "OT_146_147_broken_wall_small_deco.glb",
+      "orientation": 3
+    },
+    "147": {
+      "replace": true,
+      "file": "OT_146_147_broken_wall_small_deco.glb",
+      "orientation": 0
+    },
+    "148": {
+      "replace": true,
+      "file": "OT_043_145_148_149_broken_wall_corner_deco.glb",
+      "orientation": 3
+    },
+    "149": {
+      "replace": true,
+      "file": "OT_043_145_148_149_broken_wall_corner_deco.glb",
+      "orientation": 1
+    },
+    "150": {
+      "replace": true,
+      "file": "OT_052_150_broken_wall_corner_in_backface_deco.glb",
+      "orientation": 2
+    },
+    "151": {
+      "replace": true,
+      "file": "OT_151_gambler_control_panel.glb",
+      "orientation": 0
+    },
+    "159": {
+      "replace": true,
+      "file": "OT_159_bookshelf_corner.glb",
+      "orientation": 0
+    },
+    "160": {
+      "replace": true,
+      "file": "OT_160_bookshelf_top.glb",
+      "orientation": 0
+    },
+    "161": {
+      "replace": true,
+      "file": "OT_161_magic_bottle.glb",
+      "orientation": 0
+    },
+    "162": {
+      "replace": true,
+      "file": "OT_162_health_heart.glb",
+      "orientation": 0
+    },
+    "163": {
+      "replace": true,
+      "file": "OT_163_towel_hooks.glb",
+      "orientation": 0
+    },
+    "165": {
+      "replace": true,
+      "file": "OT_165_box.glb",
+      "orientation": 0
+    },
+    "166": {
+      "replace": true,
+      "file": "OT_166_blue_cash_register.glb",
+      "orientation": 0
+    },
+    "168": {
+      "replace": true,
+      "file": "OT_168_paper_rolls_container.glb",
+      "orientation": 0
+    },
+    "172": {
+      "replace": true,
+      "file": "OT_172_twinsun_souvenirs.glb",
+      "orientation": 0
+    },
+    "173": {
+      "replace": true,
+      "file": "OT_173_ancient_pots.glb",
+      "orientation": 0
+    },
+    "174": {
+      "replace": true,
+      "file": "OT_174_antique_demijohn_bottle.glb",
+      "orientation": 0
+    },
+    "178": {
+      "replace": true,
+      "file": "OT_178_small_display_table.glb",
+      "orientation": 0
+    },
+    "179": {
+      "replace": true,
+      "file": "OT_179_small_display_table.glb",
+      "orientation": 0
+    },
+    "182": {
+      "replace": true,
+      "file": "OT_182_q_tips.glb",
+      "orientation": 0
+    },
+    "183": {
+      "replace": true,
+      "file": "OT_183_matches.glb",
+      "orientation": 0
+    },
+    "184": {
+      "replace": true,
+      "file": "OT_184_chess_tower.glb",
+      "orientation": 0
+    },
+    "185": {
+      "replace": true,
+      "file": "OT_185_champagne_cork.glb",
+      "orientation": 0
+    },
+    "186": {
+      "replace": true,
+      "file": "OT_186_paperclips.glb",
+      "orientation": 0
+    },
+    "187": {
+      "replace": true,
+      "file": "OT_187_bottle_cap.glb",
+      "orientation": 0
+    },
+    "188": {
+      "replace": true,
+      "file": "OT_188_thimble.glb",
+      "orientation": 0
+    },
+    "189": {
+      "replace": true,
+      "file": "OT_189_white_glue_bottle.glb",
+      "orientation": 0
+    },
+    "190": {
+      "replace": true,
+      "file": "OT_190_black_pawn.glb",
+      "orientation": 0
+    },
+    "191": {
+      "replace": true,
+      "file": "OT_191_combination_padlock.glb",
+      "orientation": 0
+    },
+    "192": {
+      "replace": true,
+      "file": "OT_192_pushpin.glb",
+      "orientation": 0
+    },
+    "193": {
+      "replace": true,
+      "file": "OT_193_candle_stand.glb",
+      "orientation": 0
+    },
+    "200": {
+      "replace": true,
+      "file": "OT_200_blue_wooden_box.glb",
+      "orientation": 0
+    },
+    "201": {
+      "replace": true,
+      "file": "OT_201_animal_cage.glb",
+      "orientation": 0
+    },
+    "202": {
+      "replace": true,
+      "file": "OT_202_candelabra.glb",
+      "orientation": 0
+    },
+    "203": {
+      "replace": true,
+      "file": "OT_203_three_teapots.glb",
+      "orientation": 0
+    },
+    "204": {
+      "replace": true,
+      "file": "OT_204_two_small_cups.glb",
+      "orientation": 0
+    },
+    "205": {
+      "replace": true,
+      "file": "OT_205_a_small_cup.glb",
+      "orientation": 0
+    },
+    "206": {
+      "replace": true,
+      "file": "OT_206_teapot.glb",
+      "orientation": 2
+    },
+    "200:2x4x4:0,12677,12680,12681,-1,-1,-1,-1,12682,12683,12688,12689,-1,-1,-1,-1,0,12677,0,12678,0,12679,12680,12681,12682,12683,12684,12685,12686,12687,12688,12689": {
+      "replace": true,
+      "file": "OT_200_blue_wooden_box_var1.glb",
+      "orientation": 0
+    },
+    "39:2x4x2:0,12735,0,12736,0,127,0,127,12740,12741,12742,12743,127,12744,127,12745": {
+      "replace": true,
+      "file": "OT_039_magritte_plants_var1_var2.glb",
+      "orientation": 0
+    },
+    "39:2x6x2:0,12735,0,12736,0,127,0,127,0,127,12737,12738,12740,12741,12742,12743,127,12744,127,12745,127,12746,12747,12748": {
+      "replace": true,
+      "file": "OT_039_magritte_plants_var1_var2.glb",
+      "orientation": 0
+    },
+    "112:3x2x1:13035,13036,13037,13039,13040,13041": {
+      "replace": true,
+      "file": "OT_112_lemuzard_gambling_barrier_var1.glb",
+      "orientation": 0
+    },
+    "8:1x11x1:13108,13110,13112,13114,13116,13118,13120,13122,13124,13126,13128": {
+      "replace": true,
+      "file": "OT_008_orange_curtains_var1.glb",
+      "orientation": 0
+    },
+    "63:1x1x13:12763,12764,12764,12764,12764,12764,12764,12764,12764,12764,12764,12765,12766": {
+      "replace": true,
+      "file": "OT_063_duam_catwalk_var1.glb",
+      "orientation": 0
+    },
+    "178:1x3x4:14630,14631,14632,14633,14634,14635,14633,14634,14635,14636,14637,14638": {
+      "replace": true,
+      "file": "OT_178_small_display_table_var1.glb",
+      "orientation": 0
+    },
+    "179:2x3x1:14639,14641,14642,14644,14645,14647": {
+      "replace": true,
+      "file": "OT_179_small_display_table_var1.glb",
+      "orientation": 0
+    },
+    "180:5x3x3:0,0,0,0,14648,0,0,0,0,14649,14650,-1,-1,-1,14653,0,0,0,0,14654,0,0,0,0,14655,14656,-1,-1,-1,14659,14664,14665,127,127,14666,14667,14668,127,127,14669,14670,-1,-1,-1,14673": {
+      "replace": true,
+      "file": "OT_180_table_var1.glb",
+      "orientation": 0
+    },
+    "48:1x2x1:6869,6874": {
+      "replace": true,
+      "file": "OT_048_broken_wall_vert_deco_var6.glb",
+      "orientation": 0
+    },
+    "49:1x8x1:6875,6880,6875,6876,6877,6878,6879,6880": {
+      "replace": true,
+      "file": "OT_049_broken_wall_vert_deco_var4.glb",
+      "orientation": 3
+    },
+    "49:1x11x1:6875,6876,6877,6878,6879,6880,6876,6877,6878,6879,6880": {
+      "replace": true,
+      "file": "OT_049_broken_wall_vert_deco_var3.glb",
+      "orientation": 3
+    },
+    "48:1x11x1:6869,6870,6872,6873,6874,6869,6870,6871,6872,6873,6874": {
+      "replace": true,
+      "file": "OT_048_broken_wall_vert_deco_var4.glb",
+      "orientation": 0
+    },
+    "49:1x8x1:6875,6876,6877,6878,6879,6878,6879,6880": {
+      "replace": true,
+      "file": "OT_049_broken_wall_vert_deco_var2.glb",
+      "orientation": 3
+    },
+    "48:1x8x1:6869,6870,6871,6872,6873,6874,6873,6874": {
+      "replace": true,
+      "file": "OT_048_broken_wall_vert_deco_var3.glb",
+      "orientation": 0
+    },
+    "46:8x2x1:6858,6859,6857,6858,6859,6857,6858,6859,6861,6862,6860,6861,6862,6860,6861,6862": {
+      "replace": true,
+      "file": "OT_046_broken_wall_deco_var4.glb",
+      "orientation": 0
+    },
+    "46:15x2x1:6857,6858,6859,6857,6858,6859,6857,6858,6859,6857,6858,6859,6857,6858,6859,6860,6861,6862,6860,6861,6862,6860,6861,6862,6860,6861,6862,6860,6861,6862": {
+      "replace": true,
+      "file": "OT_046_broken_wall_deco_var2.glb",
+      "orientation": 0
+    },
+    "49:1x15x1:6875,6876,6877,6878,6879,6880,6875,6876,6877,6878,6879,6880,6878,6879,6880": {
+      "replace": true,
+      "file": "OT_049_broken_wall_vert_deco_var1.glb",
+      "orientation": 3
+    },
+    "48:1x3x1:6869,6873,6874": {
+      "replace": true,
+      "file": "OT_048_broken_wall_vert_deco_var1.glb",
+      "orientation": 0
+    },
+    "48:1x11x1:6869,6870,6871,6872,6873,6874,6869,6870,6872,6873,6874": {
+      "replace": true,
+      "file": "OT_048_broken_wall_vert_deco_var2.glb",
+      "orientation": 0
+    },
+    "46:8x2x1:6857,6858,6859,6857,6858,6859,6858,6859,6860,6861,6862,6860,6861,6862,6861,6862": {
+      "replace": true,
+      "file": "OT_046_broken_wall_deco_var3.glb",
+      "orientation": 0
+    },
+    "46:12x2x1:6857,6858,6859,6857,6858,6859,6857,6858,6859,6857,6858,6859,6860,6861,6862,6860,6861,6862,6860,6861,6862,6860,6861,6862": {
+      "replace": true,
+      "file": "OT_046_broken_wall_deco_var5.glb",
+      "orientation": 0
+    },
+    "19:4x4x4:12353,12354,12354,12354,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,12353,12354,12354,12354,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,12353,12354,12354,12354,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,12353,12354,12354,12354": {
+      "replace": true,
+      "file": "OT_019_brown_stairs_var3.glb",
+      "orientation": 0
+    },
+    "40:4x3x3:-1,-1,-1,-1,-1,-1,-1,-1,13287,13288,13288,13288,-1,-1,-1,-1,13287,13288,13288,13288,-1,-1,-1,-1,13287,13288,13288,13288": {
+      "replace": true,
+      "file": "OT_040_041_grey_stairs_var2.glb",
+      "orientation": 3
+    },
+    "41:3x3x4:-1,-1,12749,-1,12749,-1,12749,-1,-1,-1,-1,12750,-1,12750,-1,12750,-1,-1,-1,-1,12750,-1,12750,-1,12750,-1,-1,-1,-1,12750,-1,12750,-1,12750": {
+      "replace": true,
+      "file": "OT_040_041_grey_stairs_var2.glb",
+      "orientation": 0
+    },
+    "40:3x6x6:-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,13287,13288,13288,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,13287,13288,13288,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,13287,13288,13288,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,13287,13288,13288,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,13287,13288,13288,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,13287,13288,13288": {
+      "replace": true,
+      "file": "OT_040_041_grey_stairs_var1.glb",
+      "orientation": 0
+    },
+    "41:6x6x4:-1,-1,-1,-1,-1,12749,-1,-1,-1,-1,12749,-1,-1,-1,-1,12749,-1,-1,-1,-1,12749,-1,-1,-1,-1,12749,-1,-1,-1,-1,12749,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,12750,-1,-1,-1,-1,12750,-1,-1,-1,-1,12750,-1,-1,-1,-1,12750,-1,-1,-1,-1,12750,-1,-1,-1,-1,12750,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,12750,-1,-1,-1,-1,12750,-1,-1,-1,-1,12750,-1,-1,-1,-1,12750,-1,-1,-1,-1,12750,-1,-1,-1,-1,12750,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,12750,-1,-1,-1,-1,12750,-1,-1,-1,-1,12750,-1,-1,-1,-1,12750,-1,-1,-1,-1,12750,-1,-1,-1,-1,12750": {
+      "replace": true,
+      "file": "OT_040_041_grey_stairs_var1.glb",
+      "orientation": 1
+    }
+  },
+  "14": {
+    "18": {
+      "mirror": true
+    },
+    "19": {
+      "mirror": true
+    },
+    "20": {
+      "mirror": true
+    },
+    "21": {
+      "mirror": true
+    },
+    "26": {
+      "mirror": true
+    },
+    "27": {
+      "mirror": true
+    },
+    "28": {
+      "mirror": true
+    },
+    "35": {
+      "mirror": true
+    },
+    "36": {
+      "mirror": true
+    },
+    "37": {
+      "mirror": true
+    },
+    "38": {
+      "mirror": true
+    },
+    "39": {
+      "mirror": true
+    },
+    "51": {
+      "mirror": true
+    },
+    "52": {
+      "mirror": true
+    },
+    "53": {
+      "mirror": true
+    },
+    "54": {
+      "mirror": true
+    },
+    "55": {
+      "mirror": true
+    },
+    "56": {
+      "mirror": true
+    },
+    "62": {
+      "mirror": true
+    },
+    "70": {
+      "mirror": true
+    },
+    "71": {
+      "mirror": true
+    },
+    "72": {
+      "mirror": true
+    },
+    "73": {
+      "mirror": true
+    },
+    "88": {
+      "mirror": true
+    },
+    "100": {
+      "mirror": true
+    },
+    "107": {
+      "mirror": true
+    },
+    "108": {
+      "mirror": true
+    },
+    "123": {
+      "mirror": true
+    },
+    "124": {
+      "mirror": true
+    },
+    "130": {
+      "mirror": true
+    },
+    "131": {
+      "mirror": true
+    },
+    "132": {
+      "mirror": true
+    },
+    "133": {
+      "mirror": true
+    },
+    "134": {
+      "mirror": true
+    },
+    "135": {
+      "mirror": true
+    },
+    "137": {
+      "mirror": true
+    },
+    "138": {
+      "mirror": true
+    },
+    "156": {
+      "mirror": true
+    },
+    "158": {
+      "mirror": true
+    },
+    "159": {
+      "mirror": true
+    },
+    "160": {
+      "mirror": true
+    },
+    "161": {
+      "mirror": true
+    },
+    "162": {
+      "mirror": true
+    },
+    "163": {
+      "mirror": true
+    },
+    "173": {
+      "mirror": true
+    },
+    "174": {
+      "mirror": true
+    },
+    "175": {
+      "mirror": true
+    },
+    "184": {
+      "mirror": true
+    }
+  },
+  "15": {
+    "2": {
+      "replace": true,
+      "file": "FI_002_003_francos_building_wall.glb",
+      "orientation": 0
+    },
+    "3": {
+      "replace": true,
+      "file": "FI_002_003_francos_building_wall.glb",
+      "orientation": 1
+    },
+    "4": {
+      "replace": true,
+      "file": "FI_004_005_francos_building_wall_corner_side.glb",
+      "orientation": 0
+    },
+    "5": {
+      "replace": true,
+      "file": "FI_004_005_francos_building_wall_corner_side.glb",
+      "orientation": 2
+    },
+    "6": {
+      "replace": true,
+      "file": "FI_006_francos_building_wall_corner_front.glb",
+      "orientation": 0
+    },
+    "7": {
+      "replace": true,
+      "file": "FI_007_bar_counter_pillar.glb",
+      "orientation": 0
+    },
+    "8": {
+      "replace": true,
+      "file": "FI_008_francos_building_wall_round_corner.glb",
+      "orientation": 0
+    },
+    "17": {
+      "replace": true,
+      "file": "FI_017_francos_building_wall_window_big.glb",
+      "orientation": 0
+    },
+    "18": {
+      "replace": true,
+      "file": "FI_018_francos_building_wall_window_big.glb",
+      "orientation": 0
+    },
+    "19": {
+      "replace": true,
+      "file": "FI_019_francos_building_wall_short_window.glb",
+      "orientation": 2
+    },
+    "20": {
+      "replace": true,
+      "file": "FI_020_francos_building_wall_window.glb",
+      "orientation": 0
+    },
+    "23": {
+      "replace": true,
+      "file": "FI_023_francos_doorframe.glb",
+      "orientation": 0
+    },
+    "24": {
+      "replace": true,
+      "file": "FI_024_francos_doorframe.glb",
+      "orientation": 0
+    },
+    "26": {
+      "replace": true,
+      "file": "FI_026_ice_creams_and_cup.glb",
+      "orientation": 0
+    },
+    "27": {
+      "replace": true,
+      "file": "FI_027_francos_building_wall_key_cupboard_closed.glb",
+      "orientation": 0
+    },
+    "28": {
+      "replace": true,
+      "file": "FI_028_big_table_with_chairs_and_flowers.glb",
+      "orientation": 0
+    },
+    "29": {
+      "replace": true,
+      "file": "FI_029_030_francos_building_wall_shelf.glb",
+      "orientation": 0
+    },
+    "30": {
+      "replace": true,
+      "file": "FI_029_030_francos_building_wall_shelf.glb",
+      "orientation": 1
+    },
+    "33": {
+      "replace": true,
+      "file": "FI_033_table.glb",
+      "orientation": 0
+    },
+    "34": {
+      "replace": true,
+      "file": "FI_034_big_flower_pot.glb",
+      "orientation": 0
+    },
+    "36": {
+      "replace": true,
+      "file": "FI_036_stool.glb",
+      "orientation": 0
+    },
+    "37": {
+      "replace": true,
+      "file": "FI_037_francos_building_wall_short_var.glb",
+      "orientation": 3
+    },
+    "38": {
+      "replace": true,
+      "file": "FI_038_francos_building_wall_short_var.glb",
+      "orientation": 0
+    },
+    "39": {
+      "replace": true,
+      "file": "FI_039_francos_building_wall_corner_short.glb",
+      "orientation": 2
+    },
+    "40": {
+      "replace": true,
+      "file": "FI_040_francos_building_wall_short_round_corner.glb",
+      "orientation": 2
+    },
+    "43": {
+      "replace": true,
+      "file": "FI_043_francos_building_wall_table.glb",
+      "orientation": 0
+    },
+    "45": {
+      "replace": true,
+      "file": "FI_045_health_heart.glb",
+      "orientation": 0
+    },
+    "48": {
+      "replace": true,
+      "file": "FI_048_049_green_dragon.glb",
+      "orientation": 2
+    },
+    "49": {
+      "replace": true,
+      "file": "FI_048_049_green_dragon.glb",
+      "orientation": 0
+    },
+    "51": {
+      "replace": true,
+      "file": "FI_051_empty_mug.glb",
+      "orientation": 0
+    },
+    "52": {
+      "replace": true,
+      "file": "FI_052_flower_pot.glb",
+      "orientation": 0
+    },
+    "53": {
+      "replace": true,
+      "file": "FI_053_liquor_bottle_and_mug.glb",
+      "orientation": 0
+    },
+    "54": {
+      "replace": true,
+      "file": "FI_054_liquor_bottle.glb",
+      "orientation": 0
+    },
+    "55": {
+      "replace": true,
+      "file": "FI_055_empty_mug.glb",
+      "orientation": 0
+    },
+    "56": {
+      "replace": true,
+      "file": "FI_056_drinks_and_flower.glb",
+      "orientation": 0
+    },
+    "58": {
+      "replace": true,
+      "file": "FI_058_pick_axes.glb",
+      "orientation": 0
+    },
+    "59": {
+      "replace": true,
+      "file": "FI_059_chair.glb",
+      "orientation": 0
+    },
+    "61": {
+      "replace": true,
+      "file": "FI_061_magic_bottle.glb",
+      "orientation": 0
+    },
+    "68": {
+      "replace": true,
+      "file": "FI_068_baby_cradle.glb",
+      "orientation": 0
+    },
+    "69": {
+      "replace": true,
+      "file": "FI_069_short_stool.glb",
+      "orientation": 0
+    },
+    "72": {
+      "replace": true,
+      "file": "FI_072_baby_bottles.glb",
+      "orientation": 0
+    },
+    "74": {
+      "replace": true,
+      "file": "FI_074_abacus.glb",
+      "orientation": 0
+    },
+    "75": {
+      "replace": true,
+      "file": "FI_075_pan.glb",
+      "orientation": 0
+    },
+    "76": {
+      "replace": true,
+      "file": "FI_076_francos_building_wall_key_cupboard_open.glb",
+      "orientation": 0
+    },
+    "77": {
+      "replace": true,
+      "file": "FI_077_francos_building_wall_cupboard.glb",
+      "orientation": 0
+    },
+    "79": {
+      "replace": true,
+      "file": "FI_079_big_candle.glb",
+      "orientation": 0
+    },
+    "81": {
+      "replace": true,
+      "file": "FI_081_francos_building_wall_window_covered.glb",
+      "orientation": 0
+    },
+    "82": {
+      "replace": true,
+      "file": "FI_082_francos_building_wall_window_big_covered.glb",
+      "orientation": 0
+    },
+    "84": {
+      "replace": true,
+      "file": "FI_084_dark_monk_altar.glb",
+      "orientation": 0
+    },
+    "33:2x3x3:0,15467,0,15468,15469,15470,0,15475,0,15476,15477,15478,15479,15480,15481,15482,15483,15484": {
+      "replace": true,
+      "file": "FI_033_table_var1.glb",
+      "orientation": 0
+    },
+    "33:2x3x2:0,15467,0,15468,15469,15470,15479,15480,15481,15482,15483,15484": {
+      "replace": true,
+      "file": "FI_033_table_var2.glb",
+      "orientation": 0
+    },
+    "33:2x2x2:0,15467,15469,15470,15479,15480,15483,15484": {
+      "replace": true,
+      "file": "FI_033_table_var3.glb",
+      "orientation": 0
+    },
+    "33:2x2x3:0,15467,15469,15470,0,15471,15473,15474,15479,15480,15483,15484": {
+      "replace": true,
+      "file": "FI_033_table_var4.glb",
+      "orientation": 0
+    },
+    "33:2x3x3:0,15467,0,15468,15469,15470,0,15471,0,15472,15473,15474,15479,15480,15481,15482,15483,15484": {
+      "replace": true,
+      "file": "FI_033_table_var1.glb",
+      "orientation": 0
+    }
+  },
+  "16": {
+    "2": {
+      "mirror": true
+    },
+    "4": {
+      "mirror": true
+    },
+    "8": {
+      "mirror": true
+    },
+    "9": {
+      "mirror": true
+    },
+    "11": {
+      "mirror": true
+    },
+    "12": {
+      "mirror": true
+    },
+    "13": {
+      "mirror": true
+    },
+    "19": {
+      "mirror": true
+    },
+    "28": {
+      "mirror": true
+    },
+    "56": {
+      "mirror": true
+    },
+    "60": {
+      "mirror": true
+    },
+    "67": {
+      "mirror": true
+    },
+    "68": {
+      "mirror": true
+    },
+    "96": {
+      "mirror": true
+    },
+    "97": {
+      "mirror": true
+    },
+    "175": {
+      "mirror": false
+    },
+    "205": {
+      "mirror": true
+    }
+  },
+  "17": {
+    "3": {
+      "mirror": true
+    },
+    "4": {
+      "mirror": true
+    },
+    "5": {
+      "mirror": true
+    },
+    "7": {
+      "mirror": true
+    },
+    "8": {
+      "mirror": true
+    },
+    "12": {
+      "mirror": true
+    },
+    "14": {
+      "mirror": true
+    },
+    "16": {
+      "mirror": true
+    },
+    "17": {
+      "mirror": true
+    },
+    "18": {
+      "mirror": true
+    },
+    "64": {
+      "mirror": true
+    },
+    "68": {
+      "mirror": true
+    },
+    "72": {
+      "mirror": true
+    },
+    "74": {
+      "mirror": true
+    },
+    "76": {
+      "mirror": true
+    },
+    "78": {
+      "mirror": true
+    },
+    "79": {
+      "mirror": true
+    },
+    "85": {
+      "mirror": true
+    },
+    "86": {
+      "mirror": true
+    },
+    "87": {
+      "mirror": true
+    },
+    "88": {
+      "mirror": true
+    },
+    "89": {
+      "mirror": true
+    },
+    "101": {
+      "mirror": true
+    },
+    "113": {
+      "mirror": true
+    },
+    "118": {
+      "mirror": true
+    },
+    "119": {
+      "mirror": true
+    },
+    "139": {
+      "mirror": true
+    },
+    "155": {
+      "mirror": true
+    },
+    "156": {
+      "mirror": true
+    }
+  }
+}

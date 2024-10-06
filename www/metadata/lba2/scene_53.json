@@ -1,0 +1,25 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "MetallicDoor1",
+    "MetallicDoor2",
+    "MetallicDoor3",
+    "Door",
+    "Spacesuit",
+    "Baldino",
+    "AlarmedFrancoGuard",
+    "Alarmbutton",
+    "Fan"
+  ],
+  "zoneNames": [
+    "to_radar_room",
+    "to_baldinos_spaceship_area",
+    "cam_room",
+    "radar_room_door",
+    "metallic_doors",
+    "spacesuit_area",
+    "alarm_button",
+    "outside_airlock"
+  ]
+}

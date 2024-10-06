@@ -1,0 +1,40 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "SphereSwitch1",
+    "SphereSwitch2",
+    "SphereSwitch3",
+    "Light1",
+    "Light2",
+    "Light3",
+    "MetallicDoor1",
+    "MetallicDoor2",
+    "MetallicDoor3",
+    "Door",
+    "Spacesuit",
+    "FrancoSpearGuard1",
+    "FrancoSpearGuard2",
+    "Fan1",
+    "Fan2"
+  ],
+  "zoneNames": [
+    "to_switches_building_area",
+    "entrance_room",
+    "corridors_blueprint",
+    "switches_zone",
+    "circle_switch",
+    "triangle_switch",
+    "square_switch",
+    "cam_entrance_room",
+    "spacesuit_area",
+    "barrel1",
+    "barrel2",
+    "barrel3",
+    "barrel4",
+    "fire_extinguisher1",
+    "fire_extinguisher2",
+    "boxes",
+    "switches_room"
+  ]
+}

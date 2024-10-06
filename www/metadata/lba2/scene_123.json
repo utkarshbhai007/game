@@ -1,0 +1,32 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "LaserBarrier1",
+    "LaserBarrier2",
+    "LaserBarrier3",
+    "LaserBarrier4",
+    "FrancoTechnician",
+    "FrancoLaserGuard",
+    "Switch1",
+    "Switch2",
+    "ElectrocutedTwinsenAnimation1",
+    "ElectrocutedTwinsenAnimation2",
+    "ElectrocutedTwinsenAnimation3",
+    "ElectrocutedTwinsenAnimation4",
+    "ElevatorLever1",
+    "ElevatorLever2"
+  ],
+  "zoneNames": [
+    "trash_can1",
+    "trash_can2",
+    "to_outside1",
+    "to_outside2",
+    "elevators_area",
+    "switches_area",
+    "laser_barriers_area",
+    "elevators",
+    "cam_elevators_area",
+    "room_central_area"
+  ]
+}

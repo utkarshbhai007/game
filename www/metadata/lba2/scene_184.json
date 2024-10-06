@@ -1,0 +1,35 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "Monster",
+    "Skeleton1",
+    "Skeleton2",
+    "IceBarrier1",
+    "IceBarrier2",
+    "IceBarrier3",
+    "IceBarrier4",
+    "IceBarrier5",
+    "IceBarrier6",
+    "IceBarrier7",
+    "IceBarrier8",
+    "IceBarrier9",
+    "IceBarrier10",
+    "IceBarrier11",
+    "IceBarrier12",
+    "ProtectiveSpell",
+    "Bat1",
+    "Bat2",
+    "Pointer"
+  ],
+  "zoneNames": [
+    "to_cave_first_area",
+    "to_cave_first_area_by_water",
+    "monster_room",
+    "monster_room_limit",
+    "monster_room_exit",
+    "skeleton_area",
+    "stairs_to_monster_room",
+    "on_statue_area"
+  ]
+}

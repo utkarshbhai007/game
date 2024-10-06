@@ -1,0 +1,17 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "NurseFranco",
+    "FrancoTeenager",
+    "Baby1",
+    "Baby2",
+    "Baby3",
+    "Baby4"
+  ],
+  "zoneNames": [
+    "to_village",
+    "cam_room",
+    "flower_pot"
+  ]
+}

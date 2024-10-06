@@ -1,0 +1,24 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "Joe",
+    "FrancoLaserGuard1",
+    "FrancoLaserGuard2",
+    "FrancoSpearGuard",
+    "Elevator1",
+    "Elevator2",
+    "SupImperialGuard",
+    "FrancoLaserGuard3",
+    "FrancoLaserGuard4"
+  ],
+  "zoneNames": [
+    "to_spaceport_outside1",
+    "to_spaceport_outside2",
+    "right_corridor",
+    "cam_right_corridor",
+    "to_tourists_area",
+    "elevator_left",
+    "elevator_right"
+  ]
+}

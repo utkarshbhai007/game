@@ -1,0 +1,15 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "DesertIslandPeddlerLocationHelper",
+    "CactusAgent",
+    "TwinsensCar",
+    "DesertRose"
+  ],
+  "zoneNames": [
+    "to_behind_landing_zone",
+    "to_pearl_cave",
+    "palm"
+  ]
+}

@@ -1,0 +1,49 @@
+@import './_media.scss';
+
+.textbox {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.5);
+    border: 2px outset #61cece;
+    border-radius: 15px;
+    bottom: 30px;
+    left: 30px;
+    right: 30px;
+    position: absolute;
+    padding: 20px;
+    text-shadow: none !important;
+    text-align: justify;
+    color: rgba(0, 0, 0, 0);
+    font-family: 'LBA';
+    font-size: 1.9em;
+
+    > div {
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        left: 20px;
+        bottom: 20px;
+        text-shadow: black 4px 4px;
+    }
+
+    @include media("<desktop") {
+        font-size: 1.5em;
+        border-radius: 10px;
+        text-shadow: black 3px 3px;
+        padding: 10px;
+    }
+
+    @include media("<tablet","portrait") {
+        font-size: 1em;
+        border-radius: 8px;
+        text-shadow: black 2px 2px;
+        padding: 10px;
+    }
+
+    &.small {
+        min-height: 100px;
+    }
+
+    &.big {
+        top: 30px;
+    }
+}

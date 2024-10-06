@@ -1,0 +1,725 @@
+{
+  "vargames": [
+    {
+      "name": "holomap",
+      "type": "boolean"
+    },
+    {
+      "name": "magicball",
+      "type": "boolean"
+    },
+    {
+      "name": "darts"
+    },
+    {
+      "name": "sendells_ball",
+      "type": "boolean"
+    },
+    {
+      "name": "tunic_and_sendells_medallion",
+      "type": "boolean"
+    },
+    {
+      "name": "incandescent_pearl_or_travel_token",
+      "type": "boolean"
+    },
+    {
+      "name": "pyramid_shaped_key",
+      "type": "boolean"
+    },
+    {
+      "name": "part_for_the_car",
+      "type": "boolean"
+    },
+    {
+      "name": "kashes_or_zlitos"
+    },
+    {
+      "name": "pisto_laser",
+      "type": "boolean"
+    },
+    {
+      "name": "emperors_sword",
+      "type": "boolean"
+    },
+    {
+      "name": "wannies_glove",
+      "type": "boolean"
+    },
+    {
+      "name": "protopack",
+      "type": "boolean"
+    },
+    {
+      "name": "ferry_ticket",
+      "type": "boolean"
+    },
+    {
+      "name": "nitro_meca_penguin"
+    },
+    {
+      "name": "can_of_gazogem",
+      "type": "boolean"
+    },
+    {
+      "name": "dissidents_ring",
+      "type": "boolean"
+    },
+    {
+      "name": "gallic_acid",
+      "type": "boolean"
+    },
+    {
+      "name": "ferrymans_song",
+      "type": "boolean"
+    },
+    {
+      "name": "ring_of_lightning",
+      "type": "boolean"
+    },
+    {
+      "name": "customers_umbrella",
+      "type": "boolean"
+    },
+    {
+      "name": "gems"
+    },
+    {
+      "name": "horn_of_the_blue_triton",
+      "type": "boolean"
+    },
+    {
+      "name": "blowgun",
+      "type": "boolean"
+    },
+    {
+      "name": "memory_viewer",
+      "type": "boolean"
+    },
+    {
+      "name": "slice_of_tart",
+      "type": "boolean"
+    },
+    {
+      "name": "portable_radio",
+      "type": "boolean"
+    },
+    {
+      "name": "garden_balsam",
+      "type": "boolean"
+    },
+    {
+      "name": "magic_slate",
+      "type": "boolean"
+    },
+    {
+      "name": "translator",
+      "type": "boolean"
+    },
+    {
+      "name": "wizards_diploma",
+      "type": "boolean"
+    },
+    {
+      "name": "fragment_of_the_francos_or_dark_monk_key",
+      "type": "boolean"
+    },
+    {
+      "name": "fragment_of_the_sups",
+      "type": "boolean"
+    },
+    {
+      "name": "fragment_of_the_mosquibees",
+      "type": "boolean"
+    },
+    {
+      "name": "fragment_of_the_wannies",
+      "type": "boolean"
+    },
+    {
+      "name": "key_for_the_passage_to_cx",
+      "type": "boolean"
+    },
+    {
+      "name": "pick_ax",
+      "type": "boolean"
+    },
+    {
+      "name": "franco_burgermasters_key",
+      "type": "boolean"
+    },
+    {
+      "name": "franco_burgermasters_notes",
+      "type": "boolean"
+    },
+    {
+      "name": "protective_spell",
+      "type": "boolean"
+    },
+    {
+      "name": "zoe_status",
+      "type": "enum",
+      "enumValues": {
+        "0": "present",
+        "1": "exiting",
+        "2": "outside",
+        "3": "outside_for_a_while",
+        "4": "busy_outside",
+        "5": "reprimand_twinsen",
+        "6": "end_of_quarrel"
+      }
+    },
+    {
+      "name": "talked_to_dino",
+      "type": "boolean"
+    },
+    {
+      "name": "dino_cured",
+      "type": "boolean"
+    },
+    {
+      "name": "package_state",
+      "type": "enum",
+      "enumValues": {
+        "0": "first_room",
+        "1": "second_room",
+        "2": "upstairs"
+      }
+    },
+    {
+      "name": "waiter_in_cellar",
+      "type": "boolean"
+    },
+    {
+      "name": "grobo_bazoo_state",
+      "type": "enum",
+      "enumValues": {
+        "0": "present",
+        "1": "left_scared",
+        "2": "came_back"
+      }
+    },
+    {
+      "name": "stole_cash_register",
+      "type": "boolean"
+    },
+    null,
+    {
+      "name": "pharma_holomap_state",
+      "type": "enum",
+      "enumValues": {
+        "0": "nothing",
+        "1": "on_holomap",
+        "2": "removed_from_holomap"
+      }
+    },
+    {
+      "name": "baggage_claim_downstairs_door_opened",
+      "type": "boolean"
+    },
+    {
+      "name": "baggage_claim_package_state",
+      "type": "enum",
+      "enumValues": {
+        "0": "available_in_labyrinth",
+        "1": "collected_in_labyrinth",
+        "2": "broken_collected_and_exited_baggage_claim"
+      }
+    },
+    {
+      "name": "lighthouse_keeper",
+      "type": "enum",
+      "enumValues": {
+        "0": "nothing",
+        "1": "heard_of_him",
+        "2": "saw_him",
+        "3": "saved_him"
+      }
+    },
+    null,
+    {
+      "name": "tralus_cave_gate_opened",
+      "type": "boolean"
+    },
+    {
+      "name": "sewer_secret_room_state",
+      "type": "enum",
+      "enumValues": {
+        "0": "nothing",
+        "1": "examined_map",
+        "2": "map_revealed",
+        "3": "found_pyramid_shaped_key",
+        "4": "opened_room"
+      }
+    },
+    null,
+    {
+      "name": "clearing_up_the_rain",
+      "type": "enum",
+      "enumValues": {
+        "0": "no_clue",
+        "1": "solution_found",
+        "2": "not_yet",
+        "3": "way_to_lighthouse_with_zoe",
+        "4": "inside_the_lighthouse",
+        "5": "achieved"
+      }
+    },
+    {
+      "name": "dinofly_healer_state",
+      "type": "enum",
+      "enumValues": {
+        "0": "nothing",
+        "1": "umbrella_stolen",
+        "2": "got_umbrella",
+        "3": "go_see_desert_island_healing_wizard"
+      }
+    },
+    null,
+    {
+      "name": "twinsun_ferry_state",
+      "type": "enum",
+      "enumValues": {
+        "0": "nothing",
+        "1": "ticket_to_desert_island",
+        "3": "going_to_desert_island",
+        "4": "arrived_desert_island",
+        "5": "ticket_to_citadel_island",
+        "7": "going_to_citadel_island",
+        "8": "arrived_citadel_island"
+      }
+    },
+    {
+      "name": "freeing_raph_status",
+      "type": "enum",
+      "enumValues": {
+        "0": "nothing",
+        "1": "saw_tralu",
+        "2": "defeated_tralu",
+        "3": "freed_raph"
+      }
+    },
+    {
+      "name": "wizard_school_progress",
+      "type": "enum",
+      "enumValues": {
+        "0": "none",
+        "3": "joined_school",
+        "4": "got_blue_triton_horn",
+        "5": "got_slate",
+        "7": "you_are_a_wizard"
+      }
+    },
+    {
+      "name": "find_healing_wizard_state",
+      "type": "enum",
+      "enumValues": {
+        "0": "nothing",
+        "1": "wizard_on_desert_island",
+        "2": "find_magic_school",
+        "3": "found_school_of_magic"
+      }
+    },
+    {
+      "name": "blowgun_test_state",
+      "type": "enum",
+      "enumValues": {
+        "0": "nothing",
+        "1": "started",
+        "2": "passed"
+      }
+    },
+    null,
+    null,
+    {
+      "name": "sewer_map_state",
+      "type": "enum",
+      "enumValues": {
+        "0": "nothing",
+        "1": "gallic_acid_used",
+        "2": "map_examined"
+      }
+    },
+    null,
+    {
+      "name": "zoe_going_to_see_dinofly",
+      "type": "boolean"
+    },
+    null,
+    {
+      "name": "zeelish_arrived_on_citadel",
+      "type": "boolean"
+    },
+    {
+      "name": "scooter_transport_state",
+      "type": "enum",
+      "enumValues": {
+        "0": "none",
+        "1": "on_scooter",
+        "2": "scooter2"
+      }
+    },
+    {
+      "name": "school_attack_revenge",
+      "type": "enum",
+      "enumValues": {
+        "0": "none",
+        "1": "umbrella_thief",
+        "2": "bob",
+        "3": "quetch_big_brother",
+        "4": "umbrella_thief_and_bob",
+        "5": "umbrella_thief_and_quetch_big_brother",
+        "6": "bob_and_quetch_big_brother",
+        "7": "umbrella_thief_and_bob_and_quetch_big_brother"
+      }
+    },
+    null,
+    {
+      "name": "car_state",
+      "type": "enum",
+      "enumValues": {
+        "0": "broken",
+        "1": "got_part",
+        "2": "gave_part_to_zoe",
+        "3": "repaired"
+      }
+    },
+    null,
+    null,
+    {
+      "name": "bob_wander_state"
+    },
+    {
+      "name": "quetch_big_brother_spawned",
+      "type": "boolean"
+    },
+    null,
+    {
+      "name": "desert_island_peddler_location"
+    },
+    {
+      "name": "weather_wizard_disappeared",
+      "type": "boolean"
+    },
+    null,
+    {
+      "name": "zeelish_visits_state",
+      "type": "enum",
+      "enumValues": {
+        "0": "nothing",
+        "1": "captured",
+        "2": "landed_on_zeelish",
+        "3": "left_the_shuttle",
+        "4": "was_arrested",
+        "5": "evaded",
+        "6": "arriving_on_twinsun",
+        "7": "arrived_on_twinsun",
+        "8": "saw_zoe",
+        "9": "back_to_desert",
+        "10": "saw_magic_school_director",
+        "11": "captured_the_pearl"
+      }
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "moon_alarm_active",
+      "type": "boolean"
+    },
+    null,
+    null,
+    null,
+    {
+      "name": "dinofly_travel_state",
+      "type": "enum",
+      "enumValues": {
+        "0": "none",
+        "1": "on_citadel_island",
+        "2": "on_dome_of_the_slate",
+        "3": "on_desert_island",
+        "4": "on_island_across_from_hacienda",
+        "5": "fly_west",
+        "6": "fly_east"
+      }
+    },
+    {
+      "name": "read_note_from_weather_wizard",
+      "type": "boolean"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "boat_video_sequence"
+    },
+    {
+      "name": "in_wizard_robes",
+      "type": "boolean"
+    },
+    null,
+    {
+      "name": "read_temple_of_bu_ad",
+      "type": "boolean"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "petanque_sphero_cured",
+      "type": "boolean"
+    },
+    {
+      "name": "car_is_repaired",
+      "type": "boolean"
+    },
+    null,
+    {
+      "name": "seen_island_across_from_hacienda",
+      "type": "boolean"
+    },
+    null,
+    null,
+    {
+      "name": "dissidents_story_progress",
+      "type": "enum",
+      "enumValues": {
+        "0": "talk_to_souvenir_vendor",
+        "1": "reach_ortingal_harbor",
+        "2": "talk_to_rick",
+        "3": "talk_to_johnny_rocket",
+        "4": "deliver_dissidents_ring"
+      }
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "mosquibee_island_upper_exit_gem_found",
+      "type": "boolean"
+    },
+    {
+      "name": "volcano_island_ferryman_area_gem_bitmask",
+      "type": "enum",
+      "enumValues": {
+        "0": "none",
+        "1": "1",
+        "2": "2",
+        "3": "1,2"
+      }
+    },
+    {
+      "name": "volcano_island_cave_area_gem_bitmask",
+      "type": "enum",
+      "enumValues": {
+        "0": "none",
+        "1": "1",
+        "2": "2",
+        "3": "1,2",
+        "4": "3",
+        "5": "1,3",
+        "6": "1,2",
+        "7": "1,2,3"
+      }
+    },
+    {
+      "name": "volcano_island_cave_gem_found",
+      "type": "boolean"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "cx_to_mosquibee_elevator_direction",
+      "type": "enum",
+      "enumValues": {
+        "0": "mosquibee_to_cx",
+        "1": "cx_to_mosquibee"
+      }
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "in_ending_cutscene",
+      "type": "boolean"
+    },
+    {
+      "name": "spying_on_spacecraft",
+      "type": "boolean"
+    },
+    null,
+    {
+      "name": "emperor_has_launched_moon",
+      "type": "boolean"
+    },
+    {
+      "name": "joe_state",
+      "type": "enum",
+      "enumValues": {
+        "0": "trapped_in_tralu_cave",
+        "1": "stuck_as_a_mussel",
+        "2": "freed"
+      }
+    },
+    null,
+    null,
+    {
+      "name": "not_in_lupinbourg_statue_area",
+      "type": "boolean"
+    },
+    {
+      "name": "not_in_lupinbourg_landing_area",
+      "type": "boolean"
+    },
+    null,
+    null,
+    null,
+    {
+      "name": "collected_incandescent_pearl",
+      "type": "boolean"
+    },
+    null,
+    null,
+    null,
+    {
+      "name": "not_in_woodbridge",
+      "type": "boolean"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "sewer_cloverbox_collected",
+      "type": "boolean"
+    },
+    {
+      "name": "dome_cloverbox_collected",
+      "type": "boolean"
+    },
+    null,
+    null,
+    {
+      "name": "volcano_island_or_islandcx_corridor_cloverbox_collected",
+      "type": "boolean"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "transport_override",
+      "type": "boolean"
+    },
+    null,
+    null,
+    null,
+    {
+      "name": "chapter",
+      "type": "enum",
+      "enumValues": {
+        "1": "beginning",
+        "2": "twinsen_in_desert",
+        "3": "twinsen_on_otringal",
+        "4": "twinsen_back_to_twinsun",
+        "5": "twinsen_on_the_moon"
+      }
+    }
+  ]
+}

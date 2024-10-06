@@ -1,0 +1,32 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "Illumination1",
+    "Target1",
+    "Target2",
+    "Target3",
+    "Target4",
+    "Target5",
+    "Target6",
+    "Target7",
+    "Target8",
+    "Illumination2",
+    "Illumination3",
+    "Illumination4",
+    "Illumination5",
+    "Illumination6",
+    "Illumination7",
+    "Illumination8",
+    "DesertIslandPeddlerLocationHelper",
+    "Pointer",
+    "CloverBox",
+    "Hourglass"
+  ],
+  "zoneNames": [
+    "cam_room",
+    "pedestal",
+    "to_classroom",
+    "entrance"
+  ]
+}

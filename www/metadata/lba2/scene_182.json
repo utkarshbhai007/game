@@ -1,0 +1,19 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "ControlPanel",
+    "HiddenSpotPointer",
+    "Empress",
+    "Poodle"
+  ],
+  "zoneNames": [
+    "cam_upstairs",
+    "cam_downstairs",
+    "ladder",
+    "control_panel",
+    "to_island_cx",
+    "spacecraft_door",
+    "cam_entrance"
+  ]
+}

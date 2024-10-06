@@ -1,0 +1,16 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "Clerk",
+    "MrsBrune"
+  ],
+  "zoneNames": [
+    "cash_register",
+    "front_mrs_brune",
+    "to_harbour",
+    "cam_room",
+    "boxes",
+    "temple_of_bu_poster"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "Bruce",
+    "DesertIslandPeddlerLocationHelper",
+    "Dromedary",
+    "CactusAgent",
+    "TwinsensCar",
+    "Mine1",
+    "Mine2",
+    "Mine3",
+    "Mine4",
+    "Mine5",
+    "Mine6",
+    "Mine7",
+    "Mine8",
+    "Mine9",
+    "Mine10",
+    "Mine11",
+    "Mine12",
+    "Mine13"
+  ],
+  "zoneNames": [
+    "to_oasis",
+    "to_racetrack",
+    "to_graveyard",
+    "cactus1_bonus",
+    "cactus2_bonus",
+    "cactus3_bonus",
+    "cactus4_bonus",
+    "palm1",
+    "palm2",
+    "cactus2",
+    "cactus3",
+    "cactus1",
+    "cactus4"
+  ]
+}

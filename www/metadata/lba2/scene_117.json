@@ -1,0 +1,24 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "StainedGlassPointer1",
+    "StainedGlassPointer2",
+    "StainedGlassPointer3",
+    "StainedGlassPointer4",
+    "WanniesFragment",
+    "SpiderWeb",
+    "PickWannieMiner1",
+    "CaneDevoteWannie",
+    "PickWannieMiner2",
+    null,
+    "Pointer"
+  ],
+  "zoneNames": [
+    "to_outside",
+    "sacred_water1",
+    "sacred_water2",
+    "sacred_pillar1",
+    "sacred_pillar2"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "FrancoLaserGuard1",
+    "FrancoLaserGuard2",
+    null,
+    null,
+    "Door1",
+    "Door2",
+    "Door3",
+    "Hussar"
+  ],
+  "zoneNames": [
+    "to_bottom_left1",
+    "to_left_corner",
+    "to_middle1",
+    "cam_room"
+  ]
+}

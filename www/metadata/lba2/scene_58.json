@@ -1,0 +1,15 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "DesertIslandPeddlerLocationHelper",
+    "TwinsensCar",
+    "DesertRose"
+  ],
+  "zoneNames": [
+    "to_racetrack",
+    "to_behind_temple2",
+    "palm1",
+    "palm2"
+  ]
+}

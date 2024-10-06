@@ -1,0 +1,17 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "Clerk",
+    "Pointer",
+    "EsmerSpy"
+  ],
+  "zoneNames": [
+    "to_town_square",
+    "cam_counter_section",
+    "cam_resting_section",
+    "counter",
+    "golden_pot",
+    "central_zone"
+  ]
+}

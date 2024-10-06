@@ -1,0 +1,15 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "SupAgent1",
+    "SupAgent2",
+    "ClumsyFranco",
+    "SpyingMachine"
+  ],
+  "zoneNames": [
+    "to_hotel",
+    "cam_room",
+    "chair"
+  ]
+}

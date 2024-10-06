@@ -1,0 +1,34 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "Neighbour",
+    "Pointer",
+    "Map"
+  ],
+  "zoneNames": [
+    "room_cam",
+    "door",
+    "desk",
+    "paper_rolls",
+    "library"
+  ],
+  "varcubes": [
+    {
+      "name": "speaking_to_neighbour",
+      "type": "boolean"
+    },
+    {
+      "name": "said_hello",
+      "type": "boolean"
+    },
+    {
+      "name": "neighbour_speaking",
+      "type": "boolean"
+    },
+    {
+      "name": "looking_at_map",
+      "type": "boolean"
+    }
+  ]
+}

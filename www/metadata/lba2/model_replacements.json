@@ -1,0 +1,61 @@
+{
+    "sprites": {
+        "0": {
+            "file": "clover_box.glb"
+        },
+        "422": {
+            "file": "blue_star.glb",
+            "fx": "glow"
+        },
+        "423": {
+            "file": "blue_star.glb",
+            "fx": "glow"
+        },
+        "424": {
+            "file": "blue_star.glb",
+            "fx": "glow"
+        },
+        "144": {
+            "file": "ground_light.glb"
+        },
+        "137": {
+            "file": "magic_chest_lid.glb"
+        },
+        "329": {
+            "file": "round_funny_chest_lid.glb"
+        },
+		"231": {
+			"file": "surveillance_button_off.glb"
+		},
+		"232": {
+			"file": "surveillance_button_on.glb"
+		},
+		"122": {
+			"file": "surveillance_lever_off.glb"
+		},
+		"123": {
+			"file": "surveillance_lever_on.glb"
+		},
+        "228": {
+			"hide": true
+		},
+        "229": {
+			"hide": true
+		},
+        "230": {
+			"hide": true
+		},
+        "281": {
+            "file": "huge_zlitos_deco.glb"
+        },
+        "277": {
+            "file": "casino_entrance_cord.glb"
+        },
+        "266": {
+            "file": "casino_entrance_elevator.glb"
+        },
+        "331": {
+            "file": "bookshelf_hidden_entrance.glb"
+        }
+    }
+}

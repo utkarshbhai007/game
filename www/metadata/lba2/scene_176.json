@@ -1,0 +1,15 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "WoodenElevator",
+    "OliveItem1",
+    "OliveItem2"
+  ],
+  "zoneNames": [
+    "to_queen_throne_room",
+    "ladder",
+    "supplies",
+    "to_island_cx"
+  ]
+}

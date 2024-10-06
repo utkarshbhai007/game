@@ -1,0 +1,18 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "KeraoocsHousekeeper",
+    "Candle1",
+    "Candle2",
+    "GallicAcid"
+  ],
+  "zoneNames": [
+    "room_center",
+    "golden_pot",
+    "cam_room",
+    "to_town_square",
+    "shelf",
+    "candle"
+  ]
+}

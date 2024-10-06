@@ -1,0 +1,24 @@
+{
+  "actorNames": [
+    null,
+    null,
+    "Target",
+    "MagicBall",
+    "FunFrockStatue",
+    "Radio",
+    "Candle",
+    "Holomap",
+    "Darts"
+  ],
+  "zoneNames": [
+    "door",
+    "radio",
+    "boxes",
+    "darts",
+    "holomap",
+    "magicball",
+    "dino_portrait",
+    "prophecy",
+    "funfrock_statue"
+  ]
+}
