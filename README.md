@@ -67,18 +67,3 @@ There is a compreensive list of things [TODO](TODO.md) so feel free to pick one 
 * Fire up your browser at page http://localhost:8080
 * Enjoy!
 
-
-## Community
-
-* [Discord](https://discord.gg/jsTPWYXHsh)
-* [Discord 2.21](https://discord.gg/2xCu5Wag)
-* [Discord Speedrun](https://discord.gg/PdKVPbPF)
-* [MBN forum](https://forum.magicball.net/showthread.php?t=18208)
-* Reddit: [r/linux_gaming](https://www.reddit.com/r/linux_gaming/comments/8049mn/a_little_big_adventure_2_twinsens_odyssey/) or [r/gamedev](https://www.reddit.com/r/gamedev/comments/80cn9u/open_source_reimplementation_of_little_big/)
-* [Facebook](https://www.facebook.com/groups/twinsen/permalink/1565479966839300/)
-
-
-## License
-
-While the original Little Big Adventure 2 game executable, assets and intellectual property belong to [2.21], the code within this project is released under the [MIT License](LICENSE).
-That being said, if you do anything interesting with this code, please let us know, we'd love to see it!
