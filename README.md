@@ -1,12 +1,4 @@
 
-
-## Videos
-
-* [Presenting the v0.5 update (2021)](https://www.youtube.com/watch?v=Ifa4C_R9pQc)
-* [DXDeus Playthrough v0.5 (2021)](https://youtu.be/NvR5dS7ywdk)
-* [Presenting the v0.4 update (2020)](https://www.youtube.com/watch?v=cZDVVcCLeY0)
-* [Introducing the project (2020)](https://www.youtube.com/watch?v=6bAzSgZ0nD0)
-
 ## Vision / Goals
 
 #### Phase 1: Reimplement the LBA1 and LBA2 game engine
@@ -49,7 +41,6 @@ There is a compreensive list of things [TODO](TODO.md) so feel free to pick one 
 
 (**[more details here](doc/getting_started.md)**)
 
-* Make sure you own a copy of the original game: [itch.io](https://itch.io/s/61876/adeline-software-collection), [GOG](https://www.gog.com/game/little_big_adventure_2) or [Steam](http://store.steampowered.com/app/398000/Little_Big_Adventure_2/)
 * Download [Node.js LTS](https://nodejs.org) (if you already have node.js installed, make sure it is a recent version: `>= 9.x.x`)
 * Clone the Git project and go to the root project folder in PowerShell on Windows or Terminal on Mac for the next commands.
 * Run `npm install`
