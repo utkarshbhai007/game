@@ -1,53 +1,81 @@
+# LBA1 & LBA2 Remake
+
+A Little Big Adventure 1 & 2 (*Twinsen's Adventure* / *Twinsen's Odyssey*) reimplementation in TypeScript, Three.js, and React.
 
 ## Vision / Goals
 
 #### Phase 1: Reimplement the LBA1 and LBA2 game engine
-  * Should look and play like the original
-  * Full re-engineering instead of dissassembly-based approach
-  * Focus on code quality, make it easy to read and modify
+* Should look and play like the original
+* Full re-engineering instead of disassembly-based approach
+* Focus on code quality, easy to read and modify
 
-#### Phase 2: Make a HD version of the game
-  * Improve graphics and gameplay in a way that preserves the original look & feel
-  * More of a remastered version than a remake
-  * Support more platforms and ways of playing (ex: VR & Mobile)
+#### Phase 2: Make an HD version of the game
+* Improve graphics and gameplay in a way that preserves the original look & feel
+* More of a remastered version than a remake
+* Support more platforms and ways of playing (e.g., VR & Mobile)
 
-#### Phase 3: Become a platform for modding and action/adventure game development
-  * Progressively add tools to the editor to support mods
-  * Have all tools grouped in a single integrated platform
+#### Phase 3: Platform for modding and action/adventure game development
+* Progressively add tools to the editor to support mods
+* Have all tools grouped in a single integrated platform
 
+---
 
 ## Status
 
 Currently you can walk around every island and buildings of the original game.
-Most of the graphic elements are implemented and part of the gameplay. It is not however completable at this point.
+Most of the graphic elements are implemented and part of the gameplay.
 
 ![LBA1 Game Screenshot](doc/images/screenshot_game_lba1.png)
 ![LBA2 Game Screenshot](doc/images/screenshot_game.jpeg)
 
-The editor mode allows navigating around the game scenes, inspecting scene content and variables, inspecting the game engine internal variables and debugging scripts (you can set breakpoints on actor scripts).
+The editor mode allows navigating around the game scenes, inspecting scene content and variables, inspecting game engine internal variables, and debugging scripts (including breakpoints on actor scripts).
 
 ![Editor screenshot](doc/images/screenshot_editor.jpeg)
 
-For more information, check the [FAQ](doc/FAQ.md).
+For more information, check the [FAQ](doc/FAQ.md) and [Architecture Guide](doc/architecture.md).
 
-## Contributing
+---
 
-Any help is very much appreciated!
-Check the [How to Contribute](CONTRIBUTING.md) guide to know how to do that.
-A list of current and past contributors can be found [here](AUTHORS.md).
-There is a compreensive list of things [TODO](TODO.md) so feel free to pick one you like and start working on it.
+## Getting Started
 
-## Getting started
+*(For full details, see [Getting Started](doc/getting_started.md))*
 
-(**[more details here](doc/getting_started.md)**)
+### Prerequisites
+* [Node.js](https://nodejs.org) (v18+ LTS recommended)
+* A copy of the original Little Big Adventure 2 game files (from GOG, Steam, or original CD).
 
-* Download [Node.js LTS](https://nodejs.org) (if you already have node.js installed, make sure it is a recent version: `>= 9.x.x`)
-* Clone the Git project and go to the root project folder in PowerShell on Windows or Terminal on Mac for the next commands.
-* Run `npm install`
-* Run `npm run import:win "<original game folder>"` on Windows or `npm run import "<original game folder>"` on Mac OS
-  * Example Windows: `npm run import:win "c:\Games\Little Big Adventure 2"`
-  * Example Mac OS: `npm run import /Applications/Little\ Big\ Adventure\ 2\ \(Twinsen\'s\ Odyssey\).app/`
-* Run `npm run dev`
-* Fire up your browser at page http://localhost:8080
-* Enjoy!
+### Quick Setup
 
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/utkarshbhai007/game.git
+   cd game
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Import original game assets:**
+   * **Windows (PowerShell):**
+     ```powershell
+     npm run import:win "C:\Games\Little Big Adventure 2"
+     ```
+   * **macOS / Linux:**
+     ```bash
+     npm run import "/Applications/Little Big Adventure 2 (Twinsen's Odyssey).app/"
+     ```
+
+4. **Start the local dev server:**
+   ```bash
+   npm run dev
+   ```
+
+5. Open [http://localhost:8080](http://localhost:8080) in your web browser.
+
+---
+
+## License & Disclaimer
+
+While the original Little Big Adventure game executables, assets, and intellectual property belong to Studio [2.21], the code within this reimplementation project is released under the [MIT License](package.json).
