@@ -6,7 +6,10 @@ import UIWrapper from './ui/UIWrapper';
 
 window.onload = () => {
     init();
-    document.body.removeChild(document.getElementById('preload'));
+    const preload = document.getElementById('preload');
+    if (preload && preload.parentNode) {
+        preload.parentNode.removeChild(preload);
+    }
 };
 
 window.onerror = (message, file, line, column, data) => {

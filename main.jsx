@@ -12,7 +12,9 @@ module.exports = ({scriptTag, script, crashReportUrl}) => (<html lang="en">
         <link rel="stylesheet" href="layout.css"/>
         <title>LBA2</title>
         <script dangerouslySetInnerHTML={{__html: `window.crashReportUrl="${crashReportUrl}";`}} />
-        <script dangerouslySetInnerHTML={{__html: `const s=document.createElement('script');s.type='text/javascript';s.src='${scriptTag}';document.head.appendChild(s);` }} />
+        {scriptTag ? (
+            <script dangerouslySetInnerHTML={{__html: `const s=document.createElement('script');s.type='text/javascript';s.src='${scriptTag}';document.head.appendChild(s);` }} />
+        ) : null}
         <script dangerouslySetInnerHTML={{__html: script || 'window.gtag=function(){}'}} />
     </head>
     <body>
