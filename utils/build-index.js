@@ -8,7 +8,13 @@ const fs = require('fs');
 const React = require('react');
 const { renderToStaticMarkup } = require('react-dom/server');
 const Main = require(`../main.jsx`);
-const config = require('../.build-config.js');
+let config = {};
+try {
+    config = require('../.build-config.js');
+} catch (e) {
+    // Fall back to empty config if .build-config.js does not exist
+    config = {};
+}
 
 const analytics = config.googleAnalyticsProperty;
 const gtagScript = analytics && `https://www.googletagmanager.com/gtag/js?id=${analytics}`;

@@ -13,7 +13,7 @@ declare global {
 }
 
 export function sendCrashReport(error) {
-    if (sent_report)
+    if (sent_report || !window.crashReportUrl)
         return;
 
     const request = new XMLHttpRequest();

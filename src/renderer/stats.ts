@@ -25,7 +25,7 @@ export default class StatsHandler {
 export function switchStats() {
     if (stats) {
         const elem = document.getElementById('stats');
-        if (elem) {
+        if (elem && elem.contains(stats.widgets[0].domElement)) {
             elem.removeChild(stats.widgets[0].domElement);
         }
         stats = null;

@@ -130,7 +130,7 @@ export default class Game {
     }
 
     resetControlsState() {
-        this.controlsState.controlVector.set(0, 0),
+        this.controlsState.controlVector.set(0, 0);
         this.controlsState.action = 0;
         this.controlsState.jump = 0;
         this.controlsState.fight = 0;

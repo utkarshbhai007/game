@@ -56,19 +56,17 @@ module.exports = {
                 }
             ]
         }, {
-            test: /\.glsl?$/,
+            test: /\.glsl$/,
             exclude: /node_modules/,
             use: [{
                 loader: 'glsl-custom-loader'
             }]
         }, {
-            test: /\.md?$/,
+            test: /\.md$/,
             exclude: /node_modules/,
-            use: [{
-                loader: 'raw-loader'
-            }]
+            type: 'asset/source'
         }, {
-            test: /\.yaml?$/,
+            test: /\.ya?ml$/,
             exclude: /node_modules/,
             use: [{
                 loader: 'yml-loader'
